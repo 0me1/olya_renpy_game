@@ -1,0 +1,2 @@
+6ba3272dfee0bb345793827d57e8f1d855131089ee121b3618d705cdd801ef64  V_Poryadke_Perevoda-0.2.0-pc.zip
+aca36bba9c401e0590b106a87f67c822d6f444538dbdadf3d45b3e458916da50  olya_renpy_game-0.2.0-source.zip
