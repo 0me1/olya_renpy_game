@@ -1,0 +1,14 @@
+*.rpyc
+*.rpyb
+**/cache/
+**/saves/
+log.txt
+traceback.txt
+errors.txt
+*.log
+*.zip
+*.tar.bz2
+*-dists/
+game/test_results/
+game/test_screenshots/
+.test-runs/

@@ -1,0 +1,15 @@
+transform left_actor:
+    xalign 0.17
+    yanchor 1.0
+    ypos 0.77
+    zoom 0.49
+transform right_actor:
+    xalign 0.83
+    yanchor 1.0
+    ypos 0.77
+    zoom 0.49
+transform center_actor:
+    xalign 0.5
+    yanchor 1.0
+    ypos 0.77
+    zoom 0.49

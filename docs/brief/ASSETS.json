@@ -1,0 +1,692 @@
+{
+  "images": [
+    {
+      "path": "game/images/backgrounds/office_day.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/office_evening.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/wisteria_street.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/wisteria_kitchen.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/manhattan_street.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/manhattan_bar.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/southpark_street.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/southpark_school.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/minecraft_clearing.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/minecraft_house.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/sims_home.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/sims_pool.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/marvel_rooftop.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/backgrounds/marvel_hall.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/office/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/office/angry.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/office/skeptical.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/office/happy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/office/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/office/sleepy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/housewives/pie.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/housewives/gossip.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/housewives/angry.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/housewives/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/housewives/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/housewives/thinking.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/housewives/relief.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/manhattan/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/manhattan/ironic.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/manhattan/happy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/manhattan/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/southpark/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/southpark/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/southpark/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/southpark/angry.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/minecraft/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/minecraft/pickaxe.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/minecraft/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/sims/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/sims/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/sims/happy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/sims/panic.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/marvel/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/marvel/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/marvel/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/olya/marvel/power.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/cast/susan/base.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/cast/bree/base.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    },
+    {
+      "path": "game/images/cast/gabrielle/base.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "status": "generated_draft",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "192-color indexed PNG; dimensions unchanged; reduced color and alpha precision"
+    }
+  ],
+  "ui_png_count": 65,
+  "note": "Original draft images, no real RenPy project yet"
+}
