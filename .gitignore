@@ -12,3 +12,5 @@ errors.txt
 game/test_results/
 game/test_screenshots/
 .test-runs/
+tests/screenshots/
+tests/results/

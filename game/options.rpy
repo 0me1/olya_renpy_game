@@ -1,6 +1,8 @@
 init -2 python:
     gui.init(1920, 1080)
 
+define config.check_conflicting_properties = True
+
 define config.name = "В порядке перевода"
 define config.version = "0.1.0"
 define config.save_directory = "olya-v-poryadke-perevoda"
@@ -22,6 +24,10 @@ init python:
     build.classify('tests/**', None)
     build.classify('**.md', None)
     build.classify('**.log', None)
+    build.classify('game/*_tests.rpy', None)
+    build.classify('game/test_support.rpy', None)
+    build.classify('AGENTS.md', None)
+    build.classify('tests/**', None)
     build.classify('game/test_results/**', None)
     build.classify('game/test_screenshots/**', None)
 
@@ -53,3 +59,21 @@ style scrollbar:
     base_bar Solid("#354452")
     thumb Solid("#d2938f")
 style slider is bar
+
+init 10 python:
+    _confirm_ru = {
+        "ARE_YOU_SURE": "Подтвердить действие?",
+        "DELETE_SAVE": "Удалить это сохранение?",
+        "OVERWRITE_SAVE": "Перезаписать это сохранение?",
+        "LOADING": "Загрузить игру? Несохраненный прогресс будет потерян.",
+        "QUIT": "Выйти из игры?",
+        "MAIN_MENU": "Вернуться в главное меню? Несохраненный прогресс будет потерян.",
+        "CONTINUE": "Продолжить с последнего сохранения?",
+        "END_REPLAY": "Закончить просмотр эпилога?",
+        "SLOW_SKIP": "Начать пропуск прочитанного текста?",
+        "FAST_SKIP_SEEN": "Перейти к следующему выбору?",
+        "FAST_SKIP_UNSEEN": "Пропустить непрочитанный текст до следующего выбора?",
+    }
+    for _key, _value in _confirm_ru.items():
+        setattr(layout, _key, _value)
+        setattr(gui, _key, _value)

@@ -72,10 +72,18 @@ screen menu_shell(title):
     add Transform("images/backgrounds/office_evening.png", xysize=(1920, 1080), fit="cover", alpha=0.17)
     text title xpos 100 ypos 65 size 56 color "#f3cfab"
     hbox:
+        xalign 0.95 ypos 80 spacing 12
+        for caption, destination in [("Сохранить", "save"), ("Загрузить", "load"), ("Настройки", "preferences"), ("Коллекция", "gallery")]:
+            textbutton caption:
+                action ShowMenu(destination)
+                sensitive not (main_menu and destination == "save")
+                text_size 24
+                padding (18, 12)
+    hbox:
         xpos 100 ypos 970 spacing 20
         if not main_menu:
             textbutton "Продолжить" action Return()
-        textbutton "Главное меню" action MainMenu()
+        textbutton "Главное меню" action (ShowMenu("main_menu") if main_menu else MainMenu())
         textbutton "Управление" action ShowMenu("help")
     transclude
 
