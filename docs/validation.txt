@@ -1,0 +1,163 @@
+PASS: 49 scene PNGs; 65 UI PNGs; 10 labels; all static jump/call targets exist; Russian spelling and portable paths checked.
+﻿Ren'Py 8.5.3.26051504 lint report, generated at: Mon Nov  2 18:38:16 2026
+
+
+Statistics:
+
+The game contains 387 dialogue blocks, containing 6,865 words and 46,030
+characters, for an average of 17.7 words and 119 characters per block.
+
+The game contains 22 menus, 49 images, and 17 screens.
+
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.
+[rpytest] [log] Running 1 test(s) marked with 'only' flag.
+[rpytest] [log] - global.routes
+
+[rpytest] Starting test run
+[rpytest] Platform:      Linux-6.18.57-x86_64-with-glibc2.41
+[rpytest] Python:        3.12.8
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.1.0
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + routes
+[rpytest] [exc]     - home_0
+[rpytest] [exc]     - home_0 (9.390 s)
+[rpytest] [exc]     - home_1
+[rpytest] [exc]     - home_1 (8.975 s)
+[rpytest] [exc]     - home_2
+[rpytest] [exc]     - home_2 (8.419 s)
+[rpytest] [exc]     - stay_housewives
+[rpytest] [exc]     - stay_housewives (2.240 s)
+[rpytest] [exc]     - stay_manhattan
+[rpytest] [exc]     - stay_manhattan (3.609 s)
+[rpytest] [exc]     - stay_southpark
+[rpytest] [exc]     - stay_southpark (4.863 s)
+[rpytest] [exc]     - stay_minecraft
+[rpytest] [exc]     - stay_minecraft (6.068 s)
+[rpytest] [exc]     - stay_sims
+[rpytest] [exc]     - stay_sims (7.012 s)
+[rpytest] [exc]     - stay_marvel
+[rpytest] [exc]     - stay_marvel (8.191 s)
+[rpytest] [exc]     - return_housewives
+[rpytest] [exc]     - return_housewives (8.354 s)
+[rpytest] [exc]     - return_manhattan
+[rpytest] [exc]     - return_manhattan (8.274 s)
+[rpytest] [exc]     - return_southpark
+[rpytest] [exc]     - return_southpark (7.903 s)
+[rpytest] [exc]     - return_minecraft
+[rpytest] [exc]     - return_minecraft (7.998 s)
+[rpytest] [exc]     - return_sims
+[rpytest] [exc]     - return_sims (8.508 s)
+[rpytest] [exc]     - return_marvel
+[rpytest] [exc]     - return_marvel (8.273 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     4 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     2 skipped |     0 not run
+[rpytest] Test cases :    43 |    15 passed |     0 xfailed |     0 failed |     0 xpassed |    28 skipped |     0 not run
+[rpytest] Test hooks :    16 |    16 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :   117 |   117 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 111.071 s [01:51]
+[rpytest] Status: PASSED 
+
+[rpytest] [log] Running 1 test(s) marked with 'only' flag.
+[rpytest] [log] - global.interface
+
+[rpytest] Starting test run
+[rpytest] Platform:      Linux-6.18.57-x86_64-with-glibc2.41
+[rpytest] Python:        3.12.8
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.1.0
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + interface
+[rpytest] [exc]     - themes(world='office')
+[rpytest] [exc]     - themes(world='office') (1.565 s)
+[rpytest] [exc]     - themes(world='housewives')
+[rpytest] [exc]     - themes(world='housewives') (1.479 s)
+[rpytest] [exc]     - themes(world='manhattan')
+[rpytest] [exc]     - themes(world='manhattan') (1.723 s)
+[rpytest] [exc]     - themes(world='southpark')
+[rpytest] [exc]     - themes(world='southpark') (1.728 s)
+[rpytest] [exc]     - themes(world='minecraft')
+[rpytest] [exc]     - themes(world='minecraft') (1.547 s)
+[rpytest] [exc]     - themes(world='sims')
+[rpytest] [exc]     - themes(world='sims') (1.620 s)
+[rpytest] [exc]     - themes(world='marvel')
+[rpytest] [exc]     - themes(world='marvel') (1.729 s)
+[rpytest] [exc]     - menus
+[rpytest] [exc]     - menus (1.854 s)
+[rpytest] [exc]     - new_game
+[rpytest] [exc]     - new_game (0.587 s)
+[rpytest] [exc]     - gallery_replay(ending='stay_housewives')
+[rpytest] [exc]     - gallery_replay(ending='stay_housewives') (0.755 s)
+[rpytest] [exc]     - gallery_replay(ending='stay_manhattan')
+[rpytest] [exc]     - gallery_replay(ending='stay_manhattan') (0.689 s)
+[rpytest] [exc]     - gallery_replay(ending='stay_southpark')
+[rpytest] [exc]     - gallery_replay(ending='stay_southpark') (0.668 s)
+[rpytest] [exc]     - gallery_replay(ending='stay_minecraft')
+[rpytest] [exc]     - gallery_replay(ending='stay_minecraft') (0.640 s)
+[rpytest] [exc]     - gallery_replay(ending='stay_sims')
+[rpytest] [exc]     - gallery_replay(ending='stay_sims') (0.680 s)
+[rpytest] [exc]     - gallery_replay(ending='stay_marvel')
+[rpytest] [exc]     - gallery_replay(ending='stay_marvel') (0.671 s)
+[rpytest] [exc]     - gallery_replay(ending='home')
+[rpytest] [exc]     - gallery_replay(ending='home') (0.773 s)
+[rpytest] [exc]     - gallery_replay(ending='open_door')
+[rpytest] [exc]     - gallery_replay(ending='open_door') (0.628 s)
+[rpytest] [exc]     - save_transition
+[rpytest] [exc]     - save_transition (1.663 s)
+[rpytest] [exc]     - gallery_without_game(ending='stay_housewives')
+[rpytest] [exc]     - gallery_without_game(ending='stay_housewives') (0.370 s)
+[rpytest] [exc]     - gallery_without_game(ending='stay_manhattan')
+[rpytest] [exc]     - gallery_without_game(ending='stay_manhattan') (0.391 s)
+[rpytest] [exc]     - gallery_without_game(ending='stay_southpark')
+[rpytest] [exc]     - gallery_without_game(ending='stay_southpark') (0.388 s)
+[rpytest] [exc]     - gallery_without_game(ending='stay_minecraft')
+[rpytest] [exc]     - gallery_without_game(ending='stay_minecraft') (0.361 s)
+[rpytest] [exc]     - gallery_without_game(ending='stay_sims')
+[rpytest] [exc]     - gallery_without_game(ending='stay_sims') (0.342 s)
+[rpytest] [exc]     - gallery_without_game(ending='stay_marvel')
+[rpytest] [exc]     - gallery_without_game(ending='stay_marvel') (0.337 s)
+[rpytest] [exc]     - gallery_without_game(ending='home')
+[rpytest] [exc]     - gallery_without_game(ending='home') (0.421 s)
+[rpytest] [exc]     - gallery_without_game(ending='open_door')
+[rpytest] [exc]     - gallery_without_game(ending='open_door') (0.323 s)
+[rpytest] [exc]     - first_chapter_cast
+[rpytest] [exc]     - first_chapter_cast (1.222 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     4 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     2 skipped |     0 not run
+[rpytest] Test cases :    43 |    27 passed |     0 xfailed |     0 failed |     0 xpassed |    16 skipped |     0 not run
+[rpytest] Test hooks :    28 |    28 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :   131 |   131 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 28.980 s
+[rpytest] Status: PASSED 
+
+[rpytest] [log] Running 1 test(s) marked with 'only' flag.
+[rpytest] [log] - global.layout
+
+[rpytest] Starting test run
+[rpytest] Platform:      Linux-6.18.57-x86_64-with-glibc2.41
+[rpytest] Python:        3.12.8
+[rpytest] Ren'Py:        Ren'Py 8.5.3.26051504
+[rpytest] Game Version:  0.1.0
+
+[rpytest] [exc] + global
+[rpytest] [exc]   + layout
+[rpytest] [exc]     - dialogue
+[rpytest] [exc]     - dialogue (0.241 s)
+
+[rpytest] Test outcomes (Summary)
+[rpytest] Test suites:     4 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     2 skipped |     0 not run
+[rpytest] Test cases :    43 |     1 passed |     0 xfailed |     0 failed |     0 xpassed |    42 skipped |     0 not run
+[rpytest] Test hooks :     2 |     2 passed |     0 xfailed |     0 failed |     0 xpassed |     0 skipped |     0 not run
+[rpytest] Assertions :     2 |     2 passed |     0 xfailed |     0 failed |     0 xpassed | 
+
+[rpytest] Time: 0.782 s
+[rpytest] Status: PASSED 
+
