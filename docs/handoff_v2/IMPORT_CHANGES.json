@@ -1,0 +1,536 @@
+[
+  {
+    "path": "game/images/backgrounds/birthday_home.png",
+    "previous_sha256": null,
+    "sha256": "e71944b00810e6fc190a3680f9bc7b3e64d7f2eda29d3b1c38276111dbe214c6",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/backgrounds/manhattan_bar.png",
+    "previous_sha256": "51a696b29b183c36655681ae39e8a1cea7884dfbb8c3ba298525ab7749b95d0d",
+    "sha256": "175d296c7c849d787c96b185d0a84e08f98f52a4e9206b7014199447913432c1",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/manhattan_street.png",
+    "previous_sha256": "aa8a415723551bf861fd301577e7831988c1c1e895e3357916ff455b99945e21",
+    "sha256": "0a1d75b450d85cf94585bbbb9822947bf66bc8d1499043afae8c7516ed603d04",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/marvel_hall.png",
+    "previous_sha256": "3cc79f6babeafce75cdc5144a776966006e28643d899e9b09c13e56b739418e6",
+    "sha256": "e8317dbdd6b8781030b6fe8591c13a9db8aa56772b035879eb676fa97074d893",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/marvel_rooftop.png",
+    "previous_sha256": "e712498d7137a8961b798a775118638c24e8a145c198a9ff06f2da08d31ad9c1",
+    "sha256": "e34e73be9d61eee90a003e7b4180ae50611a1c8188d0b0939e9045b0473e8bfe",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/minecraft_clearing.png",
+    "previous_sha256": "59d671a64b1fed6123c002f3c2d1afaee900b5d62c56e712e6c0f658be5fb3ad",
+    "sha256": "5621eb8e54dcb7aa6f573044f107bdd23db428aa91202c13967eb11f21e76cb9",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/minecraft_house.png",
+    "previous_sha256": "5771c6b0c78268d3d3cf42ea0e062071ce353285f9174c2f69376031a5fe32f5",
+    "sha256": "18f499a3843446a72c3c0428b254daf0ac60005353ae14d5d0b0b0c889dd583b",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/office_day.png",
+    "previous_sha256": "e0d98db7143ecef165c678fca2bfa3534af42789954a9f53294a73db63b53a83",
+    "sha256": "642d78e40568f284ba304d3370ad9b799323df1a90ca39e602dbb137dda36f64",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/office_evening.png",
+    "previous_sha256": "240c506ad39aba53829a0865bd77260d3fdd0f7870b94295e1bed0309f7a0be5",
+    "sha256": "abc6a1a6a195203cefbc0fe9978b3093fe57f2578ca0335475fd0b30cbeaf10a",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/sims_home.png",
+    "previous_sha256": "b66ac262792024bc3a6142de5ec8bf450b14d27b72ceb2785182203375742833",
+    "sha256": "6e18eecdc119c6633fb1bce853b1ce60a351bc2e16246481913ddaff5cfb51b3",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/sims_pool.png",
+    "previous_sha256": "dde9f2a5e610d25931c5dec8b926a884c1bbc8765a6d6e1f94522740cb91bf4f",
+    "sha256": "495d93b9af12df73d0f4d7d544cd8c8baea81ba1f56b92ef827e3c78f8217be9",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/southpark_school.png",
+    "previous_sha256": "5541ad7b4a4a319022ac72ef2f4b5a61e3f4313029afe6600d4893db2880468d",
+    "sha256": "d7be7565f9f568b03b46fbf2f11f6fa68808581d7aa3d3bc80d12cbe6a180f00",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/southpark_street.png",
+    "previous_sha256": "aa4e220d985e6f3a5ba9c17acd041943417b51d3626bde52475a38c24e1629ed",
+    "sha256": "c36dcaee22d76dc99ae1891fcf197c1531143b2a552f770bf886145dc76e001c",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/wisteria_kitchen.png",
+    "previous_sha256": "0366622660e1c223438ecc8b9b996a593476c20d48a2d9d4061fa982d72ef721",
+    "sha256": "3e0f2692fb0691244bfe71f538c4501ce84135311259690d0e74f3ccaa678f87",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/backgrounds/wisteria_street.png",
+    "previous_sha256": "b87353e5ef1bdf2912903759da4a20282498e81627caf92bc042fb69f5f6267e",
+    "sha256": "3973bdbe2271f08f1b2cf4cc5f5b1517069f230a79b179301e5a274fb7483828",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/cast/bella/greeting.png",
+    "previous_sha256": null,
+    "sha256": "1a488a6101c77f5b34b83925f31b89f77fb7901567131dd3e912285d8739a5ac",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/bella/supportive.png",
+    "previous_sha256": null,
+    "sha256": "0ec379737ec514f3f0aef5655fbd03f0a30711e66d25273ac799aaccc5ef3f73",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/bella/suspicious.png",
+    "previous_sha256": null,
+    "sha256": "d7d1acf67f07206dc44fdcf4478a03061676057b582a4d1ba9b539c4ed7d8e38",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/bree/approving.png",
+    "previous_sha256": null,
+    "sha256": "dff95cf91679687cc4ef5cce9fd194661e6a6037b04a5430cd1326f4200728c8",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/bree/base.png",
+    "previous_sha256": "568314f703c3350173fd8b1e0a70de509f6124da92de8af7729b5bbaa3ff925b",
+    "sha256": "8ccdb67f802ac5b9add95a231166b6a1967469b8749125c56947c12d08b2182c",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/cast/bree/strict.png",
+    "previous_sha256": null,
+    "sha256": "6558b066f62d39aeb21ef34fd442f7f7a16f7139860822b5f251f4b0de3eea8c",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/bree/surprised.png",
+    "previous_sha256": null,
+    "sha256": "0e0452ddf124fea90e66bec8b2b453b76fe807a90c95f041bd01fb6c29477afb",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/carrie/explaining.png",
+    "previous_sha256": null,
+    "sha256": "9cc72eabe3bd7d778f71e846ff8d9b3ff8033179fb10a53dcf35123265922214",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/carrie/greeting.png",
+    "previous_sha256": null,
+    "sha256": "e7d1d744f1fce91ed11c183e199635f312b883a8958dca0c5decce8f04d22199",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/carrie/laugh.png",
+    "previous_sha256": null,
+    "sha256": "937b67cea4e58edaa48b74a2f923731c5cdfd452d5e112394ab9edcdaccb5b2b",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/carrie/neutral.png",
+    "previous_sha256": null,
+    "sha256": "92d996b5f33395b72c537317ab387dc0739fd638e68c98593b2ae748b58cabba",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/carrie/surprised.png",
+    "previous_sha256": null,
+    "sha256": "b5e4b916a1bd98a764a2ddc871b330a571cf777acae5cf274c6790f0fb639d98",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/carrie/thinking.png",
+    "previous_sha256": null,
+    "sha256": "5cfefe8cccefad42fd17bbb666cf28b32f17457b40fa8c6901f1401f5a7d684d",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/cartman/angry.png",
+    "previous_sha256": null,
+    "sha256": "ceadb5e9b09a61897489f59d1799b90831836bd271ec26857dae16ad11124482",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/cartman/proud.png",
+    "previous_sha256": null,
+    "sha256": "72daac442cedeabacd6830dcfcbab18d51b6635e41098cf417a40bda7fce324b",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/cartman/scared.png",
+    "previous_sha256": null,
+    "sha256": "94eb3a900752730bbbc9a9d6878afbbdab837b57e14f45f6e8432ab8b6237517",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/gabrielle/base.png",
+    "previous_sha256": "29975adbc6dd2c4afaf7970cf789e25374aa744ed114c943c708ff7824b82f00",
+    "sha256": "0cb2f9a8e19bca7ce8a2c7ea845815e5cb74d173d382e34306a68f334595dd99",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/cast/gabrielle/indignant.png",
+    "previous_sha256": null,
+    "sha256": "dbb4f7370f3888b7e542de7d79cdb431f71cfc76f5ea7e1e0faa33ed07d5be18",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/gabrielle/laugh.png",
+    "previous_sha256": null,
+    "sha256": "c7a9c128eb164ec1d0ffd533c2068a36d6a033eeda89c50e0518233c786cb654",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/gabrielle/smirk.png",
+    "previous_sha256": null,
+    "sha256": "dd49061d71b448e9ed696ace2bec75169c9202995fc8e06624880c459827eebd",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/kyle/explaining.png",
+    "previous_sha256": null,
+    "sha256": "8ba3b005e8b39a880b9b8846d9006cf3ccb160357dec15f483dd5190ea211879",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/kyle/indignant.png",
+    "previous_sha256": null,
+    "sha256": "4978c67705f9174773951376ddf848302612a95e40d9d4aac421aae7c8388495",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/kyle/neutral.png",
+    "previous_sha256": null,
+    "sha256": "2a7545003213d12bd72212790bd0e95da36884641936a1d3ee96e08ad2157e48",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/miranda/explaining.png",
+    "previous_sha256": null,
+    "sha256": "e252c0c62d6cf2d4c30a82e301d3844554d111d71c0dd62aa002048f86d26657",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/miranda/neutral.png",
+    "previous_sha256": null,
+    "sha256": "2dea18221ab505f023dacbcdf8fd2759b550eb15e6a626a0caf63c03f61af80d",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/miranda/skeptical.png",
+    "previous_sha256": null,
+    "sha256": "adef7480ecf76756907bade66bf195c427d30c78ea52894372638248b34b0fed",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/miranda/supportive.png",
+    "previous_sha256": null,
+    "sha256": "4f3f818bb16f036c8cc244eb197245e673ef38f85fd875ec686fe897636bccef",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/miranda/surprised.png",
+    "previous_sha256": null,
+    "sha256": "91dfd65c9068891f3a29b4d672a2490bb2a55488230ce218990e80cc58fd8e22",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/randy/confused.png",
+    "previous_sha256": null,
+    "sha256": "ce1a6116f3088240fb71a4a328162143238bfa298da16faf36b7db65eb454dbf",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/randy/panicked.png",
+    "previous_sha256": null,
+    "sha256": "db87b3aedaf582c1a79dc765b4a042898c2ffe42cc8826e33f47ae9f9d00c5d2",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/randy/proud.png",
+    "previous_sha256": null,
+    "sha256": "73fc032296671a8832d241ba5ddb2bc9e0346c811fb5168feb984c1f64cb7719",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/strange/explaining.png",
+    "previous_sha256": null,
+    "sha256": "563a27690df19f53f4b27925abceb8262d710b12ec747d4199ed966f82807a64",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/strange/magic.png",
+    "previous_sha256": null,
+    "sha256": "77736ce2441ac23f20589f5de193e3bff4ba278d04fd1888fe50bc61ca38388a",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/susan/base.png",
+    "previous_sha256": "0e8de990115e76232456f501abe40446d0182b3aad2c9e09cae7fc3e1e12937a",
+    "sha256": "26d13eb58f299d9a9df5e68fd1a94c0812fcb86de728c205f69fc94b33495923",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/cast/susan/relieved.png",
+    "previous_sha256": null,
+    "sha256": "3dd087d16ba509025ce275c1f3e75c7ef78432f0db9c79340126cdc09979d568",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/susan/serious.png",
+    "previous_sha256": null,
+    "sha256": "02c670beccbf0582bc14516a3d27f8a1f7c72e63681ee8f9dab7a215cd8274a2",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/susan/worried.png",
+    "previous_sha256": null,
+    "sha256": "16a97ef63f5c1bdffd2fb8aedb16dd79cc5272b386eb8ce3c42809b760c1af3a",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/villager/neutral.png",
+    "previous_sha256": null,
+    "sha256": "1093290b818a1cce2d3c9384ea67d6c59bd49e0fbd863ce1f4d251db44ea615c",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/villager/trade.png",
+    "previous_sha256": null,
+    "sha256": "5e592cdfcb75df666a2da78f09c3d8ee7b8cd4e7b7b2b3b9d89c7a598ef9da57",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/wong/approving.png",
+    "previous_sha256": null,
+    "sha256": "5d9b0b83df66e8de43c64501413b473856fa6e334f448ba5f80cd7ca182955b1",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/wong/neutral.png",
+    "previous_sha256": null,
+    "sha256": "086ed78209d3b139178bcf80b4f00003e64ddadfc17cd946ee5e2548dc77d13c",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/cast/wong/skeptical.png",
+    "previous_sha256": null,
+    "sha256": "2b051aff4038728df42a15736ef77c0be3eeeb5f3e3e6453b890ffb1fa40b833",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/housewives/angry.png",
+    "previous_sha256": "945444276c3ca802b643cf74b419e0a3aa43498411feba0bf22fb7fc79390b55",
+    "sha256": "b7470670a75e13e314b0d38f2958fe853d65fb56297680e7f014d179bd832606",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/housewives/confused.png",
+    "previous_sha256": "e38030184801a69386a0cdbb7d96750bcc3c719d6a7bec556e431a0c3d47104c",
+    "sha256": "39b754a0224018b9f20f73edbd2a2ee98c7bf3f41a7ee54f929f86a755011d78",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/housewives/gossip.png",
+    "previous_sha256": "66d7f3d2baa5647cd00179ad0ba400a2e4de5f7d10a3cb5e2ec755cdeccc1ad4",
+    "sha256": "0422cad4db136042b8245f3e190b55dd6700a598cb3757b96c92acb81c7f4857",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/housewives/pie.png",
+    "previous_sha256": "c28588c24abcf3d5641ffd6dee9a530f4140b1273fe91c58b5bba23cded4de8e",
+    "sha256": "4b4c35175b889d8b19bbe34d8f7303cedd5847ab67d801fff2c1e691068006b7",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/housewives/relief.png",
+    "previous_sha256": "38a02cd3edf9ed4b13543bdb216634a094b027f1fa9edf7c8beea4a8e02a9e29",
+    "sha256": "8aee6836ce999b9020c14219e08ddf134e981dbdb8ef5f42e441aae4640a235c",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/housewives/scared.png",
+    "previous_sha256": "6a077b1e5be36852d3ccffddb5a0b1d961fdcf8ba767c921ef277226608cb9ed",
+    "sha256": "561e773c4649af29113ea7c9e3783185cf971f352bcf64e4aaf5fa46d78d3379",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/housewives/thinking.png",
+    "previous_sha256": "a2c29c5d4ba466d3dd5fb8b1d19949e093d807d7d28aa471a83dc3d52ebe0693",
+    "sha256": "fdece76f53cc2078c48f60a299f108c418386e0dd85de671c0667b1f9458c445",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/manhattan/confused.png",
+    "previous_sha256": "9801d29913d57dafc40d0f0fef36301bc44b94aa38ce9bffca34d885d4631d4c",
+    "sha256": "38d205fb2b27758f8d84f595d370c72b03da6d870d03719cc8d9ea46e02e6515",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/manhattan/happy.png",
+    "previous_sha256": "b39b720cd25e9be2da8c3d871ccd4f2a122ed421cf4d139c7937c13328f97c04",
+    "sha256": "c6d6979e32d26a69009666acc38757a0df11da0d8c41db51f046e59caa7f8943",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/manhattan/ironic.png",
+    "previous_sha256": "63be93611ad930b0a8c6e6238e513cacdc1d3b24aa371ecb942fcc9fc4f7c856",
+    "sha256": "0efaf111e3a32b62df86998b91de615b7eb5502d15b61346e4e4e23dc94c7344",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/manhattan/neutral.png",
+    "previous_sha256": "b20c16cf7a44e4d949cd4eee7dbf1a0a44cf2ca8d476eab7f55984e470271f69",
+    "sha256": "ac391e2c9341417f98b44369d8e71794c4aa97567209c334b8e06ee6fed35773",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/marvel/confused.png",
+    "previous_sha256": "9c406d7da05f9798a5eb88bd6c79496ac6353b33cf471d3981122746cf4e3c55",
+    "sha256": "f4b118ee7766dabfd4511eab6a7be508c56187aba9d23580954f75d10849458c",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/marvel/neutral.png",
+    "previous_sha256": "89db675133d800b1d43b4e3b251cc1c8734b51805a61f584debd87668c9e577f",
+    "sha256": "ca7d39bf8b2e0716f70f06bec227b6e26e270f85cd374f6984e671155312798f",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/marvel/power.png",
+    "previous_sha256": "de996b99b0bd2bd9e2d112070fb28b94f5352433bfe0859e9d89ea7e293084de",
+    "sha256": "40ea046bb003d9433a39073a65fa15f54bf398981d37be78e6e95d7f2e8a26a9",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/marvel/scared.png",
+    "previous_sha256": "37aedebee057cb6bebf26798450f2c667ac52a4b67672daf5bcce318a458597a",
+    "sha256": "e7bb8339535502e06f7c311e51f4e25e47e8280997e28f1f7116baea1db192ee",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/minecraft/confused.png",
+    "previous_sha256": "80b9ce2ab3d1de9e6938a3263c706bc157abcdaba53f5add788dba3cd36edadc",
+    "sha256": "a64f1506dcf1d61044d2b320f246622a4c24ef98d0704ae3f060e4d642e2b186",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/minecraft/pickaxe.png",
+    "previous_sha256": "cc4966757c5299fe3a84279864fdbdab819b9fa58024c268ce26d5549a6d49c0",
+    "sha256": "649f807081d63a0218920a8608772e63700c25b33225973167274ecdf1c76fe0",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/minecraft/scared.png",
+    "previous_sha256": "ef90cfd2b505d2f061da775dcffb0e3f5f3280245c4662824099512b38d4c1e8",
+    "sha256": "9191cab6138719b226b7369466ddfcb61d3060c4b6c10dd1ca8def9a7c3ee3a0",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/office/angry.png",
+    "previous_sha256": "4483016aa2796260e09ddea1163ed9dc3f0d72275f0202b4712922f51c82da65",
+    "sha256": "c1b11cb4be05bc4cbae914df9b8f0aac7d41094ebaf2589c78a40ce92f6867ee",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/office/happy.png",
+    "previous_sha256": "88ba4316988593b62e7269d4e1634ffdcf1fa553dc4a9b3897516af19712267e",
+    "sha256": "995eebf24c5169e73da3da54de73e0eae04ea06191026a4cfc9360ddd4659b5a",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/office/neutral.png",
+    "previous_sha256": "c78462db1f3edecbdfbd6c54f9d04d010a97ff5fc21b5bce95739a361631d6f4",
+    "sha256": "59fdd1f5bdf5fa4ab0b210a5e6438c85ae22c57ddc5aacd4a66b02cee0db3f13",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/office/scared.png",
+    "previous_sha256": "f2b0688e0ec197cae70cd0d5a8058f1f69e9b689cb0a0f01153352b3cc420f63",
+    "sha256": "eeaa83ed5d081d280efeb787fbfecbae405e5036f4f10e54136cccbbe1feb0f4",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/office/skeptical.png",
+    "previous_sha256": "db808c9a8fb0239449b804d00c27eceb192981085836450845030b18feccea2e",
+    "sha256": "1ce055c5e1a7437ea249b545f65404f81074e56b469565b14cbc0f0d9292e463",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/office/sleepy.png",
+    "previous_sha256": "823b433b3c6ad8cbb4b2c447f290c6aae4f0d73b1f2041fe4682036c2a2e1647",
+    "sha256": "03989dbd5c8617d2442ce5e871834a30b00304cc5db06f515155e40a38e1a90e",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/sims/confused.png",
+    "previous_sha256": "85f3f15e5f2f28a2b2ded2d7edae3efb188468c3ea847b499b6c3e85eb2a44cd",
+    "sha256": "e0fc41ae00cf30d44b57007c789d0270cb5f5103d54e4d7c3b75b5c724e51f5a",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/sims/happy.png",
+    "previous_sha256": "569784d11467e275a6c5aa9b3f9d00bf7c4409805696998cfecd1c96cfd24472",
+    "sha256": "2c00efe24b9180c7a085a75663becaa2291093a6346f6b74976cf9ab34754731",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/sims/neutral.png",
+    "previous_sha256": "3f569e26cdfc60fc560a8227fbecbb7a18c5f7395924768d2039e06a68d208ab",
+    "sha256": "3275f462602b581c43e486b28de2e8a9e92be105fba52859d807e0adda379a11",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/sims/panic.png",
+    "previous_sha256": "745dd3e66318b2d40f7ed6eccfce4dd5297221ac988f0e538b7c134f7e42fe94",
+    "sha256": "35cf962477c97965603ab8c3945b87ecbc27ab5efdc47cc111980eab77aff864",
+    "origin": "selected_additions"
+  },
+  {
+    "path": "game/images/olya/southpark/angry.png",
+    "previous_sha256": "66f3deece08a179f32fbde150da32dde0d9401a21ef339cc88ed6c68b6485b8f",
+    "sha256": "80a9d06e7940616b5b393f39a4cda610f9db6dac0879d858cdfd249e25a9a3db",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/southpark/confused.png",
+    "previous_sha256": "cb77c1624d332e92f24db6f001b1820cdd045c8a2a9a2a4ae7e9f03e58bb01d8",
+    "sha256": "b92e79027808c0cd9cd984209075c7a9b0ed745d2472dabfcb8d7ab05918d12e",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/southpark/neutral.png",
+    "previous_sha256": "c5d98bc067bc1667718b46fc4897e98552e5a414349fb7dae4f77ea6976383d5",
+    "sha256": "db8e44e06b1cd3b8634a9a566739dbc1e81bb7ed833f9e3f89d9daf0689fbfbc",
+    "origin": "original_kit"
+  },
+  {
+    "path": "game/images/olya/southpark/scared.png",
+    "previous_sha256": "48aa1bd0037e87d9c33e3960fc28e9a14dab93e67e816fe1c103ea5319a2f816",
+    "sha256": "b205e7d3492b9ee4bfcce1a9bb8449efd79f554d6e476f2578952c1c943bb0e7",
+    "origin": "original_kit"
+  }
+]

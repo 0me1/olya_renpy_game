@@ -1,22 +1,51 @@
 init python:
+    def dialogue_theme(node):
+        name = node.filename.replace("\\", "/").rsplit("/", 1)[-1]
+        if name.startswith("03_"):
+            return "southpark"
+        if name.startswith("04_"):
+            return "minecraft"
+        if name.startswith("05_"):
+            return "sims"
+        if name.startswith("06_"):
+            return "marvel"
+        if name == "endings.rpy":
+            with renpy.file("endings.rpy") as source:
+                lines = source.read().decode("utf-8").splitlines()
+            world = "storybook"
+            for line in lines[:node.linenumber]:
+                if 'current_ending == "stay_' in line:
+                    value = line.split('current_ending == "stay_')[1].split('"')[0]
+                    world = value if value in THEMES else "storybook"
+                elif 'current_ending == "home"' in line or 'current_ending == "open_door"' in line:
+                    world = "storybook"
+            return world
+        return "storybook"
+
     def check_dialogue_layout():
         failures = []
         count = 0
         for node in renpy.game.script.all_stmts:
-            if isinstance(node, renpy.ast.Say) and ("/game/" in node.filename or node.filename.startswith("game/")):
+            if isinstance(node, renpy.ast.Say) and ("/game/" in node.filename or node.filename.startswith("game/")) and not node.filename.endswith("integration_tests.rpy"):
+                spec = THEMES[dialogue_theme(node)]
                 what = node.what.replace("[[", "[")
-                displayable = Text(what, font="DejaVuSans.ttf", size=34, line_spacing=6, substitute=False)
+                displayable = Text(what, font=spec["body"], size=spec["body_size"], line_spacing=6, substitute=False)
                 width, height = renpy.render(displayable, 1530, 220, 0, 0).get_size()
                 count += 1
                 if width > 1530 or height > 220:
                     failures.append((node.filename, node.linenumber, width, height))
         _test.layout_checked = count
         _test.layout_failures = failures
-        renpy.log("Dialogue layout: {} blocks checked; failures: {}".format(count, failures))
-        if count < 300:
-            raise AssertionError("Not enough dialogue nodes inspected: {}".format(count))
-        if failures:
-            raise AssertionError(failures)
+        print("Dialogue layout:", count, "blocks; failures:", failures)
+        if count < 300 or failures:
+            raise AssertionError((count, failures))
+
+    def check_name_layout():
+        for theme, spec in THEMES.items():
+            for name in ("Ольга Игоревна", "Доктор Стрэндж", "Перевод жеста"):
+                width, height = renpy.render(Text(name, font=spec["label"], size=spec["label_size"]), 480, 52, 0, 0).get_size()
+                if width > 480 or height > 52:
+                    raise AssertionError((theme, name, width, height))
 
 testsuite layout:
     testcase dialogue:
@@ -25,3 +54,7 @@ testsuite layout:
         run Function(check_dialogue_layout)
         assert eval _test.layout_checked >= 300
         assert eval _test.layout_failures == []
+    testcase names:
+        run Start()
+        advance until screen "say"
+        run Function(check_name_layout)

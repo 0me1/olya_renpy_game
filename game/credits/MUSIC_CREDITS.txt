@@ -1,0 +1,8 @@
+"Airport Lounge" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806
+Changes: converted MP3 to OGG Vorbis; loudness normalized with FFmpeg loudnorm I=-20:TP=-2:LRA=9; 30-second preview has an ending fade.
+Include this attribution in game credits and distributed music documentation.
+
+Other referenced soundtrack recordings are not included in this preparation. Their credits and usage basis must be recorded when audio files are supplied.

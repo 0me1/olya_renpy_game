@@ -1,0 +1,1639 @@
+{
+  "version": 2,
+  "images": [
+    {
+      "path": "game/images/backgrounds/birthday_home.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "e71944b00810e6fc190a3680f9bc7b3e64d7f2eda29d3b1c38276111dbe214c6",
+      "origin": "selected_additions",
+      "source_sha256": "8511e7f88f70f9e94cc3af3c71e3cb82ee0323ea75c8c8b467b02c56614f9ea3",
+      "source_key": "birthday_home"
+    },
+    {
+      "path": "game/images/backgrounds/manhattan_bar.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "175d296c7c849d787c96b185d0a84e08f98f52a4e9206b7014199447913432c1",
+      "origin": "original_kit",
+      "source_sha256": "85aa3395028b2dcbf88b07486111b11133be594246f6daa0a07988ce4b10ec16"
+    },
+    {
+      "path": "game/images/backgrounds/manhattan_street.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "0a1d75b450d85cf94585bbbb9822947bf66bc8d1499043afae8c7516ed603d04",
+      "origin": "original_kit",
+      "source_sha256": "58f0e68b0af8cf6b162b989b276e82883fd3d7c56431e998aceef18c06a22287"
+    },
+    {
+      "path": "game/images/backgrounds/marvel_hall.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "e8317dbdd6b8781030b6fe8591c13a9db8aa56772b035879eb676fa97074d893",
+      "origin": "original_kit",
+      "source_sha256": "7e31bc0a71aadb23f1f228f7ca4d7a44c19d6f5e2786c8a095cebf9fded1e844"
+    },
+    {
+      "path": "game/images/backgrounds/marvel_rooftop.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "e34e73be9d61eee90a003e7b4180ae50611a1c8188d0b0939e9045b0473e8bfe",
+      "origin": "original_kit",
+      "source_sha256": "2791de94d27e6a1b2e96fe1b715cd130f532bcc7ac01f59c6dff7d67f767ec2e"
+    },
+    {
+      "path": "game/images/backgrounds/minecraft_clearing.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "5621eb8e54dcb7aa6f573044f107bdd23db428aa91202c13967eb11f21e76cb9",
+      "origin": "original_kit",
+      "source_sha256": "e16fa5a7899bcef5f156c9c110099af401d68e7e4933a0069ccea89d62e35002"
+    },
+    {
+      "path": "game/images/backgrounds/minecraft_house.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "18f499a3843446a72c3c0428b254daf0ac60005353ae14d5d0b0b0c889dd583b",
+      "origin": "original_kit",
+      "source_sha256": "41334baa60f38c4ce24cfd2f089dac483fc515f96092517c8d963f7353a1d25a"
+    },
+    {
+      "path": "game/images/backgrounds/office_day.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "642d78e40568f284ba304d3370ad9b799323df1a90ca39e602dbb137dda36f64",
+      "origin": "original_kit",
+      "source_sha256": "5e7e3d653719b385a7cb62d56651ec5ea65555e0eee75106bb4739214896ef78"
+    },
+    {
+      "path": "game/images/backgrounds/office_evening.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "abc6a1a6a195203cefbc0fe9978b3093fe57f2578ca0335475fd0b30cbeaf10a",
+      "origin": "original_kit",
+      "source_sha256": "a014ff0a44a175d85b503648c19d916115afc7c5193fa95abe628675b05a83d4"
+    },
+    {
+      "path": "game/images/backgrounds/sims_home.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "6e18eecdc119c6633fb1bce853b1ce60a351bc2e16246481913ddaff5cfb51b3",
+      "origin": "original_kit",
+      "source_sha256": "6a67ccd439e7962dbd8375aa88c55d89e6600e0ecb61cd05190e8c4f2f6238c2"
+    },
+    {
+      "path": "game/images/backgrounds/sims_pool.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "495d93b9af12df73d0f4d7d544cd8c8baea81ba1f56b92ef827e3c78f8217be9",
+      "origin": "original_kit",
+      "source_sha256": "e404cadaa1be3c920d45b7ed600dd85150e5f1924697841c20585d7371a97019"
+    },
+    {
+      "path": "game/images/backgrounds/southpark_school.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "d7be7565f9f568b03b46fbf2f11f6fa68808581d7aa3d3bc80d12cbe6a180f00",
+      "origin": "original_kit",
+      "source_sha256": "118b32800f8b920e0c7111d153b209cf7491d8670f632a9c02ce60cfe2a7f6df"
+    },
+    {
+      "path": "game/images/backgrounds/southpark_street.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "c36dcaee22d76dc99ae1891fcf197c1531143b2a552f770bf886145dc76e001c",
+      "origin": "original_kit",
+      "source_sha256": "22e704730af6eaa11f9e4939d5959b1c0023ddc7a6253faaf0b3d2bb9d0c731d"
+    },
+    {
+      "path": "game/images/backgrounds/wisteria_kitchen.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "3e0f2692fb0691244bfe71f538c4501ce84135311259690d0e74f3ccaa678f87",
+      "origin": "original_kit",
+      "source_sha256": "a5b6c556de90eb8f415ed7183f3cdc7f2a299e9c9828e5f99cee3f6ae9fb75bd"
+    },
+    {
+      "path": "game/images/backgrounds/wisteria_street.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        254,
+        255
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "3973bdbe2271f08f1b2cf4cc5f5b1517069f230a79b179301e5a274fb7483828",
+      "origin": "original_kit",
+      "source_sha256": "bc730f720166301cd0a2a173a1324d772a09b479be44f7f08a98da8eb5b425a6"
+    },
+    {
+      "path": "game/images/cast/bella/greeting.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "1a488a6101c77f5b34b83925f31b89f77fb7901567131dd3e912285d8739a5ac",
+      "origin": "selected_additions",
+      "source_sha256": "6a95f81e2cae722a0809289a9ca860f10a5cd586b9500a5abd7c76ce4ee2108e",
+      "source_key": "bella_greeting"
+    },
+    {
+      "path": "game/images/cast/bella/supportive.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "0ec379737ec514f3f0aef5655fbd03f0a30711e66d25273ac799aaccc5ef3f73",
+      "origin": "selected_additions",
+      "source_sha256": "332b2a90919e808b7e97354134eea6069e655c45dc7c44af4018cf6d73fdb3db",
+      "source_key": "bella_supportive"
+    },
+    {
+      "path": "game/images/cast/bella/suspicious.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "d7d1acf67f07206dc44fdcf4478a03061676057b582a4d1ba9b539c4ed7d8e38",
+      "origin": "selected_additions",
+      "source_sha256": "50687b7e8fa6bf8335af7bc7eb1f468544b3921fec0864075e1c483520064788",
+      "source_key": "bella_suspicious"
+    },
+    {
+      "path": "game/images/cast/bree/approving.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "dff95cf91679687cc4ef5cce9fd194661e6a6037b04a5430cd1326f4200728c8",
+      "origin": "selected_additions",
+      "source_sha256": "255d78878f8629f1f31acd42b65fb4530ebf481e75f8c4fdc3354c0738bd54d6",
+      "source_key": "bree_approving"
+    },
+    {
+      "path": "game/images/cast/bree/base.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "8ccdb67f802ac5b9add95a231166b6a1967469b8749125c56947c12d08b2182c",
+      "origin": "original_kit",
+      "source_sha256": "d517fe29e7c2cf548ff603b3e83e4d8c67b6d15e87cd0614bd6abc006a2dbc5b"
+    },
+    {
+      "path": "game/images/cast/bree/strict.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "6558b066f62d39aeb21ef34fd442f7f7a16f7139860822b5f251f4b0de3eea8c",
+      "origin": "selected_additions",
+      "source_sha256": "015ffaf5ef038196e83729858fe20dffea36a21c7838227dc8d196263f0eecfc",
+      "source_key": "bree_strict"
+    },
+    {
+      "path": "game/images/cast/bree/surprised.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "0e0452ddf124fea90e66bec8b2b453b76fe807a90c95f041bd01fb6c29477afb",
+      "origin": "selected_additions",
+      "source_sha256": "3ba84f467ea39b81f142b836b476e96d94cf2a5b30c26b935ea6c49adaee58ac",
+      "source_key": "bree_surprised"
+    },
+    {
+      "path": "game/images/cast/carrie/explaining.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "9cc72eabe3bd7d778f71e846ff8d9b3ff8033179fb10a53dcf35123265922214",
+      "origin": "selected_additions",
+      "source_sha256": "1de765eae6a5953e5618896926818356f80b347d5c56f78fc58d3d43a5c903e1",
+      "source_key": "carrie_explaining"
+    },
+    {
+      "path": "game/images/cast/carrie/greeting.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "e7d1d744f1fce91ed11c183e199635f312b883a8958dca0c5decce8f04d22199",
+      "origin": "selected_additions",
+      "source_sha256": "292066ec163c21f3a01bced53fd2c8a34a63633a650598b6a1f266513e2a0f18",
+      "source_key": "carrie_greeting"
+    },
+    {
+      "path": "game/images/cast/carrie/laugh.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "937b67cea4e58edaa48b74a2f923731c5cdfd452d5e112394ab9edcdaccb5b2b",
+      "origin": "selected_additions",
+      "source_sha256": "27fe9700fc35e5947ad89c0e464c9c2086126b2844b171756f7c6bf4823b9cee",
+      "source_key": "carrie_laugh"
+    },
+    {
+      "path": "game/images/cast/carrie/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "92d996b5f33395b72c537317ab387dc0739fd638e68c98593b2ae748b58cabba",
+      "origin": "selected_additions",
+      "source_sha256": "cf420d40644227e76ba711bd4b4663541e51ec606708d089a7c2dacf73be5d13",
+      "source_key": "carrie_neutral"
+    },
+    {
+      "path": "game/images/cast/carrie/surprised.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "b5e4b916a1bd98a764a2ddc871b330a571cf777acae5cf274c6790f0fb639d98",
+      "origin": "selected_additions",
+      "source_sha256": "0b19276c2a3d68ab2da09e90d5c49198e7a4245a70d811ed54ee9a319da1e6f3",
+      "source_key": "carrie_surprised"
+    },
+    {
+      "path": "game/images/cast/carrie/thinking.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "5cfefe8cccefad42fd17bbb666cf28b32f17457b40fa8c6901f1401f5a7d684d",
+      "origin": "selected_additions",
+      "source_sha256": "60b6713c438ee601dbdb2c754e7c73623bb4359a8a695093c86eaa372da82c24",
+      "source_key": "carrie_thinking"
+    },
+    {
+      "path": "game/images/cast/cartman/angry.png",
+      "size": [
+        1223,
+        1286
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "ceadb5e9b09a61897489f59d1799b90831836bd271ec26857dae16ad11124482",
+      "origin": "selected_additions",
+      "source_sha256": "3ea6ccd44a859a188ca2aeb0cad92e24f83b603d7772e19b4c2bc1d81023258a",
+      "source_key": "cartman_angry"
+    },
+    {
+      "path": "game/images/cast/cartman/proud.png",
+      "size": [
+        1223,
+        1286
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "72daac442cedeabacd6830dcfcbab18d51b6635e41098cf417a40bda7fce324b",
+      "origin": "selected_additions",
+      "source_sha256": "4499a73b0bd7a9cf93b378cfce373adb4baa6867b94aad31c6a26dccf634a087",
+      "source_key": "cartman_proud"
+    },
+    {
+      "path": "game/images/cast/cartman/scared.png",
+      "size": [
+        1223,
+        1286
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "94eb3a900752730bbbc9a9d6878afbbdab837b57e14f45f6e8432ab8b6237517",
+      "origin": "selected_additions",
+      "source_sha256": "9ed46f40a460c7427fb23b940839fccb29b8c085dec6c83e170d69f01c914070",
+      "source_key": "cartman_scared"
+    },
+    {
+      "path": "game/images/cast/gabrielle/base.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "0cb2f9a8e19bca7ce8a2c7ea845815e5cb74d173d382e34306a68f334595dd99",
+      "origin": "original_kit",
+      "source_sha256": "555116900ab71e62ef2438be0d529e80b499e4945a1fc2e178f6a29001dc4639"
+    },
+    {
+      "path": "game/images/cast/gabrielle/indignant.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "dbb4f7370f3888b7e542de7d79cdb431f71cfc76f5ea7e1e0faa33ed07d5be18",
+      "origin": "selected_additions",
+      "source_sha256": "bf64b903e7c258bb7459ab59ff146913638cbe77151f4140cc2c38c7d1737c98",
+      "source_key": "gaby_indignant"
+    },
+    {
+      "path": "game/images/cast/gabrielle/laugh.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "c7a9c128eb164ec1d0ffd533c2068a36d6a033eeda89c50e0518233c786cb654",
+      "origin": "selected_additions",
+      "source_sha256": "09b587795c9849d28b55d21bbb0b6aae9f36fe993486fae98dd5fe20dcd20f83",
+      "source_key": "gaby_laugh"
+    },
+    {
+      "path": "game/images/cast/gabrielle/smirk.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "dd49061d71b448e9ed696ace2bec75169c9202995fc8e06624880c459827eebd",
+      "origin": "selected_additions",
+      "source_sha256": "7c20dfbab91acc19ef1ce2f6692f7c7e4780bccaa5ce31431881074ca26772cd",
+      "source_key": "gaby_smirk"
+    },
+    {
+      "path": "game/images/cast/kyle/explaining.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "8ba3b005e8b39a880b9b8846d9006cf3ccb160357dec15f483dd5190ea211879",
+      "origin": "selected_additions",
+      "source_sha256": "019fc21f00336225ede8c4d151b40a0807cf02fd20d97095bec5068cd6c03efc",
+      "source_key": "kyle_explaining_v2"
+    },
+    {
+      "path": "game/images/cast/kyle/indignant.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "4978c67705f9174773951376ddf848302612a95e40d9d4aac421aae7c8388495",
+      "origin": "selected_additions",
+      "source_sha256": "545f1d038e1efd9c125280306a9d1f13826b531fbae85ad48bc270579e987eb7",
+      "source_key": "kyle_indignant_v2"
+    },
+    {
+      "path": "game/images/cast/kyle/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "2a7545003213d12bd72212790bd0e95da36884641936a1d3ee96e08ad2157e48",
+      "origin": "selected_additions",
+      "source_sha256": "8c00c5e6091ae505a90f532b093adff57d95e06e4633d9d2a992b5a78d73bedb",
+      "source_key": "kyle_neutral_v2"
+    },
+    {
+      "path": "game/images/cast/miranda/explaining.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "e252c0c62d6cf2d4c30a82e301d3844554d111d71c0dd62aa002048f86d26657",
+      "origin": "selected_additions",
+      "source_sha256": "29d78067b7bde061e5bf6276c49c25f38ad644139345fa0bb7f3ecc222a050be",
+      "source_key": "miranda_explaining"
+    },
+    {
+      "path": "game/images/cast/miranda/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "2dea18221ab505f023dacbcdf8fd2759b550eb15e6a626a0caf63c03f61af80d",
+      "origin": "selected_additions",
+      "source_sha256": "14069d99dc1d8fced707eed89fcafa947c3495180541d6b96bf8be7a1c27ace1",
+      "source_key": "miranda_neutral"
+    },
+    {
+      "path": "game/images/cast/miranda/skeptical.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "adef7480ecf76756907bade66bf195c427d30c78ea52894372638248b34b0fed",
+      "origin": "selected_additions",
+      "source_sha256": "ae37187aff4a26cc71022a4279218cb0bec7513107e8d554db09fc7a842b4850",
+      "source_key": "miranda_skeptical"
+    },
+    {
+      "path": "game/images/cast/miranda/supportive.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "4f3f818bb16f036c8cc244eb197245e673ef38f85fd875ec686fe897636bccef",
+      "origin": "selected_additions",
+      "source_sha256": "23dde155ccc8fd60d360312e30199d968e368f02e61b6305c5ebef491637744b",
+      "source_key": "miranda_supportive"
+    },
+    {
+      "path": "game/images/cast/miranda/surprised.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "91dfd65c9068891f3a29b4d672a2490bb2a55488230ce218990e80cc58fd8e22",
+      "origin": "selected_additions",
+      "source_sha256": "b7bf5fbd0fb98f93153d4ef1f683df28aea9681e4e8c1bd88cff27501dc3da4c",
+      "source_key": "miranda_surprised"
+    },
+    {
+      "path": "game/images/cast/randy/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "ce1a6116f3088240fb71a4a328162143238bfa298da16faf36b7db65eb454dbf",
+      "origin": "selected_additions",
+      "source_sha256": "87d43fafc57c08b22a936d57d4276c5a154b30fb56bb2db6b38d16fd131a0613",
+      "source_key": "randy_confused"
+    },
+    {
+      "path": "game/images/cast/randy/panicked.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "db87b3aedaf582c1a79dc765b4a042898c2ffe42cc8826e33f47ae9f9d00c5d2",
+      "origin": "selected_additions",
+      "source_sha256": "f6a0f58ca8205c4f10905fe3902e8e476c3bce08bf97251230944985f348e4c2",
+      "source_key": "randy_panicked"
+    },
+    {
+      "path": "game/images/cast/randy/proud.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "73fc032296671a8832d241ba5ddb2bc9e0346c811fb5168feb984c1f64cb7719",
+      "origin": "selected_additions",
+      "source_sha256": "534b20e1aec2a9f812b8f5304f11d283fefa512fb069be1e33708cf4c4188275",
+      "source_key": "randy_proud"
+    },
+    {
+      "path": "game/images/cast/strange/explaining.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "563a27690df19f53f4b27925abceb8262d710b12ec747d4199ed966f82807a64",
+      "origin": "selected_additions",
+      "source_sha256": "f18a6e64854f67e980fbddf411a32131573405e8f4596f134a94ffcec9acbc28",
+      "source_key": "strange_explaining"
+    },
+    {
+      "path": "game/images/cast/strange/magic.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "77736ce2441ac23f20589f5de193e3bff4ba278d04fd1888fe50bc61ca38388a",
+      "origin": "selected_additions",
+      "source_sha256": "9b6c1c6eb646525d58c0341066be5154c723fabb5fbe0488d3ef56d4988dd6b2",
+      "source_key": "strange_magic"
+    },
+    {
+      "path": "game/images/cast/susan/base.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "26d13eb58f299d9a9df5e68fd1a94c0812fcb86de728c205f69fc94b33495923",
+      "origin": "original_kit",
+      "source_sha256": "22182e3667c51c939eb919eeb76692d74654000d7b46bae2df813b942ae7f6f8"
+    },
+    {
+      "path": "game/images/cast/susan/relieved.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "3dd087d16ba509025ce275c1f3e75c7ef78432f0db9c79340126cdc09979d568",
+      "origin": "selected_additions",
+      "source_sha256": "0593228533e9668f48d8d761c3c0f19513114082ba9d8ffde6975ca4e28534c8",
+      "source_key": "susan_relieved"
+    },
+    {
+      "path": "game/images/cast/susan/serious.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "02c670beccbf0582bc14516a3d27f8a1f7c72e63681ee8f9dab7a215cd8274a2",
+      "origin": "selected_additions",
+      "source_sha256": "97f0fe060351613f3b9fb198fc479f1019fc2cf176820f8f72bebbe8b576e54d",
+      "source_key": "susan_serious"
+    },
+    {
+      "path": "game/images/cast/susan/worried.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "16a97ef63f5c1bdffd2fb8aedb16dd79cc5272b386eb8ce3c42809b760c1af3a",
+      "origin": "selected_additions",
+      "source_sha256": "4705bdbcf0cc90661740841a9625ea71c4b8fb09f4863a3e772f4b97d6feab90",
+      "source_key": "susan_worried"
+    },
+    {
+      "path": "game/images/cast/villager/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "1093290b818a1cce2d3c9384ea67d6c59bd49e0fbd863ce1f4d251db44ea615c",
+      "origin": "selected_additions",
+      "source_sha256": "ca6454624c3585f8cfe08c15a1408ff1c69e8526e0ff6b43c32ffb8283fd2124",
+      "source_key": "villager_neutral"
+    },
+    {
+      "path": "game/images/cast/villager/trade.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "5e592cdfcb75df666a2da78f09c3d8ee7b8cd4e7b7b2b3b9d89c7a598ef9da57",
+      "origin": "selected_additions",
+      "source_sha256": "d47f8db82f55fb906deee629e5ff90a806363cabb3f315c5fea74cd712009459",
+      "source_key": "villager_trade"
+    },
+    {
+      "path": "game/images/cast/wong/approving.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "5d9b0b83df66e8de43c64501413b473856fa6e334f448ba5f80cd7ca182955b1",
+      "origin": "selected_additions",
+      "source_sha256": "994853a7b3d6fb68b47b463c01902d4ad044caaa3478bbdb5af0138f56ae5122",
+      "source_key": "wong_approving"
+    },
+    {
+      "path": "game/images/cast/wong/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "086ed78209d3b139178bcf80b4f00003e64ddadfc17cd946ee5e2548dc77d13c",
+      "origin": "selected_additions",
+      "source_sha256": "441d9466ed335302577dca244d81e0b40612cbf5c8021f03bbffe4856e74d9ee",
+      "source_key": "wong_neutral"
+    },
+    {
+      "path": "game/images/cast/wong/skeptical.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "2b051aff4038728df42a15736ef77c0be3eeeb5f3e3e6453b890ffb1fa40b833",
+      "origin": "selected_additions",
+      "source_sha256": "369cee8b62a65a6a38d01b1349a60bbb7bcfb443f71001744c04aee74cb02f44",
+      "source_key": "wong_skeptical"
+    },
+    {
+      "path": "game/images/olya/housewives/angry.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "b7470670a75e13e314b0d38f2958fe853d65fb56297680e7f014d179bd832606",
+      "origin": "original_kit",
+      "source_sha256": "a1a7f94de91031af993394ce0cca86eedf7439391ecb3c95726272167beee431"
+    },
+    {
+      "path": "game/images/olya/housewives/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "39b754a0224018b9f20f73edbd2a2ee98c7bf3f41a7ee54f929f86a755011d78",
+      "origin": "original_kit",
+      "source_sha256": "325b423a5a29b65390ed8705f3ebb4a5a06a06023c74a3409d87bcc2a71f0228"
+    },
+    {
+      "path": "game/images/olya/housewives/gossip.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "0422cad4db136042b8245f3e190b55dd6700a598cb3757b96c92acb81c7f4857",
+      "origin": "original_kit",
+      "source_sha256": "520d496add87cb3ac410fd4bb43eba34007bacda459c46d123552159f733c6c1"
+    },
+    {
+      "path": "game/images/olya/housewives/pie.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "4b4c35175b889d8b19bbe34d8f7303cedd5847ab67d801fff2c1e691068006b7",
+      "origin": "original_kit",
+      "source_sha256": "b208490ce578245947736c8defce9774a9b42db6233436dbf4a09608026920e7"
+    },
+    {
+      "path": "game/images/olya/housewives/relief.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "8aee6836ce999b9020c14219e08ddf134e981dbdb8ef5f42e441aae4640a235c",
+      "origin": "original_kit",
+      "source_sha256": "710bb5bcb5211292b15e265957c2ca13b058a7d9fd4e80ba5544e4454c7a2341"
+    },
+    {
+      "path": "game/images/olya/housewives/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "561e773c4649af29113ea7c9e3783185cf971f352bcf64e4aaf5fa46d78d3379",
+      "origin": "original_kit",
+      "source_sha256": "7679d2b8034bf55c5e7021dca2d69b656e59394317e204ab64258d7647035444"
+    },
+    {
+      "path": "game/images/olya/housewives/thinking.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "fdece76f53cc2078c48f60a299f108c418386e0dd85de671c0667b1f9458c445",
+      "origin": "original_kit",
+      "source_sha256": "968161ea8e0ea733043927fd0515e82d7b84e43f5d3fb91b3d84fd03a1c50725"
+    },
+    {
+      "path": "game/images/olya/manhattan/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "38d205fb2b27758f8d84f595d370c72b03da6d870d03719cc8d9ea46e02e6515",
+      "origin": "original_kit",
+      "source_sha256": "0e816197b1b7c977248f4bd17ea1a801c3a5b29f0e4bf5270e6b060bc6d02a8c"
+    },
+    {
+      "path": "game/images/olya/manhattan/happy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "c6d6979e32d26a69009666acc38757a0df11da0d8c41db51f046e59caa7f8943",
+      "origin": "original_kit",
+      "source_sha256": "fd683eff3e1db4bb4fcf3bf96dc97e0b3159cd44e1cae38e72a32c74822c3514"
+    },
+    {
+      "path": "game/images/olya/manhattan/ironic.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "0efaf111e3a32b62df86998b91de615b7eb5502d15b61346e4e4e23dc94c7344",
+      "origin": "original_kit",
+      "source_sha256": "2276ac63a5ed0c29586eca501fc2e2cd9d16c12f778cdb1d6e11286df109a605"
+    },
+    {
+      "path": "game/images/olya/manhattan/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "ac391e2c9341417f98b44369d8e71794c4aa97567209c334b8e06ee6fed35773",
+      "origin": "original_kit",
+      "source_sha256": "d17e341261641e9ab8e5bbd5a6e88320be1d16d9dcbfcdaf89bcb68d4879a63c"
+    },
+    {
+      "path": "game/images/olya/marvel/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "f4b118ee7766dabfd4511eab6a7be508c56187aba9d23580954f75d10849458c",
+      "origin": "original_kit",
+      "source_sha256": "d2d6c8103377f3577c6ca38ce14907791848c9723e5c20c2db2cef1b147c70f9"
+    },
+    {
+      "path": "game/images/olya/marvel/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "ca7d39bf8b2e0716f70f06bec227b6e26e270f85cd374f6984e671155312798f",
+      "origin": "original_kit",
+      "source_sha256": "324dbf1f01e1b4c159efde820bf72185b187e460bedd08885a39fe68542be37a"
+    },
+    {
+      "path": "game/images/olya/marvel/power.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "40ea046bb003d9433a39073a65fa15f54bf398981d37be78e6e95d7f2e8a26a9",
+      "origin": "original_kit",
+      "source_sha256": "e63edc3a44106e89d4fdf027f9742c830b4027bd53924024ca1a3aacf57f55cc"
+    },
+    {
+      "path": "game/images/olya/marvel/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "e7bb8339535502e06f7c311e51f4e25e47e8280997e28f1f7116baea1db192ee",
+      "origin": "original_kit",
+      "source_sha256": "3b30826ff19a0b5c3c8103deec322d8d2ca069d08c35af6ca9dd79425440fd21"
+    },
+    {
+      "path": "game/images/olya/minecraft/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "a64f1506dcf1d61044d2b320f246622a4c24ef98d0704ae3f060e4d642e2b186",
+      "origin": "selected_additions",
+      "source_sha256": "2030e8dc8b4705082c7f7a7fb5b8f4a44eb422d854ee30dc09eb618151cdb920",
+      "source_key": "olya_minecraft_confused_v3"
+    },
+    {
+      "path": "game/images/olya/minecraft/pickaxe.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "649f807081d63a0218920a8608772e63700c25b33225973167274ecdf1c76fe0",
+      "origin": "selected_additions",
+      "source_sha256": "743a0136f7854dfdb7594e467a0e58362bbce148513286855bdd3821ccaa1bfc",
+      "source_key": "olya_minecraft_pickaxe_v4"
+    },
+    {
+      "path": "game/images/olya/minecraft/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "9191cab6138719b226b7369466ddfcb61d3060c4b6c10dd1ca8def9a7c3ee3a0",
+      "origin": "selected_additions",
+      "source_sha256": "4259a4e00814f36dcdc3ec5816f012b234a07f7b836550ec2c1658cf110388e6",
+      "source_key": "olya_minecraft_scared_v3"
+    },
+    {
+      "path": "game/images/olya/office/angry.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "c1b11cb4be05bc4cbae914df9b8f0aac7d41094ebaf2589c78a40ce92f6867ee",
+      "origin": "original_kit",
+      "source_sha256": "eb6f5236ea220863a4cda7f68a65bc71bf16cb59671bde15340105639f374926"
+    },
+    {
+      "path": "game/images/olya/office/happy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "995eebf24c5169e73da3da54de73e0eae04ea06191026a4cfc9360ddd4659b5a",
+      "origin": "original_kit",
+      "source_sha256": "4f951fadcecbdabdecfc4d77e3ca5ae72f079430ad2f0adbe1c319edfeae5907"
+    },
+    {
+      "path": "game/images/olya/office/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "59fdd1f5bdf5fa4ab0b210a5e6438c85ae22c57ddc5aacd4a66b02cee0db3f13",
+      "origin": "original_kit",
+      "source_sha256": "3478a426a2422dc416c7e4ba468a6463e318ee2c139447c6810497c2a6fd29e4"
+    },
+    {
+      "path": "game/images/olya/office/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "eeaa83ed5d081d280efeb787fbfecbae405e5036f4f10e54136cccbbe1feb0f4",
+      "origin": "original_kit",
+      "source_sha256": "a74652967ecd853159d08c6fee054473d2518959b1ec792799d27e6bce1db06f"
+    },
+    {
+      "path": "game/images/olya/office/skeptical.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "1ce055c5e1a7437ea249b545f65404f81074e56b469565b14cbc0f0d9292e463",
+      "origin": "original_kit",
+      "source_sha256": "03c522ae9837f7e84d48db2b523fd4c7b8d92485b0c404bebfddb8e34ce42a5a"
+    },
+    {
+      "path": "game/images/olya/office/sleepy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "03989dbd5c8617d2442ce5e871834a30b00304cc5db06f515155e40a38e1a90e",
+      "origin": "original_kit",
+      "source_sha256": "af73f13e542cef9003ede9307e5ff47fd34247e1424f902bb8f12a7ce4a26fb3"
+    },
+    {
+      "path": "game/images/olya/sims/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "e0fc41ae00cf30d44b57007c789d0270cb5f5103d54e4d7c3b75b5c724e51f5a",
+      "origin": "selected_additions",
+      "source_sha256": "8fe728f33d863ced9f01225ade6a89804dc38c67ba5ff48457b60e5f2e015d1a",
+      "source_key": "olya_sims_confused_v2"
+    },
+    {
+      "path": "game/images/olya/sims/happy.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "2c00efe24b9180c7a085a75663becaa2291093a6346f6b74976cf9ab34754731",
+      "origin": "selected_additions",
+      "source_sha256": "fcc3397194994e7db7c37633de0beefbce55362be09379e2228e009abc9a03b8",
+      "source_key": "olya_sims_happy_v2"
+    },
+    {
+      "path": "game/images/olya/sims/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "3275f462602b581c43e486b28de2e8a9e92be105fba52859d807e0adda379a11",
+      "origin": "selected_additions",
+      "source_sha256": "eef0b5957f96fbea1336808ed36e81d29d9800458e2c5757d3fe8642441e4798",
+      "source_key": "olya_sims_neutral_v2"
+    },
+    {
+      "path": "game/images/olya/sims/panic.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "35cf962477c97965603ab8c3945b87ecbc27ab5efdc47cc111980eab77aff864",
+      "origin": "selected_additions",
+      "source_sha256": "b570d0f6f31f99f1e7fdfe73b31a7aa6db55f45499e5ffc07ecac7842152444e",
+      "source_key": "olya_sims_panic_v2"
+    },
+    {
+      "path": "game/images/olya/southpark/angry.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "80a9d06e7940616b5b393f39a4cda610f9db6dac0879d858cdfd249e25a9a3db",
+      "origin": "original_kit",
+      "source_sha256": "d777d54e3e4d286fe14265dae902a549ef313c9aed4a2ec841779060745707aa"
+    },
+    {
+      "path": "game/images/olya/southpark/confused.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "b92e79027808c0cd9cd984209075c7a9b0ed745d2472dabfcb8d7ab05918d12e",
+      "origin": "original_kit",
+      "source_sha256": "c5d7690295c36f77fa3c9d9f9fea74d0233ca8303d2e8f06a11c1b6735a01c12"
+    },
+    {
+      "path": "game/images/olya/southpark/neutral.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "db8e44e06b1cd3b8634a9a566739dbc1e81bb7ed833f9e3f89d9daf0689fbfbc",
+      "origin": "original_kit",
+      "source_sha256": "9f2d5f8a1666c8e424af534d4a325f6bce8713677e6c09f9b7212dd193797681"
+    },
+    {
+      "path": "game/images/olya/southpark/scared.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "P",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "compression": "256-color indexed PNG; original dimensions; reduced color and alpha precision",
+      "status": "supplied_for_integration",
+      "sha256": "b205e7d3492b9ee4bfcce1a9bb8449efd79f554d6e476f2578952c1c943bb0e7",
+      "origin": "original_kit",
+      "source_sha256": "3d1119ae34199ede49b9013b9d7ca845eedd849e4901cbfcb44482aefb631ab6"
+    }
+  ],
+  "ui_paths": [
+    "game/gui/worlds/marvel/choice_disabled.png",
+    "game/gui/worlds/marvel/choice_hover.png",
+    "game/gui/worlds/marvel/choice_idle.png",
+    "game/gui/worlds/marvel/choice_pressed.png",
+    "game/gui/worlds/marvel/choice_selected.png",
+    "game/gui/worlds/marvel/dialogue.png",
+    "game/gui/worlds/marvel/name.png",
+    "game/gui/worlds/marvel/next.png",
+    "game/gui/worlds/marvel/quick_disabled.png",
+    "game/gui/worlds/marvel/quick_hover.png",
+    "game/gui/worlds/marvel/quick_idle.png",
+    "game/gui/worlds/marvel/quick_pressed.png",
+    "game/gui/worlds/marvel/quick_selected.png",
+    "game/gui/worlds/minecraft/choice_disabled.png",
+    "game/gui/worlds/minecraft/choice_hover.png",
+    "game/gui/worlds/minecraft/choice_idle.png",
+    "game/gui/worlds/minecraft/choice_pressed.png",
+    "game/gui/worlds/minecraft/choice_selected.png",
+    "game/gui/worlds/minecraft/dialogue.png",
+    "game/gui/worlds/minecraft/name.png",
+    "game/gui/worlds/minecraft/next.png",
+    "game/gui/worlds/minecraft/quick_disabled.png",
+    "game/gui/worlds/minecraft/quick_hover.png",
+    "game/gui/worlds/minecraft/quick_idle.png",
+    "game/gui/worlds/minecraft/quick_pressed.png",
+    "game/gui/worlds/minecraft/quick_selected.png",
+    "game/gui/worlds/sims/choice_disabled.png",
+    "game/gui/worlds/sims/choice_hover.png",
+    "game/gui/worlds/sims/choice_idle.png",
+    "game/gui/worlds/sims/choice_pressed.png",
+    "game/gui/worlds/sims/choice_selected.png",
+    "game/gui/worlds/sims/dialogue.png",
+    "game/gui/worlds/sims/name.png",
+    "game/gui/worlds/sims/next.png",
+    "game/gui/worlds/sims/quick_disabled.png",
+    "game/gui/worlds/sims/quick_hover.png",
+    "game/gui/worlds/sims/quick_idle.png",
+    "game/gui/worlds/sims/quick_pressed.png",
+    "game/gui/worlds/sims/quick_selected.png",
+    "game/gui/worlds/southpark/choice_disabled.png",
+    "game/gui/worlds/southpark/choice_hover.png",
+    "game/gui/worlds/southpark/choice_idle.png",
+    "game/gui/worlds/southpark/choice_pressed.png",
+    "game/gui/worlds/southpark/choice_selected.png",
+    "game/gui/worlds/southpark/dialogue.png",
+    "game/gui/worlds/southpark/name.png",
+    "game/gui/worlds/southpark/next.png",
+    "game/gui/worlds/southpark/quick_disabled.png",
+    "game/gui/worlds/southpark/quick_hover.png",
+    "game/gui/worlds/southpark/quick_idle.png",
+    "game/gui/worlds/southpark/quick_pressed.png",
+    "game/gui/worlds/southpark/quick_selected.png",
+    "game/gui/worlds/storybook/choice_disabled.png",
+    "game/gui/worlds/storybook/choice_hover.png",
+    "game/gui/worlds/storybook/choice_idle.png",
+    "game/gui/worlds/storybook/choice_pressed.png",
+    "game/gui/worlds/storybook/choice_selected.png",
+    "game/gui/worlds/storybook/dialogue.png",
+    "game/gui/worlds/storybook/name.png",
+    "game/gui/worlds/storybook/next.png",
+    "game/gui/worlds/storybook/quick_disabled.png",
+    "game/gui/worlds/storybook/quick_hover.png",
+    "game/gui/worlds/storybook/quick_idle.png",
+    "game/gui/worlds/storybook/quick_pressed.png",
+    "game/gui/worlds/storybook/quick_selected.png"
+  ],
+  "fonts": "FONT_MANIFEST.json",
+  "music": "MUSIC_MANIFEST.json",
+  "not_supplied": [
+    "strange_doubtful",
+    "copyrighted_world_theme_audio"
+  ],
+  "integration_status": "source_asset_handoff_only"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "family": "Alegreya Sans",
+    "path": "game/fonts/AlegreyaSans-Regular.ttf",
+    "weight": 400,
+    "static": true,
+    "modified_instance": false,
+    "source": "https://github.com/google/fonts/tree/main/ofl/alegreyasans",
+    "license": "licenses/fonts/alegreyasans_OFL.txt"
+  },
+  {
+    "family": "Lora",
+    "path": "game/fonts/OlyaStorySerif-Semibold.ttf",
+    "weight": 600,
+    "static": true,
+    "modified_instance": true,
+    "source": "https://github.com/google/fonts/tree/main/ofl/lora",
+    "license": "licenses/fonts/lora_OFL.txt"
+  },
+  {
+    "family": "Rubik",
+    "path": "game/fonts/OlyaGameSans-Regular.ttf",
+    "weight": 400,
+    "static": true,
+    "modified_instance": true,
+    "source": "https://github.com/google/fonts/tree/main/ofl/rubik",
+    "license": "licenses/fonts/rubik_OFL.txt"
+  },
+  {
+    "family": "Comfortaa",
+    "path": "game/fonts/OlyaRounded-Bold.ttf",
+    "weight": 700,
+    "static": true,
+    "modified_instance": true,
+    "source": "https://github.com/google/fonts/tree/main/ofl/comfortaa",
+    "license": "licenses/fonts/comfortaa_OFL.txt"
+  },
+  {
+    "family": "Press Start 2P",
+    "path": "game/fonts/PressStart2P-Regular.ttf",
+    "weight": 400,
+    "static": true,
+    "modified_instance": false,
+    "source": "https://github.com/google/fonts/tree/main/ofl/pressstart2p",
+    "license": "licenses/fonts/pressstart2p_OFL.txt"
+  },
+  {
+    "family": "Neucha",
+    "path": "game/fonts/Neucha-Regular.ttf",
+    "weight": 400,
+    "static": true,
+    "modified_instance": false,
+    "source": "https://github.com/google/fonts/tree/main/ofl/neucha",
+    "license": "licenses/fonts/neucha_OFL.txt"
+  },
+  {
+    "family": "Russo One",
+    "path": "game/fonts/RussoOne-Regular.ttf",
+    "weight": 400,
+    "static": true,
+    "modified_instance": false,
+    "source": "https://github.com/google/fonts/tree/main/ofl/russoone",
+    "license": "licenses/fonts/russoone_OFL.txt"
+  }
+]

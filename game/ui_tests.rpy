@@ -129,6 +129,6 @@ testsuite interface:
         advance until screen "choice"
         click "Спросить Бри напрямую"
         advance until "Я не против переноса. Я против того, чтобы узнать о нем, когда все уже стоят у двери."
-        assert eval renpy.showing("bree base")
+        assert eval renpy.showing("bree strict")
         assert eval not renpy.showing("susan")
         screenshot "cast/bree.png"

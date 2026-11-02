@@ -12,6 +12,8 @@ init python:
     WORLD_NAMES = {"housewives": "Вистерия-Лейн", "manhattan": "Манхэттен", "southpark": "South Park", "minecraft": "Minecraft", "sims": "The Sims", "marvel": "Marvel", "office": "Домой"}
     ENDINGS = [("stay_" + w, WORLD_NAMES[w]) for w in WORLDS] + [("home", "С днем рождения!"), ("open_door", "Дверь остается")]
     def enter_world(world):
+        if world != "office":
+            renpy.music.stop(channel="music", fadeout=1.5)
         store.current_world = world
         store.ui_world = world if world in ("southpark", "minecraft", "sims", "marvel") else "storybook"
         if world in WORLDS and world not in store.visited_worlds:

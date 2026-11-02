@@ -4,7 +4,7 @@ init -2 python:
 define config.check_conflicting_properties = True
 
 define config.name = "В порядке перевода"
-define config.version = "0.1.0"
+define config.version = "0.2.0"
 define config.save_directory = "olya-v-poryadke-perevoda"
 define config.window = "auto"
 define config.rollback_enabled = True
@@ -16,8 +16,10 @@ define config.history_length = 250
 define config.audio_filename_callback = None
 
 define build.name = "V_Poryadke_Perevoda"
-define build.directory_name = "V_Poryadke_Perevoda-0.1.0"
+define build.directory_name = "V_Poryadke_Perevoda-0.2.0"
 init python:
+    build.classify('downloads/**', None)
+    build.classify('licenses/**', 'all')
     build.classify('**.rpyc', None)
     build.classify('docs/**', None)
     build.classify('tools/**', None)
@@ -32,7 +34,7 @@ init python:
     build.classify('game/test_screenshots/**', None)
 
 style default:
-    font "DejaVuSans.ttf"
+    font "fonts/AlegreyaSans-Regular.ttf"
     size 32
     color "#f7efdf"
 style button:
@@ -41,6 +43,7 @@ style button:
     hover_background Solid("#92506a")
     insensitive_background Solid("#26303a")
 style button_text:
+    font "fonts/OlyaStorySerif-Semibold.ttf"
     color "#f7efdf"
     hover_color "#ffffff"
     insensitive_color "#74808b"
@@ -77,3 +80,6 @@ init 10 python:
     for _key, _value in _confirm_ru.items():
         setattr(layout, _key, _value)
         setattr(gui, _key, _value)
+
+init python:
+    MUSIC_CREDITS = renpy.file("credits/MUSIC_CREDITS.txt").read().decode("utf-8")

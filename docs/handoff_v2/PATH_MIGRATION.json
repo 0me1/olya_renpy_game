@@ -1,0 +1,237 @@
+[
+  {
+    "source_key": "cartman_proud",
+    "addition_path": "game/images/characters/cartman/proud.png",
+    "final_path": "game/images/cast/cartman/proud.png"
+  },
+  {
+    "source_key": "randy_proud",
+    "addition_path": "game/images/characters/randy/proud.png",
+    "final_path": "game/images/cast/randy/proud.png"
+  },
+  {
+    "source_key": "villager_neutral",
+    "addition_path": "game/images/characters/villager/neutral.png",
+    "final_path": "game/images/cast/villager/neutral.png"
+  },
+  {
+    "source_key": "bella_greeting",
+    "addition_path": "game/images/characters/bella/greeting.png",
+    "final_path": "game/images/cast/bella/greeting.png"
+  },
+  {
+    "source_key": "strange_explaining",
+    "addition_path": "game/images/characters/strange/explaining.png",
+    "final_path": "game/images/cast/strange/explaining.png"
+  },
+  {
+    "source_key": "wong_neutral",
+    "addition_path": "game/images/characters/wong/neutral.png",
+    "final_path": "game/images/cast/wong/neutral.png"
+  },
+  {
+    "source_key": "birthday_home",
+    "addition_path": "game/images/backgrounds/birthday_home.png",
+    "final_path": "game/images/backgrounds/birthday_home.png"
+  },
+  {
+    "source_key": "olya_sims_neutral_v2",
+    "addition_path": "game/images/olya/sims_v2/neutral.png",
+    "final_path": "game/images/olya/sims/neutral.png"
+  },
+  {
+    "source_key": "susan_worried",
+    "addition_path": "game/images/characters/susan/worried.png",
+    "final_path": "game/images/cast/susan/worried.png"
+  },
+  {
+    "source_key": "susan_relieved",
+    "addition_path": "game/images/characters/susan/relieved.png",
+    "final_path": "game/images/cast/susan/relieved.png"
+  },
+  {
+    "source_key": "susan_serious",
+    "addition_path": "game/images/characters/susan/serious.png",
+    "final_path": "game/images/cast/susan/serious.png"
+  },
+  {
+    "source_key": "bree_strict",
+    "addition_path": "game/images/characters/bree/strict.png",
+    "final_path": "game/images/cast/bree/strict.png"
+  },
+  {
+    "source_key": "bree_surprised",
+    "addition_path": "game/images/characters/bree/surprised.png",
+    "final_path": "game/images/cast/bree/surprised.png"
+  },
+  {
+    "source_key": "bree_approving",
+    "addition_path": "game/images/characters/bree/approving.png",
+    "final_path": "game/images/cast/bree/approving.png"
+  },
+  {
+    "source_key": "gaby_smirk",
+    "addition_path": "game/images/characters/gaby/smirk.png",
+    "final_path": "game/images/cast/gabrielle/smirk.png"
+  },
+  {
+    "source_key": "gaby_indignant",
+    "addition_path": "game/images/characters/gaby/indignant.png",
+    "final_path": "game/images/cast/gabrielle/indignant.png"
+  },
+  {
+    "source_key": "gaby_laugh",
+    "addition_path": "game/images/characters/gaby/laugh.png",
+    "final_path": "game/images/cast/gabrielle/laugh.png"
+  },
+  {
+    "source_key": "miranda_supportive",
+    "addition_path": "game/images/characters/miranda/supportive.png",
+    "final_path": "game/images/cast/miranda/supportive.png"
+  },
+  {
+    "source_key": "cartman_angry",
+    "addition_path": "game/images/characters/cartman/angry.png",
+    "final_path": "game/images/cast/cartman/angry.png"
+  },
+  {
+    "source_key": "cartman_scared",
+    "addition_path": "game/images/characters/cartman/scared.png",
+    "final_path": "game/images/cast/cartman/scared.png"
+  },
+  {
+    "source_key": "randy_confused",
+    "addition_path": "game/images/characters/randy/confused.png",
+    "final_path": "game/images/cast/randy/confused.png"
+  },
+  {
+    "source_key": "randy_panicked",
+    "addition_path": "game/images/characters/randy/panicked.png",
+    "final_path": "game/images/cast/randy/panicked.png"
+  },
+  {
+    "source_key": "villager_trade",
+    "addition_path": "game/images/characters/villager/trade.png",
+    "final_path": "game/images/cast/villager/trade.png"
+  },
+  {
+    "source_key": "bella_suspicious",
+    "addition_path": "game/images/characters/bella/suspicious.png",
+    "final_path": "game/images/cast/bella/suspicious.png"
+  },
+  {
+    "source_key": "bella_supportive",
+    "addition_path": "game/images/characters/bella/supportive.png",
+    "final_path": "game/images/cast/bella/supportive.png"
+  },
+  {
+    "source_key": "strange_magic",
+    "addition_path": "game/images/characters/strange/magic.png",
+    "final_path": "game/images/cast/strange/magic.png"
+  },
+  {
+    "source_key": "wong_skeptical",
+    "addition_path": "game/images/characters/wong/skeptical.png",
+    "final_path": "game/images/cast/wong/skeptical.png"
+  },
+  {
+    "source_key": "wong_approving",
+    "addition_path": "game/images/characters/wong/approving.png",
+    "final_path": "game/images/cast/wong/approving.png"
+  },
+  {
+    "source_key": "olya_minecraft_confused_v3",
+    "addition_path": "game/images/olya/minecraft_v3/confused.png",
+    "final_path": "game/images/olya/minecraft/confused.png"
+  },
+  {
+    "source_key": "olya_minecraft_scared_v3",
+    "addition_path": "game/images/olya/minecraft_v3/scared.png",
+    "final_path": "game/images/olya/minecraft/scared.png"
+  },
+  {
+    "source_key": "carrie_greeting",
+    "addition_path": "game/images/characters/carrie/greeting.png",
+    "final_path": "game/images/cast/carrie/greeting.png"
+  },
+  {
+    "source_key": "olya_sims_confused_v2",
+    "addition_path": "game/images/olya/sims_v2/confused.png",
+    "final_path": "game/images/olya/sims/confused.png"
+  },
+  {
+    "source_key": "olya_sims_happy_v2",
+    "addition_path": "game/images/olya/sims_v2/happy.png",
+    "final_path": "game/images/olya/sims/happy.png"
+  },
+  {
+    "source_key": "olya_sims_panic_v2",
+    "addition_path": "game/images/olya/sims_v2/panic.png",
+    "final_path": "game/images/olya/sims/panic.png"
+  },
+  {
+    "source_key": "kyle_neutral_v2",
+    "addition_path": "game/images/characters/kyle/neutral_v2.png",
+    "final_path": "game/images/cast/kyle/neutral.png"
+  },
+  {
+    "source_key": "kyle_indignant_v2",
+    "addition_path": "game/images/characters/kyle/indignant_v2.png",
+    "final_path": "game/images/cast/kyle/indignant.png"
+  },
+  {
+    "source_key": "kyle_explaining_v2",
+    "addition_path": "game/images/characters/kyle/explaining_v2.png",
+    "final_path": "game/images/cast/kyle/explaining.png"
+  },
+  {
+    "source_key": "olya_minecraft_pickaxe_v4",
+    "addition_path": "game/images/olya/minecraft_v4/pickaxe.png",
+    "final_path": "game/images/olya/minecraft/pickaxe.png"
+  },
+  {
+    "source_key": "carrie_neutral",
+    "addition_path": "game/images/characters/carrie/neutral.png",
+    "final_path": "game/images/cast/carrie/neutral.png"
+  },
+  {
+    "source_key": "carrie_explaining",
+    "addition_path": "game/images/characters/carrie/explaining.png",
+    "final_path": "game/images/cast/carrie/explaining.png"
+  },
+  {
+    "source_key": "carrie_laugh",
+    "addition_path": "game/images/characters/carrie/laugh.png",
+    "final_path": "game/images/cast/carrie/laugh.png"
+  },
+  {
+    "source_key": "carrie_surprised",
+    "addition_path": "game/images/characters/carrie/surprised.png",
+    "final_path": "game/images/cast/carrie/surprised.png"
+  },
+  {
+    "source_key": "carrie_thinking",
+    "addition_path": "game/images/characters/carrie/thinking.png",
+    "final_path": "game/images/cast/carrie/thinking.png"
+  },
+  {
+    "source_key": "miranda_neutral",
+    "addition_path": "game/images/characters/miranda/neutral.png",
+    "final_path": "game/images/cast/miranda/neutral.png"
+  },
+  {
+    "source_key": "miranda_skeptical",
+    "addition_path": "game/images/characters/miranda/skeptical.png",
+    "final_path": "game/images/cast/miranda/skeptical.png"
+  },
+  {
+    "source_key": "miranda_explaining",
+    "addition_path": "game/images/characters/miranda/explaining.png",
+    "final_path": "game/images/cast/miranda/explaining.png"
+  },
+  {
+    "source_key": "miranda_surprised",
+    "addition_path": "game/images/characters/miranda/surprised.png",
+    "final_path": "game/images/cast/miranda/surprised.png"
+  }
+]

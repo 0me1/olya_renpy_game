@@ -1,0 +1,912 @@
+[
+  {
+    "path": "ART_STATUS.md",
+    "bytes": 3546,
+    "sha256": "104cf72bd91375e9219124657ba832e37f79945e60a21438ab3672fddefd1ebb"
+  },
+  {
+    "path": "ASSETS.json",
+    "bytes": 54246,
+    "sha256": "32d7985c5c04e0dc7634ea732083b00722286e42e50492a6e96e7b0807ed6bfa"
+  },
+  {
+    "path": "FONT_MANIFEST.json",
+    "bytes": 1938,
+    "sha256": "d398f2b129bb5d71bd09a413722cabd6ab8d5bd5a29ee02602c454052cbbf743"
+  },
+  {
+    "path": "FONT_SPEC.md",
+    "bytes": 2534,
+    "sha256": "1752750f4c2b0f4b1ac2bafb1035b234b85ee506147d0e3ccbf0cd0c82a22169"
+  },
+  {
+    "path": "MUSIC_MANIFEST.json",
+    "bytes": 3491,
+    "sha256": "38b2b027b2b6e792b26d669ed6063effb934684c0846e51aa3bac0bfaf4bf2ac"
+  },
+  {
+    "path": "PATH_MIGRATION.json",
+    "bytes": 7942,
+    "sha256": "824294cbc51876c1dc155d24fe7b78da2fda06bb7ccebcdc319bece2ce55542d"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2815,
+    "sha256": "848f148e5801b8ab7cc7e811db915dce191e77bc9becff6a68da8321dc863fa5"
+  },
+  {
+    "path": "START_PROMPT.md",
+    "bytes": 13950,
+    "sha256": "ea79c1072ed81130e5b32b5e49584bdaf316c7c19b9e6357ce20cdac27b1ce60"
+  },
+  {
+    "path": "STORY_REFERENCE.md",
+    "bytes": 17383,
+    "sha256": "c18cbe71cfbe5f5b4b606665db992ac9c68cd3532ff8710f4e3f39f92df5f873"
+  },
+  {
+    "path": "docs/ART_TODO_FROM_BUILD_SNAPSHOT.md",
+    "bytes": 3261,
+    "sha256": "ffd7f657da05f38d46e11a0773dacb8155f5b2641020a37228ed319bbf386f8d"
+  },
+  {
+    "path": "docs/MUSIC_PLAN.md",
+    "bytes": 5686,
+    "sha256": "da9258050af7b5f709f369df82887689ee6462fd6ce127272db15d8c6b9a7a78"
+  },
+  {
+    "path": "game/audio/music/office_airport_lounge.ogg",
+    "bytes": 4294757,
+    "sha256": "a31e3f2fb6b86a1412d31297b648943f5588a6c0cb0e37de62388061c568e1d3"
+  },
+  {
+    "path": "game/fonts/AlegreyaSans-Regular.ttf",
+    "bytes": 263804,
+    "sha256": "8fab634196007afca839f1e5a6fb300976daff55d8528b590ef032f01b14ea10"
+  },
+  {
+    "path": "game/fonts/Neucha-Regular.ttf",
+    "bytes": 141432,
+    "sha256": "7927bd6ce090fa032857dcbc3ad0e8b765c462d0a72a8779068132496b4e087d"
+  },
+  {
+    "path": "game/fonts/OlyaGameSans-Regular.ttf",
+    "bytes": 212284,
+    "sha256": "7b61ae6b3008d1d9defeb115b20efe32276595d3ae0803d6b439cd00bd6f6d09"
+  },
+  {
+    "path": "game/fonts/OlyaRounded-Bold.ttf",
+    "bytes": 111356,
+    "sha256": "95b5230ca26bb6b6ca5b1fe4f3ff07deb8e779a24f11dd653904b2b6956ff661"
+  },
+  {
+    "path": "game/fonts/OlyaStorySerif-Semibold.ttf",
+    "bytes": 135532,
+    "sha256": "747de1e17ed7c7d929fa57e68415e06fbcc61ad49401cba2b696a836088269ca"
+  },
+  {
+    "path": "game/fonts/PressStart2P-Regular.ttf",
+    "bytes": 118204,
+    "sha256": "034c77f1f05ec89421e4a63f0e3a4ca1ecf852cc6d2bf611f126f275728e017d"
+  },
+  {
+    "path": "game/fonts/RussoOne-Regular.ttf",
+    "bytes": 39124,
+    "sha256": "bc0abcc660bd8b7ad3000ecb2898a27c58a29a50f7ec81652fa12e75148d09df"
+  },
+  {
+    "path": "game/gui/worlds/marvel/choice_disabled.png",
+    "bytes": 4989,
+    "sha256": "a02a1d3863c0bcfa863d4883532c47af7e4d1ebc50e4cf1ae254265151d4b50d"
+  },
+  {
+    "path": "game/gui/worlds/marvel/choice_hover.png",
+    "bytes": 4691,
+    "sha256": "5e90c5fded500b24a2b60bf9bd7c006f5096bd9cb8b421b97d6328935105992e"
+  },
+  {
+    "path": "game/gui/worlds/marvel/choice_idle.png",
+    "bytes": 5286,
+    "sha256": "099c6d8d238b2a1058abae530be3ce67b3a84b39233046decddb43cb7048bae7"
+  },
+  {
+    "path": "game/gui/worlds/marvel/choice_pressed.png",
+    "bytes": 4691,
+    "sha256": "5e90c5fded500b24a2b60bf9bd7c006f5096bd9cb8b421b97d6328935105992e"
+  },
+  {
+    "path": "game/gui/worlds/marvel/choice_selected.png",
+    "bytes": 4691,
+    "sha256": "5e90c5fded500b24a2b60bf9bd7c006f5096bd9cb8b421b97d6328935105992e"
+  },
+  {
+    "path": "game/gui/worlds/marvel/dialogue.png",
+    "bytes": 32933,
+    "sha256": "76fedad7064240cd416578b9c572103fc1e1db1d2738a4671ad015d42272c2aa"
+  },
+  {
+    "path": "game/gui/worlds/marvel/name.png",
+    "bytes": 4375,
+    "sha256": "ff11b9f3d368ea48325a190874f9a5752e1cb65ca0c790625e1d0a37e1e5e95d"
+  },
+  {
+    "path": "game/gui/worlds/marvel/next.png",
+    "bytes": 1052,
+    "sha256": "181e8c786b9c77145f993586709d781cf34bada232a69d5e1ed3f388d908ff9f"
+  },
+  {
+    "path": "game/gui/worlds/marvel/quick_disabled.png",
+    "bytes": 2795,
+    "sha256": "8fff1f8be8a7ef6ac6ca6dae48787298863706b76b39cce9a6eddf41b2a93a0b"
+  },
+  {
+    "path": "game/gui/worlds/marvel/quick_hover.png",
+    "bytes": 2693,
+    "sha256": "d25e8457d2890e07c64e54ae6eda897beb2c42d358ecdaa93ed56a368d770f54"
+  },
+  {
+    "path": "game/gui/worlds/marvel/quick_idle.png",
+    "bytes": 2873,
+    "sha256": "b90401f9455fde0f7b55ca189e0b796024e83305fb29b7fd386bc579aef547ee"
+  },
+  {
+    "path": "game/gui/worlds/marvel/quick_pressed.png",
+    "bytes": 2693,
+    "sha256": "d25e8457d2890e07c64e54ae6eda897beb2c42d358ecdaa93ed56a368d770f54"
+  },
+  {
+    "path": "game/gui/worlds/marvel/quick_selected.png",
+    "bytes": 2693,
+    "sha256": "d25e8457d2890e07c64e54ae6eda897beb2c42d358ecdaa93ed56a368d770f54"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/choice_disabled.png",
+    "bytes": 705,
+    "sha256": "f40b391a7a240550f177aa42e1d3c7e6ddedd308e6acaaf96efa004ad7665a5b"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/choice_hover.png",
+    "bytes": 745,
+    "sha256": "153e2b53715ea23dfef38980ec8aade773f89a652aef8b0bf7d8b545bbaf96c0"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/choice_idle.png",
+    "bytes": 700,
+    "sha256": "1a5b275ac648ebccece08741d0a019455f3cbb970d3828fc1414a5ffcc684aa5"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/choice_pressed.png",
+    "bytes": 705,
+    "sha256": "c3820c8196d56245ccbc347aaecbcf4842ab7dc1036d1f8e68867603e06802a6"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/choice_selected.png",
+    "bytes": 745,
+    "sha256": "153e2b53715ea23dfef38980ec8aade773f89a652aef8b0bf7d8b545bbaf96c0"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/dialogue.png",
+    "bytes": 2726,
+    "sha256": "d7a08e0fa49ff2857f2f50ac14d60a5f844b42f65b2ff23fb3967c54181f60ae"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/name.png",
+    "bytes": 416,
+    "sha256": "9e1219d5c9712e01e69b08ad528b223e0b284a5e5078bee5d5d49437255b9366"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/next.png",
+    "bytes": 271,
+    "sha256": "df88ad18ab98abfcb44c5bfa7c548779d761c6f18880014c94966f9fe427746a"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/quick_disabled.png",
+    "bytes": 295,
+    "sha256": "81a5d3db53eeab181afe33709a62e34c6194ee586f2ee470c84d1dd1bd37ff88"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/quick_hover.png",
+    "bytes": 333,
+    "sha256": "cc47d86aa4bc59c3daed3502bc8b3428d6c8ae59dfde2b299b3c8e0092992e99"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/quick_idle.png",
+    "bytes": 294,
+    "sha256": "dd617f66fadf7a8a30f8b1cc5d9e6124fc4c91140248aa04453f5e9102ca5e87"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/quick_pressed.png",
+    "bytes": 294,
+    "sha256": "9c445767fbacb4db82f56a58d078b15497c517b0754e054ff3de0ea05c83b0ab"
+  },
+  {
+    "path": "game/gui/worlds/minecraft/quick_selected.png",
+    "bytes": 333,
+    "sha256": "cc47d86aa4bc59c3daed3502bc8b3428d6c8ae59dfde2b299b3c8e0092992e99"
+  },
+  {
+    "path": "game/gui/worlds/sims/choice_disabled.png",
+    "bytes": 5800,
+    "sha256": "572e5498a1f09e3fe5b6915f749fc2a58204a2ad24e25e848e2bba62be26ceca"
+  },
+  {
+    "path": "game/gui/worlds/sims/choice_hover.png",
+    "bytes": 6019,
+    "sha256": "237775671aa2dac6f5f7f7c673c61da89055e54bc968423c101202b039e0bbe8"
+  },
+  {
+    "path": "game/gui/worlds/sims/choice_idle.png",
+    "bytes": 5842,
+    "sha256": "ac396991e0cc00f6952b701f722da08bc7d4e19e16783089a79c7b28b30fcf3f"
+  },
+  {
+    "path": "game/gui/worlds/sims/choice_pressed.png",
+    "bytes": 4224,
+    "sha256": "d4f359b0686f9ce214603470e2c9f1cb473a3e038e87ff2cb6c75334e66bc753"
+  },
+  {
+    "path": "game/gui/worlds/sims/choice_selected.png",
+    "bytes": 6019,
+    "sha256": "237775671aa2dac6f5f7f7c673c61da89055e54bc968423c101202b039e0bbe8"
+  },
+  {
+    "path": "game/gui/worlds/sims/dialogue.png",
+    "bytes": 8313,
+    "sha256": "8b48167f51e354599bc316806113990c8904161690f09b235e153e4ecd4f1863"
+  },
+  {
+    "path": "game/gui/worlds/sims/name.png",
+    "bytes": 4596,
+    "sha256": "76da17e86d81a5c80ffb76906e88522314174c5940dc54f69f5a286293ff8d08"
+  },
+  {
+    "path": "game/gui/worlds/sims/next.png",
+    "bytes": 1131,
+    "sha256": "07e58f71b3ec1580a30bdca3b40fd13cf37e68c063ca8eb77fc85b0da18bd72e"
+  },
+  {
+    "path": "game/gui/worlds/sims/quick_disabled.png",
+    "bytes": 3045,
+    "sha256": "7ea830bc64101200984d93f6baf822c50808ba8fa1c932e9803befa6459881b6"
+  },
+  {
+    "path": "game/gui/worlds/sims/quick_hover.png",
+    "bytes": 3179,
+    "sha256": "25f601cf9e68a3f4a169832ec99f6550b23f7abbc99957ab71054dc15e0e27d4"
+  },
+  {
+    "path": "game/gui/worlds/sims/quick_idle.png",
+    "bytes": 3084,
+    "sha256": "90ce3d0bea0fcc31078e31d00f8a812452ef6d1bad26aef0b9da5995d54acf50"
+  },
+  {
+    "path": "game/gui/worlds/sims/quick_pressed.png",
+    "bytes": 2206,
+    "sha256": "4820ab402a047ee2144c647801eee61cedd01be362e27e9480f5e72561bea8d3"
+  },
+  {
+    "path": "game/gui/worlds/sims/quick_selected.png",
+    "bytes": 3179,
+    "sha256": "25f601cf9e68a3f4a169832ec99f6550b23f7abbc99957ab71054dc15e0e27d4"
+  },
+  {
+    "path": "game/gui/worlds/southpark/choice_disabled.png",
+    "bytes": 6304,
+    "sha256": "a9b94ef4e149a1463028d653eff22172a794a6d7e72c81fd9eeafaeb84783543"
+  },
+  {
+    "path": "game/gui/worlds/southpark/choice_hover.png",
+    "bytes": 6646,
+    "sha256": "0428be7eea26e4aab9cc7d4f7e20b75836d74ca0ac28b39a613434e1275b4b27"
+  },
+  {
+    "path": "game/gui/worlds/southpark/choice_idle.png",
+    "bytes": 6911,
+    "sha256": "b271b2a199d8d931405463fe9f8a57a241fd4e0c4b40b23baf951b1cb79a2479"
+  },
+  {
+    "path": "game/gui/worlds/southpark/choice_pressed.png",
+    "bytes": 6646,
+    "sha256": "0428be7eea26e4aab9cc7d4f7e20b75836d74ca0ac28b39a613434e1275b4b27"
+  },
+  {
+    "path": "game/gui/worlds/southpark/choice_selected.png",
+    "bytes": 6646,
+    "sha256": "0428be7eea26e4aab9cc7d4f7e20b75836d74ca0ac28b39a613434e1275b4b27"
+  },
+  {
+    "path": "game/gui/worlds/southpark/dialogue.png",
+    "bytes": 12228,
+    "sha256": "f11046239f720de71e4ec7af5d168fd43c878b2b1a3f3c75084622a583acc09a"
+  },
+  {
+    "path": "game/gui/worlds/southpark/name.png",
+    "bytes": 6164,
+    "sha256": "b758cc6daaca5e47c802d5286bbf47863f6df9cd70d9f4e0307fa339d7264186"
+  },
+  {
+    "path": "game/gui/worlds/southpark/next.png",
+    "bytes": 1057,
+    "sha256": "16bebbadb2886264272132a9ac355877e2e84732c8a9805730d948dbdec0bc4d"
+  },
+  {
+    "path": "game/gui/worlds/southpark/quick_disabled.png",
+    "bytes": 3689,
+    "sha256": "32b1dac48ee79f56529c71686621f1c5f811a09b3fe381dd0ac1b53d225e1637"
+  },
+  {
+    "path": "game/gui/worlds/southpark/quick_hover.png",
+    "bytes": 3925,
+    "sha256": "23c937a7d551ad9b5cf4444e5ee949539610f7930895b27bda8132716c69b017"
+  },
+  {
+    "path": "game/gui/worlds/southpark/quick_idle.png",
+    "bytes": 4085,
+    "sha256": "afa8540d5cfa7d42029ec74a55a0d1a54d412b3db75416e0ed5ff93441f51085"
+  },
+  {
+    "path": "game/gui/worlds/southpark/quick_pressed.png",
+    "bytes": 3925,
+    "sha256": "23c937a7d551ad9b5cf4444e5ee949539610f7930895b27bda8132716c69b017"
+  },
+  {
+    "path": "game/gui/worlds/southpark/quick_selected.png",
+    "bytes": 3925,
+    "sha256": "23c937a7d551ad9b5cf4444e5ee949539610f7930895b27bda8132716c69b017"
+  },
+  {
+    "path": "game/gui/worlds/storybook/choice_disabled.png",
+    "bytes": 3594,
+    "sha256": "9348bda96e6efe2a6d686f633d67746395282c0e5e230b93976c15b43a823fb9"
+  },
+  {
+    "path": "game/gui/worlds/storybook/choice_hover.png",
+    "bytes": 2884,
+    "sha256": "38fbc7f33266777c594c62e25e1d15c20119df501469605813cdd66b8632a991"
+  },
+  {
+    "path": "game/gui/worlds/storybook/choice_idle.png",
+    "bytes": 3819,
+    "sha256": "b84303391c4e178de096bd11752988c560eea179abb5c3992fec8199d85dbf2d"
+  },
+  {
+    "path": "game/gui/worlds/storybook/choice_pressed.png",
+    "bytes": 2884,
+    "sha256": "38fbc7f33266777c594c62e25e1d15c20119df501469605813cdd66b8632a991"
+  },
+  {
+    "path": "game/gui/worlds/storybook/choice_selected.png",
+    "bytes": 2884,
+    "sha256": "38fbc7f33266777c594c62e25e1d15c20119df501469605813cdd66b8632a991"
+  },
+  {
+    "path": "game/gui/worlds/storybook/dialogue.png",
+    "bytes": 13390,
+    "sha256": "145c1bad7005c3a7e1937b9ee7c9684f31e53dfad2ea6de0294148188a380d1f"
+  },
+  {
+    "path": "game/gui/worlds/storybook/name.png",
+    "bytes": 2425,
+    "sha256": "d19d5c698bd9210d855c456716817ee2a3b329fe0a85d7652007273686a4bd3b"
+  },
+  {
+    "path": "game/gui/worlds/storybook/next.png",
+    "bytes": 1103,
+    "sha256": "cda240557faf9dc5dc1f774f2fefd62938098602446fc68a95b0d1cabd3aa32d"
+  },
+  {
+    "path": "game/gui/worlds/storybook/quick_disabled.png",
+    "bytes": 2703,
+    "sha256": "a11d782aae70b013290dfdf52f41f62a9536b45e986c1c7f007f7aa07af8ea9a"
+  },
+  {
+    "path": "game/gui/worlds/storybook/quick_hover.png",
+    "bytes": 2128,
+    "sha256": "0e90aecc8f834430ae720d5641357c86f21cbfcec7854f7b7ace7a7c663014ff"
+  },
+  {
+    "path": "game/gui/worlds/storybook/quick_idle.png",
+    "bytes": 2892,
+    "sha256": "9f8955f9d8db5f13bcbac8a63d07b449dd95e538de2b494a3b7c9016900565bf"
+  },
+  {
+    "path": "game/gui/worlds/storybook/quick_pressed.png",
+    "bytes": 2128,
+    "sha256": "0e90aecc8f834430ae720d5641357c86f21cbfcec7854f7b7ace7a7c663014ff"
+  },
+  {
+    "path": "game/gui/worlds/storybook/quick_selected.png",
+    "bytes": 2128,
+    "sha256": "0e90aecc8f834430ae720d5641357c86f21cbfcec7854f7b7ace7a7c663014ff"
+  },
+  {
+    "path": "game/images/backgrounds/birthday_home.png",
+    "bytes": 259070,
+    "sha256": "e71944b00810e6fc190a3680f9bc7b3e64d7f2eda29d3b1c38276111dbe214c6"
+  },
+  {
+    "path": "game/images/backgrounds/manhattan_bar.png",
+    "bytes": 280606,
+    "sha256": "175d296c7c849d787c96b185d0a84e08f98f52a4e9206b7014199447913432c1"
+  },
+  {
+    "path": "game/images/backgrounds/manhattan_street.png",
+    "bytes": 509004,
+    "sha256": "0a1d75b450d85cf94585bbbb9822947bf66bc8d1499043afae8c7516ed603d04"
+  },
+  {
+    "path": "game/images/backgrounds/marvel_hall.png",
+    "bytes": 337651,
+    "sha256": "e8317dbdd6b8781030b6fe8591c13a9db8aa56772b035879eb676fa97074d893"
+  },
+  {
+    "path": "game/images/backgrounds/marvel_rooftop.png",
+    "bytes": 306474,
+    "sha256": "e34e73be9d61eee90a003e7b4180ae50611a1c8188d0b0939e9045b0473e8bfe"
+  },
+  {
+    "path": "game/images/backgrounds/minecraft_clearing.png",
+    "bytes": 376681,
+    "sha256": "5621eb8e54dcb7aa6f573044f107bdd23db428aa91202c13967eb11f21e76cb9"
+  },
+  {
+    "path": "game/images/backgrounds/minecraft_house.png",
+    "bytes": 144935,
+    "sha256": "18f499a3843446a72c3c0428b254daf0ac60005353ae14d5d0b0b0c889dd583b"
+  },
+  {
+    "path": "game/images/backgrounds/office_day.png",
+    "bytes": 364198,
+    "sha256": "642d78e40568f284ba304d3370ad9b799323df1a90ca39e602dbb137dda36f64"
+  },
+  {
+    "path": "game/images/backgrounds/office_evening.png",
+    "bytes": 251916,
+    "sha256": "abc6a1a6a195203cefbc0fe9978b3093fe57f2578ca0335475fd0b30cbeaf10a"
+  },
+  {
+    "path": "game/images/backgrounds/sims_home.png",
+    "bytes": 283473,
+    "sha256": "6e18eecdc119c6633fb1bce853b1ce60a351bc2e16246481913ddaff5cfb51b3"
+  },
+  {
+    "path": "game/images/backgrounds/sims_pool.png",
+    "bytes": 531358,
+    "sha256": "495d93b9af12df73d0f4d7d544cd8c8baea81ba1f56b92ef827e3c78f8217be9"
+  },
+  {
+    "path": "game/images/backgrounds/southpark_school.png",
+    "bytes": 141934,
+    "sha256": "d7be7565f9f568b03b46fbf2f11f6fa68808581d7aa3d3bc80d12cbe6a180f00"
+  },
+  {
+    "path": "game/images/backgrounds/southpark_street.png",
+    "bytes": 178269,
+    "sha256": "c36dcaee22d76dc99ae1891fcf197c1531143b2a552f770bf886145dc76e001c"
+  },
+  {
+    "path": "game/images/backgrounds/wisteria_kitchen.png",
+    "bytes": 349737,
+    "sha256": "3e0f2692fb0691244bfe71f538c4501ce84135311259690d0e74f3ccaa678f87"
+  },
+  {
+    "path": "game/images/backgrounds/wisteria_street.png",
+    "bytes": 721916,
+    "sha256": "3973bdbe2271f08f1b2cf4cc5f5b1517069f230a79b179301e5a274fb7483828"
+  },
+  {
+    "path": "game/images/cast/bella/greeting.png",
+    "bytes": 120917,
+    "sha256": "1a488a6101c77f5b34b83925f31b89f77fb7901567131dd3e912285d8739a5ac"
+  },
+  {
+    "path": "game/images/cast/bella/supportive.png",
+    "bytes": 122279,
+    "sha256": "0ec379737ec514f3f0aef5655fbd03f0a30711e66d25273ac799aaccc5ef3f73"
+  },
+  {
+    "path": "game/images/cast/bella/suspicious.png",
+    "bytes": 108066,
+    "sha256": "d7d1acf67f07206dc44fdcf4478a03061676057b582a4d1ba9b539c4ed7d8e38"
+  },
+  {
+    "path": "game/images/cast/bree/approving.png",
+    "bytes": 108471,
+    "sha256": "dff95cf91679687cc4ef5cce9fd194661e6a6037b04a5430cd1326f4200728c8"
+  },
+  {
+    "path": "game/images/cast/bree/base.png",
+    "bytes": 91261,
+    "sha256": "8ccdb67f802ac5b9add95a231166b6a1967469b8749125c56947c12d08b2182c"
+  },
+  {
+    "path": "game/images/cast/bree/strict.png",
+    "bytes": 127688,
+    "sha256": "6558b066f62d39aeb21ef34fd442f7f7a16f7139860822b5f251f4b0de3eea8c"
+  },
+  {
+    "path": "game/images/cast/bree/surprised.png",
+    "bytes": 109600,
+    "sha256": "0e0452ddf124fea90e66bec8b2b453b76fe807a90c95f041bd01fb6c29477afb"
+  },
+  {
+    "path": "game/images/cast/carrie/explaining.png",
+    "bytes": 156397,
+    "sha256": "9cc72eabe3bd7d778f71e846ff8d9b3ff8033179fb10a53dcf35123265922214"
+  },
+  {
+    "path": "game/images/cast/carrie/greeting.png",
+    "bytes": 244468,
+    "sha256": "e7d1d744f1fce91ed11c183e199635f312b883a8958dca0c5decce8f04d22199"
+  },
+  {
+    "path": "game/images/cast/carrie/laugh.png",
+    "bytes": 151106,
+    "sha256": "937b67cea4e58edaa48b74a2f923731c5cdfd452d5e112394ab9edcdaccb5b2b"
+  },
+  {
+    "path": "game/images/cast/carrie/neutral.png",
+    "bytes": 159585,
+    "sha256": "92d996b5f33395b72c537317ab387dc0739fd638e68c98593b2ae748b58cabba"
+  },
+  {
+    "path": "game/images/cast/carrie/surprised.png",
+    "bytes": 151368,
+    "sha256": "b5e4b916a1bd98a764a2ddc871b330a571cf777acae5cf274c6790f0fb639d98"
+  },
+  {
+    "path": "game/images/cast/carrie/thinking.png",
+    "bytes": 155055,
+    "sha256": "5cfefe8cccefad42fd17bbb666cf28b32f17457b40fa8c6901f1401f5a7d684d"
+  },
+  {
+    "path": "game/images/cast/cartman/angry.png",
+    "bytes": 73939,
+    "sha256": "ceadb5e9b09a61897489f59d1799b90831836bd271ec26857dae16ad11124482"
+  },
+  {
+    "path": "game/images/cast/cartman/proud.png",
+    "bytes": 48683,
+    "sha256": "72daac442cedeabacd6830dcfcbab18d51b6635e41098cf417a40bda7fce324b"
+  },
+  {
+    "path": "game/images/cast/cartman/scared.png",
+    "bytes": 84182,
+    "sha256": "94eb3a900752730bbbc9a9d6878afbbdab837b57e14f45f6e8432ab8b6237517"
+  },
+  {
+    "path": "game/images/cast/gabrielle/base.png",
+    "bytes": 142227,
+    "sha256": "0cb2f9a8e19bca7ce8a2c7ea845815e5cb74d173d382e34306a68f334595dd99"
+  },
+  {
+    "path": "game/images/cast/gabrielle/indignant.png",
+    "bytes": 148761,
+    "sha256": "dbb4f7370f3888b7e542de7d79cdb431f71cfc76f5ea7e1e0faa33ed07d5be18"
+  },
+  {
+    "path": "game/images/cast/gabrielle/laugh.png",
+    "bytes": 146684,
+    "sha256": "c7a9c128eb164ec1d0ffd533c2068a36d6a033eeda89c50e0518233c786cb654"
+  },
+  {
+    "path": "game/images/cast/gabrielle/smirk.png",
+    "bytes": 139041,
+    "sha256": "dd49061d71b448e9ed696ace2bec75169c9202995fc8e06624880c459827eebd"
+  },
+  {
+    "path": "game/images/cast/kyle/explaining.png",
+    "bytes": 50723,
+    "sha256": "8ba3b005e8b39a880b9b8846d9006cf3ccb160357dec15f483dd5190ea211879"
+  },
+  {
+    "path": "game/images/cast/kyle/indignant.png",
+    "bytes": 40982,
+    "sha256": "4978c67705f9174773951376ddf848302612a95e40d9d4aac421aae7c8388495"
+  },
+  {
+    "path": "game/images/cast/kyle/neutral.png",
+    "bytes": 50919,
+    "sha256": "2a7545003213d12bd72212790bd0e95da36884641936a1d3ee96e08ad2157e48"
+  },
+  {
+    "path": "game/images/cast/miranda/explaining.png",
+    "bytes": 87736,
+    "sha256": "e252c0c62d6cf2d4c30a82e301d3844554d111d71c0dd62aa002048f86d26657"
+  },
+  {
+    "path": "game/images/cast/miranda/neutral.png",
+    "bytes": 64947,
+    "sha256": "2dea18221ab505f023dacbcdf8fd2759b550eb15e6a626a0caf63c03f61af80d"
+  },
+  {
+    "path": "game/images/cast/miranda/skeptical.png",
+    "bytes": 62835,
+    "sha256": "adef7480ecf76756907bade66bf195c427d30c78ea52894372638248b34b0fed"
+  },
+  {
+    "path": "game/images/cast/miranda/supportive.png",
+    "bytes": 102182,
+    "sha256": "4f3f818bb16f036c8cc244eb197245e673ef38f85fd875ec686fe897636bccef"
+  },
+  {
+    "path": "game/images/cast/miranda/surprised.png",
+    "bytes": 72802,
+    "sha256": "91dfd65c9068891f3a29b4d672a2490bb2a55488230ce218990e80cc58fd8e22"
+  },
+  {
+    "path": "game/images/cast/randy/confused.png",
+    "bytes": 52179,
+    "sha256": "ce1a6116f3088240fb71a4a328162143238bfa298da16faf36b7db65eb454dbf"
+  },
+  {
+    "path": "game/images/cast/randy/panicked.png",
+    "bytes": 69578,
+    "sha256": "db87b3aedaf582c1a79dc765b4a042898c2ffe42cc8826e33f47ae9f9d00c5d2"
+  },
+  {
+    "path": "game/images/cast/randy/proud.png",
+    "bytes": 93126,
+    "sha256": "73fc032296671a8832d241ba5ddb2bc9e0346c811fb5168feb984c1f64cb7719"
+  },
+  {
+    "path": "game/images/cast/strange/explaining.png",
+    "bytes": 190131,
+    "sha256": "563a27690df19f53f4b27925abceb8262d710b12ec747d4199ed966f82807a64"
+  },
+  {
+    "path": "game/images/cast/strange/magic.png",
+    "bytes": 224385,
+    "sha256": "77736ce2441ac23f20589f5de193e3bff4ba278d04fd1888fe50bc61ca38388a"
+  },
+  {
+    "path": "game/images/cast/susan/base.png",
+    "bytes": 145791,
+    "sha256": "26d13eb58f299d9a9df5e68fd1a94c0812fcb86de728c205f69fc94b33495923"
+  },
+  {
+    "path": "game/images/cast/susan/relieved.png",
+    "bytes": 183733,
+    "sha256": "3dd087d16ba509025ce275c1f3e75c7ef78432f0db9c79340126cdc09979d568"
+  },
+  {
+    "path": "game/images/cast/susan/serious.png",
+    "bytes": 176526,
+    "sha256": "02c670beccbf0582bc14516a3d27f8a1f7c72e63681ee8f9dab7a215cd8274a2"
+  },
+  {
+    "path": "game/images/cast/susan/worried.png",
+    "bytes": 169868,
+    "sha256": "16a97ef63f5c1bdffd2fb8aedb16dd79cc5272b386eb8ce3c42809b760c1af3a"
+  },
+  {
+    "path": "game/images/cast/villager/neutral.png",
+    "bytes": 61555,
+    "sha256": "1093290b818a1cce2d3c9384ea67d6c59bd49e0fbd863ce1f4d251db44ea615c"
+  },
+  {
+    "path": "game/images/cast/villager/trade.png",
+    "bytes": 84416,
+    "sha256": "5e592cdfcb75df666a2da78f09c3d8ee7b8cd4e7b7b2b3b9d89c7a598ef9da57"
+  },
+  {
+    "path": "game/images/cast/wong/approving.png",
+    "bytes": 140002,
+    "sha256": "5d9b0b83df66e8de43c64501413b473856fa6e334f448ba5f80cd7ca182955b1"
+  },
+  {
+    "path": "game/images/cast/wong/neutral.png",
+    "bytes": 120105,
+    "sha256": "086ed78209d3b139178bcf80b4f00003e64ddadfc17cd946ee5e2548dc77d13c"
+  },
+  {
+    "path": "game/images/cast/wong/skeptical.png",
+    "bytes": 111219,
+    "sha256": "2b051aff4038728df42a15736ef77c0be3eeeb5f3e3e6453b890ffb1fa40b833"
+  },
+  {
+    "path": "game/images/olya/housewives/angry.png",
+    "bytes": 188329,
+    "sha256": "b7470670a75e13e314b0d38f2958fe853d65fb56297680e7f014d179bd832606"
+  },
+  {
+    "path": "game/images/olya/housewives/confused.png",
+    "bytes": 214481,
+    "sha256": "39b754a0224018b9f20f73edbd2a2ee98c7bf3f41a7ee54f929f86a755011d78"
+  },
+  {
+    "path": "game/images/olya/housewives/gossip.png",
+    "bytes": 197030,
+    "sha256": "0422cad4db136042b8245f3e190b55dd6700a598cb3757b96c92acb81c7f4857"
+  },
+  {
+    "path": "game/images/olya/housewives/pie.png",
+    "bytes": 231910,
+    "sha256": "4b4c35175b889d8b19bbe34d8f7303cedd5847ab67d801fff2c1e691068006b7"
+  },
+  {
+    "path": "game/images/olya/housewives/relief.png",
+    "bytes": 208505,
+    "sha256": "8aee6836ce999b9020c14219e08ddf134e981dbdb8ef5f42e441aae4640a235c"
+  },
+  {
+    "path": "game/images/olya/housewives/scared.png",
+    "bytes": 215518,
+    "sha256": "561e773c4649af29113ea7c9e3783185cf971f352bcf64e4aaf5fa46d78d3379"
+  },
+  {
+    "path": "game/images/olya/housewives/thinking.png",
+    "bytes": 201527,
+    "sha256": "fdece76f53cc2078c48f60a299f108c418386e0dd85de671c0667b1f9458c445"
+  },
+  {
+    "path": "game/images/olya/manhattan/confused.png",
+    "bytes": 193574,
+    "sha256": "38d205fb2b27758f8d84f595d370c72b03da6d870d03719cc8d9ea46e02e6515"
+  },
+  {
+    "path": "game/images/olya/manhattan/happy.png",
+    "bytes": 216536,
+    "sha256": "c6d6979e32d26a69009666acc38757a0df11da0d8c41db51f046e59caa7f8943"
+  },
+  {
+    "path": "game/images/olya/manhattan/ironic.png",
+    "bytes": 200619,
+    "sha256": "0efaf111e3a32b62df86998b91de615b7eb5502d15b61346e4e4e23dc94c7344"
+  },
+  {
+    "path": "game/images/olya/manhattan/neutral.png",
+    "bytes": 194546,
+    "sha256": "ac391e2c9341417f98b44369d8e71794c4aa97567209c334b8e06ee6fed35773"
+  },
+  {
+    "path": "game/images/olya/marvel/confused.png",
+    "bytes": 174211,
+    "sha256": "f4b118ee7766dabfd4511eab6a7be508c56187aba9d23580954f75d10849458c"
+  },
+  {
+    "path": "game/images/olya/marvel/neutral.png",
+    "bytes": 172518,
+    "sha256": "ca7d39bf8b2e0716f70f06bec227b6e26e270f85cd374f6984e671155312798f"
+  },
+  {
+    "path": "game/images/olya/marvel/power.png",
+    "bytes": 200546,
+    "sha256": "40ea046bb003d9433a39073a65fa15f54bf398981d37be78e6e95d7f2e8a26a9"
+  },
+  {
+    "path": "game/images/olya/marvel/scared.png",
+    "bytes": 175536,
+    "sha256": "e7bb8339535502e06f7c311e51f4e25e47e8280997e28f1f7116baea1db192ee"
+  },
+  {
+    "path": "game/images/olya/minecraft/confused.png",
+    "bytes": 79151,
+    "sha256": "a64f1506dcf1d61044d2b320f246622a4c24ef98d0704ae3f060e4d642e2b186"
+  },
+  {
+    "path": "game/images/olya/minecraft/pickaxe.png",
+    "bytes": 73040,
+    "sha256": "649f807081d63a0218920a8608772e63700c25b33225973167274ecdf1c76fe0"
+  },
+  {
+    "path": "game/images/olya/minecraft/scared.png",
+    "bytes": 85236,
+    "sha256": "9191cab6138719b226b7369466ddfcb61d3060c4b6c10dd1ca8def9a7c3ee3a0"
+  },
+  {
+    "path": "game/images/olya/office/angry.png",
+    "bytes": 140489,
+    "sha256": "c1b11cb4be05bc4cbae914df9b8f0aac7d41094ebaf2589c78a40ce92f6867ee"
+  },
+  {
+    "path": "game/images/olya/office/happy.png",
+    "bytes": 117990,
+    "sha256": "995eebf24c5169e73da3da54de73e0eae04ea06191026a4cfc9360ddd4659b5a"
+  },
+  {
+    "path": "game/images/olya/office/neutral.png",
+    "bytes": 125142,
+    "sha256": "59fdd1f5bdf5fa4ab0b210a5e6438c85ae22c57ddc5aacd4a66b02cee0db3f13"
+  },
+  {
+    "path": "game/images/olya/office/scared.png",
+    "bytes": 127509,
+    "sha256": "eeaa83ed5d081d280efeb787fbfecbae405e5036f4f10e54136cccbbe1feb0f4"
+  },
+  {
+    "path": "game/images/olya/office/skeptical.png",
+    "bytes": 135770,
+    "sha256": "1ce055c5e1a7437ea249b545f65404f81074e56b469565b14cbc0f0d9292e463"
+  },
+  {
+    "path": "game/images/olya/office/sleepy.png",
+    "bytes": 101532,
+    "sha256": "03989dbd5c8617d2442ce5e871834a30b00304cc5db06f515155e40a38e1a90e"
+  },
+  {
+    "path": "game/images/olya/sims/confused.png",
+    "bytes": 185818,
+    "sha256": "e0fc41ae00cf30d44b57007c789d0270cb5f5103d54e4d7c3b75b5c724e51f5a"
+  },
+  {
+    "path": "game/images/olya/sims/happy.png",
+    "bytes": 200327,
+    "sha256": "2c00efe24b9180c7a085a75663becaa2291093a6346f6b74976cf9ab34754731"
+  },
+  {
+    "path": "game/images/olya/sims/neutral.png",
+    "bytes": 196562,
+    "sha256": "3275f462602b581c43e486b28de2e8a9e92be105fba52859d807e0adda379a11"
+  },
+  {
+    "path": "game/images/olya/sims/panic.png",
+    "bytes": 199553,
+    "sha256": "35cf962477c97965603ab8c3945b87ecbc27ab5efdc47cc111980eab77aff864"
+  },
+  {
+    "path": "game/images/olya/southpark/angry.png",
+    "bytes": 110807,
+    "sha256": "80a9d06e7940616b5b393f39a4cda610f9db6dac0879d858cdfd249e25a9a3db"
+  },
+  {
+    "path": "game/images/olya/southpark/confused.png",
+    "bytes": 122253,
+    "sha256": "b92e79027808c0cd9cd984209075c7a9b0ed745d2472dabfcb8d7ab05918d12e"
+  },
+  {
+    "path": "game/images/olya/southpark/neutral.png",
+    "bytes": 132683,
+    "sha256": "db8e44e06b1cd3b8634a9a566739dbc1e81bb7ed833f9e3f89d9daf0689fbfbc"
+  },
+  {
+    "path": "game/images/olya/southpark/scared.png",
+    "bytes": 98970,
+    "sha256": "b205e7d3492b9ee4bfcce1a9bb8449efd79f554d6e476f2578952c1c943bb0e7"
+  },
+  {
+    "path": "licenses/fonts/alegreyasans_OFL.txt",
+    "bytes": 4405,
+    "sha256": "0677891e6a143f297350d260ad766ad33bfc18ed5fa4f213acf648d6b597ec1a"
+  },
+  {
+    "path": "licenses/fonts/comfortaa_OFL.txt",
+    "bytes": 4519,
+    "sha256": "bc85bae0b512b799bbfb2b916e4d0a34cfd963d09778cd783e248b479e67760a"
+  },
+  {
+    "path": "licenses/fonts/lora_OFL.txt",
+    "bytes": 4423,
+    "sha256": "1d9a970809ac804b582a6ce7f0ebc4e7fefcbfd7ff6299cad35ee656a21be716"
+  },
+  {
+    "path": "licenses/fonts/neucha_OFL.txt",
+    "bytes": 4370,
+    "sha256": "656a20870fbcb8f559f1c6308c1df90ac93d7cd0279aab49b43a43b5e58534e6"
+  },
+  {
+    "path": "licenses/fonts/pressstart2p_OFL.txt",
+    "bytes": 4413,
+    "sha256": "705960c3281a5765ecc0b59bd4ed7ca59eed165748076bc2fc3e8fdbfeb944b0"
+  },
+  {
+    "path": "licenses/fonts/rubik_OFL.txt",
+    "bytes": 4384,
+    "sha256": "472cbe7c25441df63e9c7864b43eb3c0f4b3df950c66a76224e6cfe1eae843fb"
+  },
+  {
+    "path": "licenses/fonts/russoone_OFL.txt",
+    "bytes": 4390,
+    "sha256": "3ac1301549523d9861fedca12871f24e575fbd26d520632fc00ba849b471d275"
+  },
+  {
+    "path": "licenses/music/MUSIC_CREDITS.txt",
+    "bytes": 604,
+    "sha256": "2972c70a42e62c37f5369301c59a3d2b0c89c20acfb92d52a5e4c1067273e3fb"
+  },
+  {
+    "path": "references/world_ui.rpy.example",
+    "bytes": 2911,
+    "sha256": "e18845baa29eccf2dfe4cf8841756671e87a1299cba148885e3d77a62c727d41"
+  }
+]

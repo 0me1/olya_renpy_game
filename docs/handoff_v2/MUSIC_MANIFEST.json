@@ -1,0 +1,103 @@
+{
+  "tracks": [
+    {
+      "id": "office",
+      "title": "Airport Lounge",
+      "artist": "Kevin MacLeod",
+      "world": "Работа и обычный мир",
+      "status": "audio_ready",
+      "file": "game/audio/music/office_airport_lounge.ogg",
+      "url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "housewives_intro",
+      "title": "Desperate Housewives — Main Theme",
+      "artist": "Danny Elfman",
+      "world": "Отчаянные домохозяйки",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://www.dannyelfman.com/television/desperate-housewives"
+    },
+    {
+      "id": "manhattan_intro",
+      "title": "Sex and the City — Main Title Theme",
+      "artist": "Douglas J. Cuomo",
+      "world": "Секс в большом городе",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://www.douglasjcuomo.com/biography"
+    },
+    {
+      "id": "southpark_intro",
+      "title": "South Park Theme",
+      "artist": "Primus",
+      "world": "Южный парк",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://www.youtube.com/watch?v=b7uJyw6eXzg"
+    },
+    {
+      "id": "minecraft_main",
+      "title": "Sweden",
+      "artist": "C418",
+      "world": "Minecraft",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://c418.bandcamp.com/album/minecraft-volume-alpha"
+    },
+    {
+      "id": "minecraft_calm",
+      "title": "Subwoofer Lullaby",
+      "artist": "C418",
+      "world": "Minecraft",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://c418.bandcamp.com/album/minecraft-volume-alpha"
+    },
+    {
+      "id": "sims_intro",
+      "title": "The Sims 2 Theme",
+      "artist": "Mark Mothersbaugh",
+      "world": "Sims",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://open.spotify.com/album/2nloVAQVrTLlFrCrigaWxB"
+    },
+    {
+      "id": "sims_main",
+      "title": "Sim Builder",
+      "artist": "Mark Mothersbaugh",
+      "world": "Sims",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://open.spotify.com/album/2nloVAQVrTLlFrCrigaWxB"
+    },
+    {
+      "id": "marvel_intro",
+      "title": "The Master of the Mystic End Credits",
+      "artist": "Michael Giacchino",
+      "world": "Marvel / Доктор Стрэндж",
+      "status": "source_selected_audio_missing",
+      "file": null,
+      "url": "https://www.youtube.com/watch?v=zrod2imUhGw"
+    },
+    {
+      "id": "marvel_dialogue_candidate",
+      "title": "Reading Is Fundamental",
+      "artist": "Michael Giacchino",
+      "world": "Marvel / Доктор Стрэндж",
+      "status": "candidate_requires_listening_and_audio",
+      "file": null,
+      "url": "https://michaelgiacchino.com/albums/doctor-strange/"
+    }
+  ],
+  "defaults": {
+    "format": "OGG Vorbis",
+    "sample_rate_hz": 44100,
+    "target_integrated_lufs": -20,
+    "true_peak_ceiling_dbtp": -2,
+    "transition_fade_seconds": 1.5
+  },
+  "note": "Только office имеет готовый аудиофайл. Ссылки на сервисы прослушивания не являются локальными файлами и не дают разрешения на включение записи в игру."
+}

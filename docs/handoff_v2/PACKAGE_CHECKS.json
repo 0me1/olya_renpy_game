@@ -1,0 +1,17 @@
+{
+  "scene_png": 89,
+  "backgrounds": 15,
+  "sprites": 74,
+  "ui_png": 65,
+  "static_ttf_with_cyrillic": 7,
+  "ready_audio_files": 1,
+  "png_decoding": "passed",
+  "scene_alpha": "passed",
+  "ui_bytes_unchanged": "passed",
+  "font_loading": "passed",
+  "audio_decode": "passed",
+  "renpy_run": "not_performed_no_user_project",
+  "scene_palette": "256 colors, original dimensions, reduced color/alpha precision",
+  "missing_emotion_policy": "Strange doubtful removed as requirement; explaining/magic retained",
+  "missing_world_music": "sources selected; no audio files supplied"
+}

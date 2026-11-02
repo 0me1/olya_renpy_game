@@ -1,0 +1,1112 @@
+{
+  "cast/bella/greeting.png": {
+    "eye_center": [
+      520,
+      230
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      240
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/bella/supportive.png": {
+    "eye_center": [
+      520,
+      220
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      240
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/bella/suspicious.png": {
+    "eye_center": [
+      530,
+      230
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      240
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/bree/base.png": {
+    "eye_center": [
+      550,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/bree/approving.png": {
+    "eye_center": [
+      550,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/bree/strict.png": {
+    "eye_center": [
+      550,
+      220
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/bree/surprised.png": {
+    "eye_center": [
+      520,
+      220
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/carrie/neutral.png": {
+    "eye_center": [
+      500,
+      140
+    ],
+    "scale": 0.9,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/carrie/explaining.png": {
+    "eye_center": [
+      500,
+      140
+    ],
+    "scale": 0.9,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/carrie/laugh.png": {
+    "eye_center": [
+      480,
+      140
+    ],
+    "scale": 0.9,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/carrie/surprised.png": {
+    "eye_center": [
+      500,
+      140
+    ],
+    "scale": 0.9,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/carrie/thinking.png": {
+    "eye_center": [
+      500,
+      140
+    ],
+    "scale": 0.9,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/carrie/greeting.png": {
+    "eye_center": [
+      520,
+      230
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/cartman/proud.png": {
+    "eye_center": [
+      610,
+      480
+    ],
+    "scale": 0.36,
+    "target_eye": [
+      400,
+      370
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/cartman/angry.png": {
+    "eye_center": [
+      610,
+      480
+    ],
+    "scale": 0.36,
+    "target_eye": [
+      400,
+      370
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/cartman/scared.png": {
+    "eye_center": [
+      610,
+      480
+    ],
+    "scale": 0.36,
+    "target_eye": [
+      400,
+      370
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/gabrielle/base.png": {
+    "eye_center": [
+      440,
+      235
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/gabrielle/smirk.png": {
+    "eye_center": [
+      470,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/gabrielle/indignant.png": {
+    "eye_center": [
+      480,
+      235
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/gabrielle/laugh.png": {
+    "eye_center": [
+      480,
+      225
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/kyle/neutral.png": {
+    "eye_center": [
+      510,
+      670
+    ],
+    "scale": 0.45,
+    "target_eye": [
+      400,
+      370
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/kyle/indignant.png": {
+    "eye_center": [
+      520,
+      670
+    ],
+    "scale": 0.45,
+    "target_eye": [
+      400,
+      370
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/kyle/explaining.png": {
+    "eye_center": [
+      515,
+      665
+    ],
+    "scale": 0.5,
+    "target_eye": [
+      400,
+      370
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/miranda/neutral.png": {
+    "eye_center": [
+      510,
+      130
+    ],
+    "scale": 1.0,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/miranda/skeptical.png": {
+    "eye_center": [
+      510,
+      135
+    ],
+    "scale": 1.0,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/miranda/explaining.png": {
+    "eye_center": [
+      540,
+      125
+    ],
+    "scale": 1.0,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/miranda/surprised.png": {
+    "eye_center": [
+      520,
+      130
+    ],
+    "scale": 1.0,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/miranda/supportive.png": {
+    "eye_center": [
+      530,
+      240
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/randy/proud.png": {
+    "eye_center": [
+      520,
+      370
+    ],
+    "scale": 0.52,
+    "target_eye": [
+      400,
+      225
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/randy/confused.png": {
+    "eye_center": [
+      520,
+      370
+    ],
+    "scale": 0.52,
+    "target_eye": [
+      400,
+      225
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/randy/panicked.png": {
+    "eye_center": [
+      520,
+      370
+    ],
+    "scale": 0.52,
+    "target_eye": [
+      400,
+      225
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/strange/explaining.png": {
+    "eye_center": [
+      510,
+      220
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/strange/magic.png": {
+    "eye_center": [
+      510,
+      220
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/susan/base.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/susan/worried.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/susan/relieved.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/susan/serious.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/villager/neutral.png": {
+    "eye_center": [
+      570,
+      430
+    ],
+    "scale": 0.5,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/villager/trade.png": {
+    "eye_center": [
+      570,
+      430
+    ],
+    "scale": 0.5,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/wong/neutral.png": {
+    "eye_center": [
+      600,
+      200
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/wong/skeptical.png": {
+    "eye_center": [
+      600,
+      200
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "cast/wong/approving.png": {
+    "eye_center": [
+      600,
+      200
+    ],
+    "scale": 0.55,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/housewives/angry.png": {
+    "eye_center": [
+      500,
+      235
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/housewives/confused.png": {
+    "eye_center": [
+      500,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/housewives/gossip.png": {
+    "eye_center": [
+      500,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/housewives/pie.png": {
+    "eye_center": [
+      540,
+      210
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/housewives/relief.png": {
+    "eye_center": [
+      500,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/housewives/scared.png": {
+    "eye_center": [
+      500,
+      220
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/housewives/thinking.png": {
+    "eye_center": [
+      500,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/manhattan/neutral.png": {
+    "eye_center": [
+      500,
+      220
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/manhattan/confused.png": {
+    "eye_center": [
+      500,
+      220
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/manhattan/happy.png": {
+    "eye_center": [
+      500,
+      220
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/manhattan/ironic.png": {
+    "eye_center": [
+      500,
+      220
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/marvel/neutral.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/marvel/confused.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/marvel/power.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/marvel/scared.png": {
+    "eye_center": [
+      510,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/minecraft/confused.png": {
+    "eye_center": [
+      520,
+      370
+    ],
+    "scale": 0.48,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/minecraft/pickaxe.png": {
+    "eye_center": [
+      560,
+      555
+    ],
+    "scale": 0.68,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/minecraft/scared.png": {
+    "eye_center": [
+      530,
+      360
+    ],
+    "scale": 0.48,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/office/neutral.png": {
+    "eye_center": [
+      520,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/office/angry.png": {
+    "eye_center": [
+      520,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/office/happy.png": {
+    "eye_center": [
+      520,
+      225
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/office/scared.png": {
+    "eye_center": [
+      500,
+      210
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/office/skeptical.png": {
+    "eye_center": [
+      520,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/office/sleepy.png": {
+    "eye_center": [
+      520,
+      230
+    ],
+    "scale": 0.53,
+    "target_eye": [
+      400,
+      200
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/sims/neutral.png": {
+    "eye_center": [
+      520,
+      350
+    ],
+    "scale": 0.62,
+    "target_eye": [
+      400,
+      240
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/sims/confused.png": {
+    "eye_center": [
+      520,
+      350
+    ],
+    "scale": 0.62,
+    "target_eye": [
+      400,
+      240
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/sims/happy.png": {
+    "eye_center": [
+      520,
+      350
+    ],
+    "scale": 0.62,
+    "target_eye": [
+      400,
+      240
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/sims/panic.png": {
+    "eye_center": [
+      520,
+      350
+    ],
+    "scale": 0.62,
+    "target_eye": [
+      400,
+      240
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/southpark/neutral.png": {
+    "eye_center": [
+      520,
+      360
+    ],
+    "scale": 0.48,
+    "target_eye": [
+      400,
+      225
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/southpark/angry.png": {
+    "eye_center": [
+      520,
+      420
+    ],
+    "scale": 0.48,
+    "target_eye": [
+      400,
+      225
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/southpark/confused.png": {
+    "eye_center": [
+      520,
+      380
+    ],
+    "scale": 0.48,
+    "target_eye": [
+      400,
+      225
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  },
+  "olya/southpark/scared.png": {
+    "eye_center": [
+      520,
+      400
+    ],
+    "scale": 0.48,
+    "target_eye": [
+      400,
+      225
+    ],
+    "canvas": [
+      800,
+      880
+    ]
+  }
+}
