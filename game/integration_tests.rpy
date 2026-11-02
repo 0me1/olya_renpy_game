@@ -35,7 +35,7 @@ testsuite integration:
         run Jump("pose_preview")
         assert screen "say" timeout 2.0
         assert eval current_world == _test.pose_world
-        assert eval sum(renpy.showing(tag) for tag in CAST_TAGS) <= 1
+        assert eval sum(bool(renpy.showing(tag)) for tag in CAST_TAGS) <= 1
         pause 0.1
         screenshot f"v2/poses/{pose}.png"
 

@@ -7,3 +7,4 @@ python3 tests/check_project.py
 "$RENPY_SDK/renpy.sh" "$PWD" test routes
 "$RENPY_SDK/renpy.sh" "$PWD" test interface --overwrite-screenshots
 "$RENPY_SDK/renpy.sh" "$PWD" test layout
+"$RENPY_SDK/renpy.sh" "$PWD" test integration --overwrite-screenshots

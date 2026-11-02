@@ -19,6 +19,8 @@ define build.name = "V_Poryadke_Perevoda"
 define build.directory_name = "V_Poryadke_Perevoda-0.2.0"
 init python:
     build.classify('downloads/**', None)
+    build.classify('game/images/cast/**', None)
+    build.classify('game/images/olya/**', None)
     build.classify('licenses/**', 'all')
     build.classify('**.rpyc', None)
     build.classify('docs/**', None)
