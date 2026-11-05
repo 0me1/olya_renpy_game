@@ -1,4 +1,19 @@
-# Скачать версию 0.2.0
+# Скачать версию 0.2.1
+
+- [Игра Windows/Linux](https://github.com/0me1/olya_renpy_game/raw/refs/heads/main/downloads/V_Poryadke_Perevoda-0.2.1-pc.zip).
+- [Исходники](https://github.com/0me1/olya_renpy_game/raw/refs/heads/main/downloads/olya_renpy_game-0.2.1-source.zip).
+- [Отчет кадрирования и иконки](../ICON_FRAMING_REPORT.md).
+- [SHA-256](SHA256SUMS-0.2.1.txt).
+
+Распаковать весь PC-архив в отдельную папку версии 0.2.1 и запустить V_Poryadke_Perevoda.exe на Windows или .sh на Linux. Исправлены видимый нижний срез персонажей и положение вариантов выбора, подключены иконка окна и иконки внутри EXE. Сценарий и концовки сохранены. Для South Park используется адаптивная панель слева, без закрытия детских персонажей справа.
+
+226 уникальных проверок прошли; отдельно проверены реальные пиксели иконки X11 и семь ресурсов EXE. Собственный Linux-рантайм сборки прошел еще шесть проверок. Нативное отображение в Windows и кеш иконок не проверялись. Если Windows показывает старый значок, сначала проверяйте новый файл из отдельной папки, не прежний ярлык.
+
+Исходники соответствуют коммиту `ea5b66424b4a02521e563ba1a8ba804cbae148e3` и не содержат downloads, .git, кешей и сейвов.
+
+---
+
+## Предыдущая версия 0.2.0
 
 - [Игра для Windows и Linux](https://github.com/0me1/olya_renpy_game/raw/refs/heads/main/downloads/V_Poryadke_Perevoda-0.2.0-pc.zip).
 - [Исходники проекта](https://github.com/0me1/olya_renpy_game/raw/refs/heads/main/downloads/olya_renpy_game-0.2.0-source.zip).
