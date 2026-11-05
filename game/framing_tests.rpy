@@ -7,6 +7,13 @@ init python:
         else:
             cast_pose(parts[1], pose)
 
+    def simulate_legacy_placement():
+        for tag in ("olya",) + CAST_TAGS:
+            if renpy.showing(tag):
+                attributes = renpy.get_attributes(tag)
+                old = Transform(xalign=0.12 if tag == "olya" else 0.88, ypos=0.77, yanchor=1.0, zoom=0.49)
+                renpy.show(" ".join((tag,) + attributes), at_list=[old])
+
     def frame_snapshot():
         result = {}
         for tag in ("olya",) + CAST_TAGS:
@@ -175,3 +182,20 @@ testsuite framing:
         run With(dissolve)
         pause 0.1
         assert eval frame_snapshot() == _test.before
+
+
+    testcase legacy_placement:
+        parameter pose = ["olya/minecraft/pickaxe.png", "cast/kyle/explaining.png", "olya/office/neutral.png"]
+        run Start()
+        $ preferences.text_cps = 0
+        $ _test.pose = pose
+        run Jump("framing_probe")
+        advance until screen "choice"
+        if eval current_world == "office":
+            run Function(renpy.show, "olya office neutral", at_list=[center_actor])
+        $ _test.correct_frame = frame_snapshot()
+        run Function(simulate_legacy_placement)
+        run FileSave(4, confirm=False)
+        run FileLoad(4, confirm=False)
+        assert screen "choice" timeout 3.0
+        assert eval frame_snapshot() == _test.correct_frame

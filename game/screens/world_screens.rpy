@@ -28,7 +28,7 @@ screen say(who, what):
                 font theme_font("label")
                 size theme_size("label")
                 yalign 0.5
-    add ui_asset("next") xpos (dialogue_box()[0] + dialogue_box()[2] - 90) ypos 966
+    add ui_asset("next") xpos (dialogue_box()[0] + dialogue_box()[2] - (40 if ui_world == "southpark" else 90)) ypos 966
     use quick_menu
 
 screen lower_backdrop():
