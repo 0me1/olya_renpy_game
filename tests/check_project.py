@@ -57,3 +57,22 @@ for name, expected in baseline.items():
 assert not re.search(r"strange (?:doubtful|thinking|skeptical)", (ROOT / "game/assets.rpy").read_text())
 assert (ROOT / "game/audio/music/office_airport_lounge.ogg").exists()
 print("PASS: 74 derived poses, 7 static Cyrillic fonts, licenses and unchanged story choices.")
+
+from PIL import Image
+assert (ROOT / 'icon.ico').read_bytes() == (ROOT / 'art_sources/icon/game_icon.ico').read_bytes()
+with Image.open(ROOT / 'icon.ico') as icon:
+    assert icon.ico.sizes() == {(n, n) for n in (16, 24, 32, 48, 64, 128, 256)}
+source_icon = Image.open(ROOT / 'art_sources/icon/game_icon.png').convert('RGBA').resize((256, 256), Image.Resampling.LANCZOS)
+assert source_icon.tobytes() == Image.open(ROOT / 'game/gui/window_icon.png').convert('RGBA').tobytes()
+groups = {}
+for relative, spec in landmarks.items():
+    image = Image.open(ROOT / 'game/images_normalized' / relative).convert('RGBA')
+    actual = image.getchannel('A').point(lambda a: 255 if a >= 32 else 0).getbbox()
+    assert list(actual) == spec['derived_alpha_bbox']
+    assert actual[3] >= 1120 and actual[1] >= 24, relative
+    group = relative.rsplit('/', 1)[0]
+    value = (spec['target_eye'][1], spec['group_multiplier'])
+    assert groups.setdefault(group, value) == value, group
+for relative in ['cast/kyle/neutral.png', 'cast/cartman/proud.png']:
+    assert landmarks[relative]['derived_alpha_bbox'][1] > landmarks['olya/southpark/neutral.png']['derived_alpha_bbox'][1] + 200
+print('PASS: icon source/ICO sizes; actual silhouette bounds below 1080+40; fixed group framing; children below adults.')

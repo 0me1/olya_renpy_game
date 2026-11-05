@@ -4,2071 +4,2663 @@
       520,
       230
     ],
-    "scale": 0.55,
+    "scale": 0.6039000000000001,
     "target_eye": [
-      400,
-      240
+      800,
+      340
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.098,
     "source_alpha_bbox": [
       60,
       25,
       974,
       1536
     ],
+    "derived_alpha_bbox": [
+      522,
+      216,
+      1074,
+      1129
+    ],
     "offset": [
-      114,
-      113
+      486,
+      201
     ],
     "resampling": "lanczos",
     "source_sha256": "1a488a6101c77f5b34b83925f31b89f77fb7901567131dd3e912285d8739a5ac",
-    "derived_sha256": "69dad3b0a62b75b66c83103a503f7012fc7caf38752affa498a31626d5c485de"
+    "derived_sha256": "3d6ca499268372b56693fadf6fa98572ca92d4afcf3c27e7c389fcdb52f5fd28"
   },
   "cast/bella/supportive.png": {
     "eye_center": [
       520,
       220
     ],
-    "scale": 0.55,
+    "scale": 0.6039000000000001,
     "target_eye": [
-      400,
-      240
+      800,
+      340
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.098,
     "source_alpha_bbox": [
       168,
       27,
       913,
       1536
     ],
+    "derived_alpha_bbox": [
+      587,
+      223,
+      1037,
+      1135
+    ],
     "offset": [
-      114,
-      119
+      486,
+      207
     ],
     "resampling": "lanczos",
     "source_sha256": "0ec379737ec514f3f0aef5655fbd03f0a30711e66d25273ac799aaccc5ef3f73",
-    "derived_sha256": "36f824c0a9f35424dd609eb5e8751b4c3ba435b9f3af1ed72724ff0ff39b1ad3"
+    "derived_sha256": "318f77bd1df78eeea4ff1acc1005ef2dbd369728f8d33c34847834198f136fe5"
   },
   "cast/bella/suspicious.png": {
     "eye_center": [
       530,
       230
     ],
-    "scale": 0.55,
+    "scale": 0.6039000000000001,
     "target_eye": [
-      400,
-      240
+      800,
+      340
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.098,
     "source_alpha_bbox": [
       245,
       25,
       889,
       1536
     ],
+    "derived_alpha_bbox": [
+      628,
+      216,
+      1017,
+      1129
+    ],
     "offset": [
-      108,
-      113
+      480,
+      201
     ],
     "resampling": "lanczos",
     "source_sha256": "d7d1acf67f07206dc44fdcf4478a03061676057b582a4d1ba9b539c4ed7d8e38",
-    "derived_sha256": "7216f0b6417d83e8dacf27a024147ca30bd606fe38aca5fedb8983a68e4e2b6d"
+    "derived_sha256": "b9f80e4355f160e2768e9e3e8712d629c27a885fac14b450789d28fbdd9e2bf6"
   },
   "cast/bree/base.png": {
     "eye_center": [
       550,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       218,
       18,
       879,
       1536
     ],
+    "derived_alpha_bbox": [
+      589,
+      165,
+      1009,
+      1128
+    ],
     "offset": [
-      108,
-      78
+      451,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "8ccdb67f802ac5b9add95a231166b6a1967469b8749125c56947c12d08b2182c",
-    "derived_sha256": "9d647abec5780ec2d256ba348d95966234a502d9182c0bb063a4ad07764bc605"
+    "derived_sha256": "9d99756f0a7bba5d575c6709a829f02fb6a064da87fdc763891b071d7caba080"
   },
   "cast/bree/approving.png": {
     "eye_center": [
       550,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       231,
       18,
       829,
       1536
     ],
+    "derived_alpha_bbox": [
+      598,
+      165,
+      977,
+      1128
+    ],
     "offset": [
-      108,
-      78
+      451,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "dff95cf91679687cc4ef5cce9fd194661e6a6037b04a5430cd1326f4200728c8",
-    "derived_sha256": "0022d39eca564fce567fd6e0afb718b0125e022ff8352168a710c9d8623eea1e"
+    "derived_sha256": "fbaa80840907b583276acca40e215cdbe533c04526e9709f9e5ecaea8e2b12c0"
   },
   "cast/bree/strict.png": {
     "eye_center": [
       550,
       220
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       43,
       14,
       936,
       1536
     ],
+    "derived_alpha_bbox": [
+      478,
+      169,
+      1045,
+      1134
+    ],
     "offset": [
-      108,
-      83
+      451,
+      160
     ],
     "resampling": "lanczos",
     "source_sha256": "6558b066f62d39aeb21ef34fd442f7f7a16f7139860822b5f251f4b0de3eea8c",
-    "derived_sha256": "10a212a39687401c091bb96cb1a003ebf11bfd91479a34a305447c309abcb841"
+    "derived_sha256": "fbcf3cfc30e4f3754d5622898b7942d15962b2073951152d354f4f86b214a39c"
   },
   "cast/bree/surprised.png": {
     "eye_center": [
       520,
       220
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       216,
       17,
       888,
       1536
     ],
+    "derived_alpha_bbox": [
+      607,
+      170,
+      1034,
+      1134
+    ],
     "offset": [
-      124,
-      83
+      470,
+      160
     ],
     "resampling": "lanczos",
     "source_sha256": "0e0452ddf124fea90e66bec8b2b453b76fe807a90c95f041bd01fb6c29477afb",
-    "derived_sha256": "26e82bba6a9f5e1b9e0b2f5bab500bde6758ade8dff2002bbef9a7bf9d956e69"
+    "derived_sha256": "7e447a2d494db0192b33e8d11bcf2e3b578a75bec975ed6bc341cd8050f65ac8"
   },
   "cast/carrie/neutral.png": {
     "eye_center": [
       500,
       140
     ],
-    "scale": 0.9,
+    "scale": 1.0377,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.9,
+    "group_multiplier": 1.153,
     "source_alpha_bbox": [
       182,
       15,
       859,
       1515
     ],
+    "derived_alpha_bbox": [
+      470,
+      171,
+      1173,
+      1600
+    ],
     "offset": [
-      -50,
-      74
+      281,
+      155
     ],
     "resampling": "lanczos",
     "source_sha256": "92d996b5f33395b72c537317ab387dc0739fd638e68c98593b2ae748b58cabba",
-    "derived_sha256": "4afde54d55555b4033646d22a3d2b519426a2589a2dac74b1541016f95845f48"
+    "derived_sha256": "bbf5089bacc04995beec10028faba18f79391301113ca8c38158820ad39f71c8"
   },
   "cast/carrie/explaining.png": {
     "eye_center": [
       500,
       140
     ],
-    "scale": 0.9,
+    "scale": 1.0377,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.9,
+    "group_multiplier": 1.153,
     "source_alpha_bbox": [
       182,
       15,
       901,
       1517
     ],
+    "derived_alpha_bbox": [
+      470,
+      171,
+      1217,
+      1600
+    ],
     "offset": [
-      -50,
-      74
+      281,
+      155
     ],
     "resampling": "lanczos",
     "source_sha256": "9cc72eabe3bd7d778f71e846ff8d9b3ff8033179fb10a53dcf35123265922214",
-    "derived_sha256": "885b133fc7bfdcb73fea68d6e71811195b1094b4e9d86986be2a0397bbd98ff0"
+    "derived_sha256": "45b8adbe50307d2cb0638db9cc388fda551b257f894b829130379ec0e50fce95"
   },
   "cast/carrie/laugh.png": {
     "eye_center": [
       480,
       140
     ],
-    "scale": 0.9,
+    "scale": 1.0377,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.9,
+    "group_multiplier": 1.153,
     "source_alpha_bbox": [
       182,
       14,
       880,
       1484
     ],
+    "derived_alpha_bbox": [
+      491,
+      169,
+      1198,
+      1600
+    ],
     "offset": [
-      -32,
-      74
+      302,
+      155
     ],
     "resampling": "lanczos",
     "source_sha256": "937b67cea4e58edaa48b74a2f923731c5cdfd452d5e112394ab9edcdaccb5b2b",
-    "derived_sha256": "f69f0889451901de97aeab3fc90bf8ebdf11b75bacfe842e8386b4372e966b2c"
+    "derived_sha256": "ebc5a38c1b6ca084af61ab07078c191c357a6eeae25e3d430e44d8d87e71fcf3"
   },
   "cast/carrie/surprised.png": {
     "eye_center": [
       500,
       140
     ],
-    "scale": 0.9,
+    "scale": 1.0377,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.9,
+    "group_multiplier": 1.153,
     "source_alpha_bbox": [
       183,
       16,
       865,
       1517
     ],
+    "derived_alpha_bbox": [
+      471,
+      172,
+      1179,
+      1600
+    ],
     "offset": [
-      -50,
-      74
+      281,
+      155
     ],
     "resampling": "lanczos",
     "source_sha256": "b5e4b916a1bd98a764a2ddc871b330a571cf777acae5cf274c6790f0fb639d98",
-    "derived_sha256": "beee13594aac82667d81d961ba18ec972c3b502b0a5fe1c72fab9190d3479ade"
+    "derived_sha256": "e7891988200e4f1ff2dd4b6c1c66da6d4ad22c60b37dff646a864f02487faa28"
   },
   "cast/carrie/thinking.png": {
     "eye_center": [
       500,
       140
     ],
-    "scale": 0.9,
+    "scale": 1.0377,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.9,
+    "group_multiplier": 1.153,
     "source_alpha_bbox": [
       183,
       16,
       861,
       1516
     ],
+    "derived_alpha_bbox": [
+      471,
+      172,
+      1174,
+      1600
+    ],
     "offset": [
-      -50,
-      74
+      281,
+      155
     ],
     "resampling": "lanczos",
     "source_sha256": "5cfefe8cccefad42fd17bbb666cf28b32f17457b40fa8c6901f1401f5a7d684d",
-    "derived_sha256": "5a56fd1acf0593a794cc4d013e23591bb7a59d03e2d95c505364808989146ed3"
+    "derived_sha256": "da7869a4ca0e4e741258ff5c38d17096c16537e6c4b5ae26292a475a34ed7f62"
   },
   "cast/carrie/greeting.png": {
     "eye_center": [
       520,
       230
     ],
-    "scale": 0.55,
+    "scale": 0.6341500000000001,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.153,
     "source_alpha_bbox": [
       0,
       6,
       994,
       1536
     ],
+    "derived_alpha_bbox": [
+      511,
+      158,
+      1100,
+      1128
+    ],
     "offset": [
-      114,
-      73
+      470,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "e7d1d744f1fce91ed11c183e199635f312b883a8958dca0c5decce8f04d22199",
-    "derived_sha256": "7288053a6056095771b7065c47ff8d0eba67670d646b0c510a8c7f6dc37ca6a4"
+    "derived_sha256": "afdf9edc37f4dc266db0d2dd992ed0db6a11491b18a70bc1f214b94bfa488fc5"
   },
   "cast/cartman/proud.png": {
     "eye_center": [
       610,
       480
     ],
-    "scale": 0.36,
+    "scale": 0.60372,
     "target_eye": [
-      400,
-      370
+      800,
+      670
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.36,
+    "group_multiplier": 1.677,
     "source_alpha_bbox": [
       32,
       28,
       1187,
       1247
     ],
+    "derived_alpha_bbox": [
+      451,
+      396,
+      1148,
+      1132
+    ],
     "offset": [
-      180,
-      197
+      432,
+      380
     ],
     "resampling": "lanczos",
     "source_sha256": "72daac442cedeabacd6830dcfcbab18d51b6635e41098cf417a40bda7fce324b",
-    "derived_sha256": "dba357959081ec32c8a880082b065c1c0550739fa571fdb6c6deab131e9b4934"
+    "derived_sha256": "3c546dbece18d422a8839a355a0a27452007fe607edccffa6723e5e8325ffbf4"
   },
   "cast/cartman/angry.png": {
     "eye_center": [
       610,
       480
     ],
-    "scale": 0.36,
+    "scale": 0.60372,
     "target_eye": [
-      400,
-      370
+      800,
+      670
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.36,
+    "group_multiplier": 1.677,
     "source_alpha_bbox": [
       65,
       25,
       1158,
       1239
     ],
+    "derived_alpha_bbox": [
+      471,
+      395,
+      1131,
+      1128
+    ],
     "offset": [
-      180,
-      197
+      432,
+      380
     ],
     "resampling": "lanczos",
     "source_sha256": "ceadb5e9b09a61897489f59d1799b90831836bd271ec26857dae16ad11124482",
-    "derived_sha256": "baf187b7b3f4c0957e55868d9903a9c3428a8c0298379e211e60a6403c61b85a"
+    "derived_sha256": "3d5c08c9d9f55ce60be3dcd773cc99ddf3479087235cb82d16ef2b18afee585d"
   },
   "cast/cartman/scared.png": {
     "eye_center": [
       610,
       480
     ],
-    "scale": 0.36,
+    "scale": 0.60372,
     "target_eye": [
-      400,
-      370
+      800,
+      670
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.36,
+    "group_multiplier": 1.677,
     "source_alpha_bbox": [
       142,
       26,
       1081,
       1248
     ],
+    "derived_alpha_bbox": [
+      518,
+      395,
+      1084,
+      1133
+    ],
     "offset": [
-      180,
-      197
+      432,
+      380
     ],
     "resampling": "lanczos",
     "source_sha256": "94eb3a900752730bbbc9a9d6878afbbdab837b57e14f45f6e8432ab8b6237517",
-    "derived_sha256": "1f3f6fca303bfd2335fee763e2147b62879a0369c0a6c95af28e9a34022db25e"
+    "derived_sha256": "a7ea5a3cf26857cab651ccc0be1f46aba63378599e76463e2b07711911ef0e2f"
   },
   "cast/gabrielle/base.png": {
     "eye_center": [
       440,
       235
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       29,
       20,
       1009,
       1536
     ],
+    "derived_alpha_bbox": [
+      538,
+      163,
+      1163,
+      1128
+    ],
     "offset": [
-      167,
-      75
+      520,
+      150
     ],
     "resampling": "lanczos",
     "source_sha256": "0cb2f9a8e19bca7ce8a2c7ea845815e5cb74d173d382e34306a68f334595dd99",
-    "derived_sha256": "4a8c85f16d83d07203fa553ea58c0837c67611f6a872a635a320f9ef53cbd5f0"
+    "derived_sha256": "85518439af9a5d3b0558b5b9318928adf34110d640814979ff741e9602162cf3"
   },
   "cast/gabrielle/smirk.png": {
     "eye_center": [
       470,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       163,
       20,
       882,
       1536
     ],
+    "derived_alpha_bbox": [
+      605,
+      166,
+      1056,
+      1132
+    ],
     "offset": [
-      151,
-      78
+      501,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "dd49061d71b448e9ed696ace2bec75169c9202995fc8e06624880c459827eebd",
-    "derived_sha256": "8c94542e65d2398ec070a2dd1389ed4f3ed8874c9fff0f1c030fd42a051c88f2"
+    "derived_sha256": "6ce172468d7ba5634b5bb0f1af1f52dec9a1280e4b57c75e5e8429e8d1ad7007"
   },
   "cast/gabrielle/indignant.png": {
     "eye_center": [
       480,
       235
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       26,
       18,
       998,
       1536
     ],
+    "derived_alpha_bbox": [
+      511,
+      161,
+      1130,
+      1128
+    ],
     "offset": [
-      146,
-      75
+      494,
+      150
     ],
     "resampling": "lanczos",
     "source_sha256": "dbb4f7370f3888b7e542de7d79cdb431f71cfc76f5ea7e1e0faa33ed07d5be18",
-    "derived_sha256": "7b15f0b3a75911fa8ce73b02d74e48630dc8c6c2cbe894dc1b8e5acf823dfe91"
+    "derived_sha256": "da2092c88a509179cadfeaf79c6a86cddfdfac5de8a1220c9b314f8fbeb2b983"
   },
   "cast/gabrielle/laugh.png": {
     "eye_center": [
       480,
       225
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       168,
       20,
       908,
       1536
     ],
+    "derived_alpha_bbox": [
+      601,
+      170,
+      1048,
+      1135
+    ],
     "offset": [
-      146,
-      81
+      494,
+      157
     ],
     "resampling": "lanczos",
     "source_sha256": "c7a9c128eb164ec1d0ffd533c2068a36d6a033eeda89c50e0518233c786cb654",
-    "derived_sha256": "321426eba1a42bad2d15c2c3a6af299e444eaa94c2a17312fcaa6e29d634d532"
+    "derived_sha256": "be32d1cadaac6e9cab2768b5f20d41656e161259341c6e1111831b2fd31a79f9"
   },
   "cast/kyle/neutral.png": {
     "eye_center": [
       510,
       670
     ],
-    "scale": 0.45,
+    "scale": 0.8523,
     "target_eye": [
-      400,
-      370
+      800,
+      650
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.45,
+    "group_multiplier": 1.894,
     "source_alpha_bbox": [
       110,
       317,
       914,
       1235
     ],
+    "derived_alpha_bbox": [
+      459,
+      349,
+      1144,
+      1132
+    ],
     "offset": [
-      170,
-      68
+      365,
+      79
     ],
     "resampling": "lanczos",
     "source_sha256": "2a7545003213d12bd72212790bd0e95da36884641936a1d3ee96e08ad2157e48",
-    "derived_sha256": "5931a39eb1bce335f77681f5a614a1473c0588358755ce223035d8b4af0b1bc8"
+    "derived_sha256": "9e146418c636efb4342572a4daacf3f1d0b2af56201c2f75d776da6bbff973fe"
   },
   "cast/kyle/indignant.png": {
     "eye_center": [
       520,
       670
     ],
-    "scale": 0.45,
+    "scale": 0.8523,
     "target_eye": [
-      400,
-      370
+      800,
+      650
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.45,
+    "group_multiplier": 1.894,
     "source_alpha_bbox": [
       120,
       322,
       931,
       1231
     ],
+    "derived_alpha_bbox": [
+      460,
+      353,
+      1151,
+      1128
+    ],
     "offset": [
-      166,
-      68
+      357,
+      79
     ],
     "resampling": "lanczos",
     "source_sha256": "4978c67705f9174773951376ddf848302612a95e40d9d4aac421aae7c8388495",
-    "derived_sha256": "cb6c4a9d487a158900a67839e91505956997ffe2ba50409fdef755942a6c14df"
+    "derived_sha256": "a0e7c4a4a45cad302967928dd035226701dae62698a35cf14c12263fe884b66d"
   },
   "cast/kyle/explaining.png": {
     "eye_center": [
       515,
       665
     ],
-    "scale": 0.5,
+    "scale": 0.947,
     "target_eye": [
-      400,
-      370
+      800,
+      650
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.5,
+    "group_multiplier": 1.894,
     "source_alpha_bbox": [
       164,
       359,
       856,
       1184
     ],
+    "derived_alpha_bbox": [
+      467,
+      360,
+      1123,
+      1142
+    ],
     "offset": [
-      142,
-      38
+      312,
+      20
     ],
     "resampling": "lanczos",
     "source_sha256": "8ba3b005e8b39a880b9b8846d9006cf3ccb160357dec15f483dd5190ea211879",
-    "derived_sha256": "8a4e7a12e9ea509eec4129342de1204160d2966080cee5ffda64bcbad0f446c8"
+    "derived_sha256": "d3af3006c46361e325314e4351a23f46e4fe30bded86962c74d345ba4b94998f"
   },
   "cast/miranda/neutral.png": {
     "eye_center": [
       510,
       130
     ],
-    "scale": 1.0,
+    "scale": 1.162,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 1.0,
+    "group_multiplier": 1.162,
     "source_alpha_bbox": [
       343,
       11,
       713,
       1524
     ],
+    "derived_alpha_bbox": [
+      606,
+      162,
+      1027,
+      1600
+    ],
     "offset": [
-      -110,
-      70
+      207,
+      149
     ],
     "resampling": "lanczos",
     "source_sha256": "2dea18221ab505f023dacbcdf8fd2759b550eb15e6a626a0caf63c03f61af80d",
-    "derived_sha256": "615a964946a1b8732a6c36eeee320a4b1755f95cf7b1929fb0b2985dffc79cf0"
+    "derived_sha256": "6baba95840e8cef7796456a7190a751ac9ac778877542d5354625e69ee1ef516"
   },
   "cast/miranda/skeptical.png": {
     "eye_center": [
       510,
       135
     ],
-    "scale": 1.0,
+    "scale": 1.162,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 1.0,
+    "group_multiplier": 1.162,
     "source_alpha_bbox": [
       353,
       11,
       719,
       1524
     ],
+    "derived_alpha_bbox": [
+      617,
+      156,
+      1015,
+      1600
+    ],
     "offset": [
-      -110,
-      65
+      207,
+      143
     ],
     "resampling": "lanczos",
     "source_sha256": "adef7480ecf76756907bade66bf195c427d30c78ea52894372638248b34b0fed",
-    "derived_sha256": "f7ff9fcdc4b018b15d457bfdf9f3f66281541041cc1b1a8a89788c1b3269712d"
+    "derived_sha256": "549c2d5dea5884ad5d49f6e4b570ff2a24723ca402ee57f05a20dc380a1990f5"
   },
   "cast/miranda/explaining.png": {
     "eye_center": [
       540,
       125
     ],
-    "scale": 1.0,
+    "scale": 1.162,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 1.0,
+    "group_multiplier": 1.162,
     "source_alpha_bbox": [
       218,
       10,
       895,
       1523
     ],
+    "derived_alpha_bbox": [
+      427,
+      167,
+      1213,
+      1600
+    ],
     "offset": [
-      -140,
-      75
+      173,
+      155
     ],
     "resampling": "lanczos",
     "source_sha256": "e252c0c62d6cf2d4c30a82e301d3844554d111d71c0dd62aa002048f86d26657",
-    "derived_sha256": "5994517ad13ddae197123662ad7f0ea36bcf93f0f4547ecb2fb6286ed059abc3"
+    "derived_sha256": "b45a3315e6a68915c822df53e6747a6f7aee086bbb2cf6f6955570d8589773a8"
   },
   "cast/miranda/surprised.png": {
     "eye_center": [
       520,
       130
     ],
-    "scale": 1.0,
+    "scale": 1.162,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 1.0,
+    "group_multiplier": 1.162,
     "source_alpha_bbox": [
       177,
       11,
       883,
       1524
     ],
+    "derived_alpha_bbox": [
+      401,
+      162,
+      1222,
+      1600
+    ],
     "offset": [
-      -120,
-      70
+      196,
+      149
     ],
     "resampling": "lanczos",
     "source_sha256": "91dfd65c9068891f3a29b4d672a2490bb2a55488230ce218990e80cc58fd8e22",
-    "derived_sha256": "caef19d4dadfa71cf7859b95ca2f02e3587ea1259072624a6092a9918e863668"
+    "derived_sha256": "9de88ac8f68819f7c54916f5a5668983ea82146c86dee7d88e038ad81418ca74"
   },
   "cast/miranda/supportive.png": {
     "eye_center": [
       530,
       240
     ],
-    "scale": 0.55,
+    "scale": 0.6391,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.162,
     "source_alpha_bbox": [
       81,
       12,
       933,
       1536
     ],
+    "derived_alpha_bbox": [
+      516,
+      154,
+      1057,
+      1129
+    ],
     "offset": [
-      108,
-      68
+      461,
+      147
     ],
     "resampling": "lanczos",
     "source_sha256": "4f3f818bb16f036c8cc244eb197245e673ef38f85fd875ec686fe897636bccef",
-    "derived_sha256": "a686ed6fafb7593c704c8e2368eb0c95a37ba818287a7f5d9a7377debef86620"
+    "derived_sha256": "cab6fd43e78d2915ef4591ae402348da3a9332c4691c088af545d580c46ff681"
   },
   "cast/randy/proud.png": {
     "eye_center": [
       520,
       370
     ],
-    "scale": 0.52,
+    "scale": 0.754,
     "target_eye": [
-      400,
-      225
+      800,
+      274
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.52,
+    "group_multiplier": 1.45,
     "source_alpha_bbox": [
       84,
       59,
       945,
       1511
     ],
+    "derived_alpha_bbox": [
+      471,
+      40,
+      1120,
+      1134
+    ],
     "offset": [
-      130,
-      33
+      408,
+      -5
     ],
     "resampling": "lanczos",
     "source_sha256": "73fc032296671a8832d241ba5ddb2bc9e0346c811fb5168feb984c1f64cb7719",
-    "derived_sha256": "788a84f9a396e558dcf042ebb641e712f83849ab869c2fb3d04af0f9d61bdd4e"
+    "derived_sha256": "56e96960ab73483c13b1c705fb22274684710cfef8778bf971b30235d146a04b"
   },
   "cast/randy/confused.png": {
     "eye_center": [
       520,
       370
     ],
-    "scale": 0.52,
+    "scale": 0.754,
     "target_eye": [
-      400,
-      225
+      800,
+      274
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.52,
+    "group_multiplier": 1.45,
     "source_alpha_bbox": [
       86,
       60,
       952,
       1508
     ],
+    "derived_alpha_bbox": [
+      473,
+      40,
+      1126,
+      1132
+    ],
     "offset": [
-      130,
-      33
+      408,
+      -5
     ],
     "resampling": "lanczos",
     "source_sha256": "ce1a6116f3088240fb71a4a328162143238bfa298da16faf36b7db65eb454dbf",
-    "derived_sha256": "0b36b30595fe2cb370a728c7b2535bae2244cabda7d1b32298c7db7c798dee8a"
+    "derived_sha256": "a08d408c506507c058e440f17eaba0cf239a70dd0881958ad81cba0e3ed9dba0"
   },
   "cast/randy/panicked.png": {
     "eye_center": [
       520,
       370
     ],
-    "scale": 0.52,
+    "scale": 0.754,
     "target_eye": [
-      400,
-      225
+      800,
+      274
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.52,
+    "group_multiplier": 1.45,
     "source_alpha_bbox": [
       71,
       51,
       953,
       1503
     ],
+    "derived_alpha_bbox": [
+      462,
+      33,
+      1126,
+      1128
+    ],
     "offset": [
-      130,
-      33
+      408,
+      -5
     ],
     "resampling": "lanczos",
     "source_sha256": "db87b3aedaf582c1a79dc765b4a042898c2ffe42cc8826e33f47ae9f9d00c5d2",
-    "derived_sha256": "30936b87dc41e676fb0b9562692421678dac1734e58334972f7cfbc89b3f7c14"
+    "derived_sha256": "a33c36988ff7048475ae1502684e07e0a6042433b96ad946e337627b0fca9076"
   },
   "cast/strange/explaining.png": {
     "eye_center": [
       510,
       220
     ],
-    "scale": 0.55,
+    "scale": 0.649,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.18,
     "source_alpha_bbox": [
       39,
       19,
       1011,
       1516
     ],
+    "derived_alpha_bbox": [
+      494,
+      169,
+      1126,
+      1141
+    ],
     "offset": [
-      120,
-      79
+      469,
+      157
     ],
     "resampling": "lanczos",
     "source_sha256": "563a27690df19f53f4b27925abceb8262d710b12ec747d4199ed966f82807a64",
-    "derived_sha256": "fbd72460061dadfa665005e8bc6f849d6ec4b1522a32001f3d9e875b1c4cac9f"
+    "derived_sha256": "864f12fdc4bd1b139e1186c37c1e8ad130d14e15e3058456d0bf8f44ced794fb"
   },
   "cast/strange/magic.png": {
     "eye_center": [
       510,
       220
     ],
-    "scale": 0.55,
+    "scale": 0.649,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.18,
     "source_alpha_bbox": [
       40,
       19,
       1011,
       1496
     ],
+    "derived_alpha_bbox": [
+      495,
+      169,
+      1125,
+      1128
+    ],
     "offset": [
-      120,
-      79
+      469,
+      157
     ],
     "resampling": "lanczos",
     "source_sha256": "77736ce2441ac23f20589f5de193e3bff4ba278d04fd1888fe50bc61ca38388a",
-    "derived_sha256": "0313f61a70572e2b0294e259604c9555d75f8765c2dc59f7f6c31759e609d1dc"
+    "derived_sha256": "e1e1435acc84d167e7da16c5f722bf2207868cea4713e60c7a0ec9c8894ce70b"
   },
   "cast/susan/base.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       123,
       10,
       977,
       1536
     ],
+    "derived_alpha_bbox": [
+      554,
+      160,
+      1096,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "26d13eb58f299d9a9df5e68fd1a94c0812fcb86de728c205f69fc94b33495923",
-    "derived_sha256": "b45b7c8aa521cd27a018fe3e647152076a5339b57085c38a98ed4db9780644a4"
+    "derived_sha256": "1af9cd260b2e3bf05c2c5bdff21190abfbe171f5b5dc23beb312d74090eb130e"
   },
   "cast/susan/worried.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       183,
       9,
       811,
       1536
     ],
+    "derived_alpha_bbox": [
+      592,
+      160,
+      991,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "16a97ef63f5c1bdffd2fb8aedb16dd79cc5272b386eb8ce3c42809b760c1af3a",
-    "derived_sha256": "755796447239c58f234024954b1b7a92a77b003bcfebd742e9e470aa17d4af27"
+    "derived_sha256": "0e073dc4841a3465ca4af995b09a049e5c8ff39938324238a73558efd9ab17db"
   },
   "cast/susan/relieved.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       178,
       10,
       881,
       1536
     ],
+    "derived_alpha_bbox": [
+      589,
+      161,
+      1035,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "3dd087d16ba509025ce275c1f3e75c7ef78432f0db9c79340126cdc09979d568",
-    "derived_sha256": "37e8b4c4cef3123b0cb7a3ccc5777953429756a3fd3164ce95d47b4e6d329ad1"
+    "derived_sha256": "5a0f78ce2a6a2bfc45536ac6bdb118ab2d2e94f3cc77607d370838c5e0395440"
   },
   "cast/susan/serious.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       3,
       9,
       931,
       1536
     ],
+    "derived_alpha_bbox": [
+      555,
+      159,
+      1065,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "02c670beccbf0582bc14516a3d27f8a1f7c72e63681ee8f9dab7a215cd8274a2",
-    "derived_sha256": "9adb98075345e4120f5a95c8d2deb7a9579f30ae0f0f75e6ff3151245df7b6c4"
+    "derived_sha256": "578e310e2d23f891ac3276164928d1c71dedc99c49933cb8379330731d83a2cc"
   },
   "cast/villager/neutral.png": {
     "eye_center": [
       570,
       430
     ],
-    "scale": 0.5,
+    "scale": 0.716,
     "target_eye": [
-      400,
-      200
+      800,
+      350
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.5,
+    "group_multiplier": 1.432,
     "source_alpha_bbox": [
       125,
       80,
       977,
       1517
     ],
+    "derived_alpha_bbox": [
+      481,
+      99,
+      1091,
+      1128
+    ],
     "offset": [
-      115,
-      -15
+      392,
+      42
     ],
     "resampling": "nearest",
     "source_sha256": "1093290b818a1cce2d3c9384ea67d6c59bd49e0fbd863ce1f4d251db44ea615c",
-    "derived_sha256": "1aa8e80c77293879356cf9ac460639639d1b79c5ca93442ff2d0b1280e3c6c5a"
+    "derived_sha256": "1661b33c7562239b93dfaf8a384344ef2d4085606e880badf43b183919698435"
   },
   "cast/villager/trade.png": {
     "eye_center": [
       570,
       430
     ],
-    "scale": 0.5,
+    "scale": 0.716,
     "target_eye": [
-      400,
-      200
+      800,
+      350
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.5,
+    "group_multiplier": 1.432,
     "source_alpha_bbox": [
       125,
       77,
       978,
       1519
     ],
+    "derived_alpha_bbox": [
+      481,
+      97,
+      1092,
+      1130
+    ],
     "offset": [
-      115,
-      -15
+      392,
+      42
     ],
     "resampling": "nearest",
     "source_sha256": "5e592cdfcb75df666a2da78f09c3d8ee7b8cd4e7b7b2b3b9d89c7a598ef9da57",
-    "derived_sha256": "b78bb7f71f1056f37d80b50c0fd36563142c7cf874696b0a2fa50f12d4d74b42"
+    "derived_sha256": "435a108a799c78258f42cb1f3a3aaef218a2ad1ba759b354b6bda2dc625bc4fb"
   },
   "cast/wong/neutral.png": {
     "eye_center": [
       600,
       200
     ],
-    "scale": 0.55,
+    "scale": 0.61985,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.127,
     "source_alpha_bbox": [
       89,
       15,
       951,
       1536
     ],
+    "derived_alpha_bbox": [
+      483,
+      185,
+      1018,
+      1128
+    ],
     "offset": [
-      70,
-      90
+      428,
+      176
     ],
     "resampling": "lanczos",
     "source_sha256": "086ed78209d3b139178bcf80b4f00003e64ddadfc17cd946ee5e2548dc77d13c",
-    "derived_sha256": "966c6c5de6c8feb07c54b59c43cd8569b49b01e96135e1d7996685ba59947861"
+    "derived_sha256": "15316c0bf65918528f66c0f053f204383a795f5a2e15d17c1bd8660a545e557f"
   },
   "cast/wong/skeptical.png": {
     "eye_center": [
       600,
       200
     ],
-    "scale": 0.55,
+    "scale": 0.61985,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.127,
     "source_alpha_bbox": [
       103,
       16,
       961,
       1536
     ],
+    "derived_alpha_bbox": [
+      492,
+      186,
+      1024,
+      1128
+    ],
     "offset": [
-      70,
-      90
+      428,
+      176
     ],
     "resampling": "lanczos",
     "source_sha256": "2b051aff4038728df42a15736ef77c0be3eeeb5f3e3e6453b890ffb1fa40b833",
-    "derived_sha256": "2ab8b9e64112d101d019a08ee2b751a176f996369e965cff4731af2d38d5b0a8"
+    "derived_sha256": "bf183a5e509cd49e35aea35eddd3696324be8884d17d16ee5ed668486529f505"
   },
   "cast/wong/approving.png": {
     "eye_center": [
       600,
       200
     ],
-    "scale": 0.55,
+    "scale": 0.61985,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.55,
+    "group_multiplier": 1.127,
     "source_alpha_bbox": [
       59,
       14,
       959,
       1536
     ],
+    "derived_alpha_bbox": [
+      465,
+      185,
+      1023,
+      1128
+    ],
     "offset": [
-      70,
-      90
+      428,
+      176
     ],
     "resampling": "lanczos",
     "source_sha256": "5d9b0b83df66e8de43c64501413b473856fa6e334f448ba5f80cd7ca182955b1",
-    "derived_sha256": "902f20339a5d0f72f32c102a94a0ee2f2d3c1d9af1849040bfa60d1b070fad07"
+    "derived_sha256": "8a81ba6b3c66a3c97807b6c8d85480351e2edcc2fd674d49fe39438379e35a6b"
   },
   "olya/housewives/angry.png": {
     "eye_center": [
       500,
       235
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       33,
       21,
       1004,
       1536
     ],
+    "derived_alpha_bbox": [
+      503,
+      163,
+      1122,
+      1128
+    ],
     "offset": [
-      135,
-      75
+      482,
+      150
     ],
     "resampling": "lanczos",
     "source_sha256": "b7470670a75e13e314b0d38f2958fe853d65fb56297680e7f014d179bd832606",
-    "derived_sha256": "5ba6796fa32bbd2a9b59d1d07e2973afad8b01f550175b30b884090cded8c5ea"
+    "derived_sha256": "c46ffa6fd8501f8726e44fae389ae661901514c4556a6f188dbc327b2bac0297"
   },
   "olya/housewives/confused.png": {
     "eye_center": [
       500,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       16,
       21,
       1023,
       1536
     ],
+    "derived_alpha_bbox": [
+      492,
+      167,
+      1134,
+      1132
+    ],
     "offset": [
-      135,
-      78
+      482,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "39b754a0224018b9f20f73edbd2a2ee98c7bf3f41a7ee54f929f86a755011d78",
-    "derived_sha256": "649614eafca2d8bcaf1b441de055928d74c85b14c18caefa9986ae6cd0015509"
+    "derived_sha256": "cfd2279499b9a12648103a1bc64681057f9897d7285e134039c0747d38a2c84c"
   },
   "olya/housewives/gossip.png": {
     "eye_center": [
       500,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       152,
       21,
       876,
       1536
     ],
+    "derived_alpha_bbox": [
+      578,
+      167,
+      1040,
+      1132
+    ],
     "offset": [
-      135,
-      78
+      482,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "0422cad4db136042b8245f3e190b55dd6700a598cb3757b96c92acb81c7f4857",
-    "derived_sha256": "b6715a9ecb228ffb3b80f91d26094362dd72fdba8ba0538201c7edea9b48ee20"
+    "derived_sha256": "46e1cd27e72ef4ea8cc10be4923f7b0ea143c214664c9e346a9b8cdacc8629dc"
   },
   "olya/housewives/pie.png": {
     "eye_center": [
       540,
       210
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       125,
       17,
       905,
       1536
     ],
+    "derived_alpha_bbox": [
+      535,
+      177,
+      1033,
+      1144
+    ],
     "offset": [
-      114,
-      89
+      456,
+      166
     ],
     "resampling": "lanczos",
     "source_sha256": "4b4c35175b889d8b19bbe34d8f7303cedd5847ab67d801fff2c1e691068006b7",
-    "derived_sha256": "aaf16f6a00288590c1d5159bb746fd0f27ec56968f3ab83c80308aef9e1be981"
+    "derived_sha256": "dd13b693123b8cb3a0134fe19354a80f24844bfd3d14846b520eaba0f51338fa"
   },
   "olya/housewives/relief.png": {
     "eye_center": [
       500,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       87,
       21,
       980,
       1536
     ],
+    "derived_alpha_bbox": [
+      537,
+      167,
+      1106,
+      1132
+    ],
     "offset": [
-      135,
-      78
+      482,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "8aee6836ce999b9020c14219e08ddf134e981dbdb8ef5f42e441aae4640a235c",
-    "derived_sha256": "55ac893140ef983785d0356afdecddf04c7bbf98073fd239dde4557367d3c5e3"
+    "derived_sha256": "2acea5333962d4b84c3e44adee4d2305aaf1f35eab5a3315a72c72435a9e8da6"
   },
   "olya/housewives/scared.png": {
     "eye_center": [
       500,
       220
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       114,
       19,
       964,
       1536
     ],
+    "derived_alpha_bbox": [
+      554,
+      172,
+      1096,
+      1138
+    ],
     "offset": [
-      135,
-      83
+      482,
+      160
     ],
     "resampling": "lanczos",
     "source_sha256": "561e773c4649af29113ea7c9e3783185cf971f352bcf64e4aaf5fa46d78d3379",
-    "derived_sha256": "b6fe1b6955c54152fd57dd3ce2cbbb35107b392970b0a498542ca82e33c11858"
+    "derived_sha256": "84277bb7c87e891774ccb1d36d9868584772361553ba8f16c97b9e1dd031ead0"
   },
   "olya/housewives/thinking.png": {
     "eye_center": [
       500,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63653,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.201,
     "source_alpha_bbox": [
       162,
       20,
       881,
       1536
     ],
+    "derived_alpha_bbox": [
+      585,
+      167,
+      1043,
+      1132
+    ],
     "offset": [
-      135,
-      78
+      482,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "fdece76f53cc2078c48f60a299f108c418386e0dd85de671c0667b1f9458c445",
-    "derived_sha256": "2ae49668ee5f72173009c6b6d2ab21cfcf20a94870e17dd2c358d815947aad41"
+    "derived_sha256": "48e44b3d8727d4a9b6c2e8480b123cc55fb667ced85e7364af62d9518ca14a8d"
   },
   "olya/manhattan/neutral.png": {
     "eye_center": [
       500,
       220
     ],
-    "scale": 0.53,
+    "scale": 0.62964,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.188,
     "source_alpha_bbox": [
       154,
       24,
       966,
       1536
     ],
+    "derived_alpha_bbox": [
+      582,
+      176,
+      1094,
+      1128
+    ],
     "offset": [
-      135,
-      83
+      485,
+      161
     ],
     "resampling": "lanczos",
     "source_sha256": "ac391e2c9341417f98b44369d8e71794c4aa97567209c334b8e06ee6fed35773",
-    "derived_sha256": "b27f7563fbeb6fa30b5eab02bc9a7de0451549014a6b0d22906b7b7e64dbc617"
+    "derived_sha256": "63302e9c7f768efa70584c051ff5393e11298c7e481a421b9ca54887b574d696"
   },
   "olya/manhattan/confused.png": {
     "eye_center": [
       500,
       220
     ],
-    "scale": 0.53,
+    "scale": 0.62964,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.188,
     "source_alpha_bbox": [
       93,
       32,
       1014,
       1536
     ],
+    "derived_alpha_bbox": [
+      543,
+      181,
+      1124,
+      1128
+    ],
     "offset": [
-      135,
-      83
+      485,
+      161
     ],
     "resampling": "lanczos",
     "source_sha256": "38d205fb2b27758f8d84f595d370c72b03da6d870d03719cc8d9ea46e02e6515",
-    "derived_sha256": "caf4477a1532e520b16be0984aff31409f52a01010665f5a6e8f1f0e04b025f4"
+    "derived_sha256": "075eecb1b8afde5bc0a2b2c702418585c998b4625e52a6128a76e89705e8bdb3"
   },
   "olya/manhattan/happy.png": {
     "eye_center": [
       500,
       220
     ],
-    "scale": 0.53,
+    "scale": 0.62964,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.188,
     "source_alpha_bbox": [
       162,
       29,
       1011,
       1536
     ],
+    "derived_alpha_bbox": [
+      606,
+      179,
+      1122,
+      1128
+    ],
     "offset": [
-      135,
-      83
+      485,
+      161
     ],
     "resampling": "lanczos",
     "source_sha256": "c6d6979e32d26a69009666acc38757a0df11da0d8c41db51f046e59caa7f8943",
-    "derived_sha256": "9b33b308bac015bde61068b97d683aa8409780bbcf8930612054e14fa6d644e9"
+    "derived_sha256": "e62e04832d575b5a10b1840f45285d05b6a4ccff1fa21d4dedcad5790698fb09"
   },
   "olya/manhattan/ironic.png": {
     "eye_center": [
       500,
       220
     ],
-    "scale": 0.53,
+    "scale": 0.62964,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.188,
     "source_alpha_bbox": [
       164,
       23,
       924,
       1536
     ],
+    "derived_alpha_bbox": [
+      588,
+      176,
+      1067,
+      1128
+    ],
     "offset": [
-      135,
-      83
+      485,
+      161
     ],
     "resampling": "lanczos",
     "source_sha256": "0efaf111e3a32b62df86998b91de615b7eb5502d15b61346e4e4e23dc94c7344",
-    "derived_sha256": "be04b4f985da6b747a567ea6a5d537913e950decacfab508cd3ddc43fa7001fe"
+    "derived_sha256": "8d2fe239e99b084bc445797115a635eaa9a1ae14fb60fcbd83cfdd662a1ffd8f"
   },
   "olya/marvel/neutral.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       166,
       18,
       989,
       1536
     ],
+    "derived_alpha_bbox": [
+      581,
+      165,
+      1104,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "ca7d39bf8b2e0716f70f06bec227b6e26e270f85cd374f6984e671155312798f",
-    "derived_sha256": "376a7f9497117807fff4a77f03599bd895e1a4163943f9edf0e8a1f96b2d3641"
+    "derived_sha256": "e6b5e0db6befad1ad84cfa857a4fcc3c05ee7a3df61b5766696d6bc84972bbd0"
   },
   "olya/marvel/confused.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       90,
       5,
       1010,
       1536
     ],
+    "derived_alpha_bbox": [
+      533,
+      157,
+      1117,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "f4b118ee7766dabfd4511eab6a7be508c56187aba9d23580954f75d10849458c",
-    "derived_sha256": "dd4696ddd24e96a8dd6e5653a2af55f893ccc82789b7bc37aecdc7a54b05ee54"
+    "derived_sha256": "efa7f58be25668bd7fc41e64488ca9b023f930914a22d947085014d6be07892e"
   },
   "olya/marvel/power.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       72,
       15,
       1024,
       1536
     ],
+    "derived_alpha_bbox": [
+      522,
+      163,
+      1126,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "40ea046bb003d9433a39073a65fa15f54bf398981d37be78e6e95d7f2e8a26a9",
-    "derived_sha256": "0b555277d5c43e59b8b3960f759815bf4c0e1df747d92ef9993a608a12b3bb61"
+    "derived_sha256": "f3c9fa485901c07bb3165fc7b50857a5a004cb57869b94b855e320125e3cb6be"
   },
   "olya/marvel/scared.png": {
     "eye_center": [
       510,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       119,
       10,
       1000,
       1536
     ],
+    "derived_alpha_bbox": [
+      551,
+      160,
+      1111,
+      1128
+    ],
     "offset": [
-      130,
-      78
+      476,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "e7bb8339535502e06f7c311e51f4e25e47e8280997e28f1f7116baea1db192ee",
-    "derived_sha256": "5f81e9f7f55bd11d73a7ee2cc8917fa3c24c27b4e0b1e5a50f36997f358a6f9a"
+    "derived_sha256": "c2f712fffaadbb5fb99e6b73f30564396c5a1a274ece37de21dffcd656d8cff3"
   },
   "olya/minecraft/confused.png": {
     "eye_center": [
       520,
       370
     ],
-    "scale": 0.48,
+    "scale": 0.73632,
     "target_eye": [
-      400,
-      200
+      800,
+      350
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.48,
+    "group_multiplier": 1.534,
     "source_alpha_bbox": [
       185,
       29,
       868,
       1536
     ],
+    "derived_alpha_bbox": [
+      553,
+      99,
+      1056,
+      1209
+    ],
     "offset": [
-      150,
-      22
+      417,
+      78
     ],
     "resampling": "nearest",
     "source_sha256": "a64f1506dcf1d61044d2b320f246622a4c24ef98d0704ae3f060e4d642e2b186",
-    "derived_sha256": "b3ab521497479a5a722999ad480715e535f704ece43a615d48358c54513a66ce"
+    "derived_sha256": "e3128fe57c3b69d827eb4ed3c0b831b43e617d5937618146e83206e13617f2a0"
   },
   "olya/minecraft/pickaxe.png": {
     "eye_center": [
       560,
       555
     ],
-    "scale": 0.68,
+    "scale": 1.04312,
     "target_eye": [
-      400,
-      200
+      800,
+      350
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.68,
+    "group_multiplier": 1.534,
     "source_alpha_bbox": [
       102,
       309,
       902,
       1301
     ],
+    "derived_alpha_bbox": [
+      322,
+      93,
+      1157,
+      1128
+    ],
     "offset": [
-      19,
-      -177
+      216,
+      -229
     ],
     "resampling": "nearest",
     "source_sha256": "649f807081d63a0218920a8608772e63700c25b33225973167274ecdf1c76fe0",
-    "derived_sha256": "e8647578afa5c08805d65b368381c57e9d75b164b6aa996b4bb92c15dffed36a"
+    "derived_sha256": "4aac7da3ff32d51b1b705f187a24236491add98eddaca4b3e02f32fd37ef3d66"
   },
   "olya/minecraft/scared.png": {
     "eye_center": [
       530,
       360
     ],
-    "scale": 0.48,
+    "scale": 0.73632,
     "target_eye": [
-      400,
-      200
+      800,
+      350
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.48,
+    "group_multiplier": 1.534,
     "source_alpha_bbox": [
       111,
       47,
       1007,
       1508
     ],
+    "derived_alpha_bbox": [
+      492,
+      120,
+      1151,
+      1195
+    ],
     "offset": [
-      146,
-      27
+      410,
+      85
     ],
     "resampling": "nearest",
     "source_sha256": "9191cab6138719b226b7369466ddfcb61d3060c4b6c10dd1ca8def9a7c3ee3a0",
-    "derived_sha256": "cf61b428051f41fd890604874cb1f1da5069d27d87bfca12a99063b632f9da7a"
+    "derived_sha256": "03b5d551367e7b74101fe036918274473dc63b35c35905e60db59e804eaab481"
   },
   "olya/office/neutral.png": {
     "eye_center": [
       520,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       167,
       33,
       893,
       1536
     ],
+    "derived_alpha_bbox": [
+      576,
+      175,
+      1037,
+      1128
+    ],
     "offset": [
-      124,
-      78
+      470,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "59fdd1f5bdf5fa4ab0b210a5e6438c85ae22c57ddc5aacd4a66b02cee0db3f13",
-    "derived_sha256": "d2c30d5402b94f95aa11bee3e7e5fa15060ffbaa7af1b3ed370b417f98f6fb86"
+    "derived_sha256": "745de74d05ddb71edf2b63f484e2ba0626d4694927d4e8f7ef9d2d7a94f83cc3"
   },
   "olya/office/angry.png": {
     "eye_center": [
       520,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       102,
       22,
       967,
       1536
     ],
+    "derived_alpha_bbox": [
+      535,
+      168,
+      1084,
+      1128
+    ],
     "offset": [
-      124,
-      78
+      470,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "c1b11cb4be05bc4cbae914df9b8f0aac7d41094ebaf2589c78a40ce92f6867ee",
-    "derived_sha256": "96c4d3408fe8082d85ca6065c13914e376efd0f44476c634598d7f2d321b2ac5"
+    "derived_sha256": "b5aeb23c223b6b85e0902f2aa2019fbac992b8798ceb94b97140d749c603c48e"
   },
   "olya/office/happy.png": {
     "eye_center": [
       520,
       225
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       16,
       25,
       1019,
       1536
     ],
+    "derived_alpha_bbox": [
+      480,
+      173,
+      1117,
+      1131
+    ],
     "offset": [
-      124,
-      81
+      470,
+      157
     ],
     "resampling": "lanczos",
     "source_sha256": "995eebf24c5169e73da3da54de73e0eae04ea06191026a4cfc9360ddd4659b5a",
-    "derived_sha256": "b26745313dcbc6801e49b6f44b98798b032c909f2f2b71c5aa46ac7b03a598b8"
+    "derived_sha256": "b6b77cc0acfab02600e378327aa79fb8192421fafbc7bbb0ed571733f6ffb7bb"
   },
   "olya/office/scared.png": {
     "eye_center": [
       500,
       210
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       138,
       11,
       912,
       1536
     ],
+    "derived_alpha_bbox": [
+      571,
+      174,
+      1062,
+      1141
+    ],
     "offset": [
-      135,
-      89
+      483,
+      167
     ],
     "resampling": "lanczos",
     "source_sha256": "eeaa83ed5d081d280efeb787fbfecbae405e5036f4f10e54136cccbbe1feb0f4",
-    "derived_sha256": "e5456b96e9648ec0583d4ad94e96771cfc419cfd9dd09ea72b309d84b02d4c1f"
+    "derived_sha256": "f418def05786e9f2326dd6e759b5117ee2beb2bf2fa660907429e7900560d8f4"
   },
   "olya/office/skeptical.png": {
     "eye_center": [
       520,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       240,
       24,
       899,
       1536
     ],
+    "derived_alpha_bbox": [
+      622,
+      169,
+      1041,
+      1128
+    ],
     "offset": [
-      124,
-      78
+      470,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "1ce055c5e1a7437ea249b545f65404f81074e56b469565b14cbc0f0d9292e463",
-    "derived_sha256": "e1b453b3f4e476d2c8f957065f6319dcff7a71010ea4201807e615748a8e5360"
+    "derived_sha256": "3b991319aedcfc154bd35c75c7fe381623f99f13285470018e0a34d191c544aa"
   },
   "olya/office/sleepy.png": {
     "eye_center": [
       520,
       230
     ],
-    "scale": 0.53,
+    "scale": 0.63441,
     "target_eye": [
-      400,
-      200
+      800,
+      300
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.53,
+    "group_multiplier": 1.197,
     "source_alpha_bbox": [
       233,
       29,
       844,
       1536
     ],
+    "derived_alpha_bbox": [
+      618,
+      172,
+      1006,
+      1128
+    ],
     "offset": [
-      124,
-      78
+      470,
+      154
     ],
     "resampling": "lanczos",
     "source_sha256": "03989dbd5c8617d2442ce5e871834a30b00304cc5db06f515155e40a38e1a90e",
-    "derived_sha256": "1cc83e07df8e514f16a5ca306ca6d61a4c8838d26f8f431b2622aebd642ded82"
+    "derived_sha256": "e2bb56bba5bf6a93cc30486b25595534932e0afb15f282a8dfc27ab234ee2848"
   },
   "olya/sims/neutral.png": {
     "eye_center": [
       520,
       350
     ],
-    "scale": 0.62,
+    "scale": 0.66464,
     "target_eye": [
-      400,
-      240
+      800,
+      340
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.62,
+    "group_multiplier": 1.072,
     "source_alpha_bbox": [
       112,
       19,
       926,
       1536
     ],
+    "derived_alpha_bbox": [
+      528,
+      119,
+      1070,
+      1128
+    ],
     "offset": [
-      78,
-      23
+      454,
+      107
     ],
     "resampling": "lanczos",
     "source_sha256": "3275f462602b581c43e486b28de2e8a9e92be105fba52859d807e0adda379a11",
-    "derived_sha256": "9d90c03a3a9cacd05cda3f930ba857c6a6638f2bc092750a05736b6b947025af"
+    "derived_sha256": "a8169dab71cabd76965393ef340b73f97db37ee35c793a6850581f15f75df197"
   },
   "olya/sims/confused.png": {
     "eye_center": [
       520,
       350
     ],
-    "scale": 0.62,
+    "scale": 0.66464,
     "target_eye": [
-      400,
-      240
+      800,
+      340
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.62,
+    "group_multiplier": 1.072,
     "source_alpha_bbox": [
       64,
       11,
       995,
       1536
     ],
+    "derived_alpha_bbox": [
+      496,
+      114,
+      1116,
+      1128
+    ],
     "offset": [
-      78,
-      23
+      454,
+      107
     ],
     "resampling": "lanczos",
     "source_sha256": "e0fc41ae00cf30d44b57007c789d0270cb5f5103d54e4d7c3b75b5c724e51f5a",
-    "derived_sha256": "c607e412d2e04ce27600518ae6e2dc8c75b22b9de6390a0920b024e55b60ccc4"
+    "derived_sha256": "adf18e63c7d92e0a9ae6f3ee4917250852ee80585e602777f9debac444bc684c"
   },
   "olya/sims/happy.png": {
     "eye_center": [
       520,
       350
     ],
-    "scale": 0.62,
+    "scale": 0.66464,
     "target_eye": [
-      400,
-      240
+      800,
+      340
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.62,
+    "group_multiplier": 1.072,
     "source_alpha_bbox": [
       184,
       12,
       902,
       1536
     ],
+    "derived_alpha_bbox": [
+      576,
+      115,
+      1054,
+      1128
+    ],
     "offset": [
-      78,
-      23
+      454,
+      107
     ],
     "resampling": "lanczos",
     "source_sha256": "2c00efe24b9180c7a085a75663becaa2291093a6346f6b74976cf9ab34754731",
-    "derived_sha256": "25c91e11afbb95ebe01ac4a5624537408ecefa06babb459c795159ee3189e3a4"
+    "derived_sha256": "a30de6c2436ba1d71c4675c1c825bd339d0c7f0e31604fc63ddefaf88267e8ef"
   },
   "olya/sims/panic.png": {
     "eye_center": [
       520,
       350
     ],
-    "scale": 0.62,
+    "scale": 0.66464,
     "target_eye": [
-      400,
-      240
+      800,
+      340
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.62,
+    "group_multiplier": 1.072,
     "source_alpha_bbox": [
       145,
       17,
       936,
       1536
     ],
+    "derived_alpha_bbox": [
+      550,
+      118,
+      1077,
+      1128
+    ],
     "offset": [
-      78,
-      23
+      454,
+      107
     ],
     "resampling": "lanczos",
     "source_sha256": "35cf962477c97965603ab8c3945b87ecbc27ab5efdc47cc111980eab77aff864",
-    "derived_sha256": "84d3583cfd619dbcb8df57181727696a52b30672066b79111d93c47b4a926aed"
+    "derived_sha256": "3a6b752c7493929131688ec1026c2746e92032ff96a0e54fc56d366e9c10cf3b"
   },
   "olya/southpark/neutral.png": {
     "eye_center": [
       520,
       360
     ],
-    "scale": 0.48,
+    "scale": 0.76752,
     "target_eye": [
-      400,
-      225
+      800,
+      320
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.48,
+    "group_multiplier": 1.599,
     "source_alpha_bbox": [
       172,
       16,
       839,
       1504
     ],
+    "derived_alpha_bbox": [
+      533,
+      56,
+      1045,
+      1198
+    ],
     "offset": [
-      150,
-      52
+      401,
+      44
     ],
     "resampling": "lanczos",
     "source_sha256": "db8e44e06b1cd3b8634a9a566739dbc1e81bb7ed833f9e3f89d9daf0689fbfbc",
-    "derived_sha256": "2d5b4ae9795ed0057fc2eb526f62dc03a4502922f944c116360f0a4623b31798"
+    "derived_sha256": "e615ba4b0a6961ac686dd73bb889b07161ac4f0c4a364c28cfddf175b4ded0fa"
   },
   "olya/southpark/angry.png": {
     "eye_center": [
       520,
       420
     ],
-    "scale": 0.48,
+    "scale": 0.76752,
     "target_eye": [
-      400,
-      225
+      800,
+      320
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.48,
+    "group_multiplier": 1.599,
     "source_alpha_bbox": [
       170,
       70,
       855,
       1473
     ],
+    "derived_alpha_bbox": [
+      531,
+      52,
+      1057,
+      1129
+    ],
     "offset": [
-      150,
-      23
+      401,
+      -2
     ],
     "resampling": "lanczos",
     "source_sha256": "80a9d06e7940616b5b393f39a4cda610f9db6dac0879d858cdfd249e25a9a3db",
-    "derived_sha256": "9ca687667e30e036c3d7ccd35cf083567e5eee815bcac7c383d78b72273d31fd"
+    "derived_sha256": "729d3f88efdbf2fb50a3513252aa4625b6d1e1897f0c5a3f133249c33079b936"
   },
   "olya/southpark/confused.png": {
     "eye_center": [
       520,
       380
     ],
-    "scale": 0.48,
+    "scale": 0.76752,
     "target_eye": [
-      400,
-      225
+      800,
+      320
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.48,
+    "group_multiplier": 1.599,
     "source_alpha_bbox": [
       102,
       91,
       945,
       1449
     ],
+    "derived_alpha_bbox": [
+      479,
+      98,
+      1126,
+      1140
+    ],
     "offset": [
-      150,
-      43
+      401,
+      28
     ],
     "resampling": "lanczos",
     "source_sha256": "b92e79027808c0cd9cd984209075c7a9b0ed745d2472dabfcb8d7ab05918d12e",
-    "derived_sha256": "db5e97120b9b3551c9ac0af959f0de3cf01c7aed35c073d58870f2d927279b55"
+    "derived_sha256": "59ac68ee30f3d0633008a1b9fa0de0549016ed7e4987ec784035ec9e51fae6bd"
   },
   "olya/southpark/scared.png": {
     "eye_center": [
       520,
       400
     ],
-    "scale": 0.48,
+    "scale": 0.76752,
     "target_eye": [
-      400,
-      225
+      800,
+      320
     ],
     "canvas": [
-      800,
-      880
+      1600,
+      1600
     ],
+    "reference_scale": 0.48,
+    "group_multiplier": 1.599,
     "source_alpha_bbox": [
       202,
       89,
       827,
       1461
     ],
+    "derived_alpha_bbox": [
+      556,
+      81,
+      1036,
+      1135
+    ],
     "offset": [
-      150,
-      33
+      401,
+      13
     ],
     "resampling": "lanczos",
     "source_sha256": "b205e7d3492b9ee4bfcce1a9bb8449efd79f554d6e476f2578952c1c943bb0e7",
-    "derived_sha256": "7390adfe3e75d5353b16631b60299d1ba2b0ae0b41d05fcdd74dbd01893e5a0b"
+    "derived_sha256": "3de39cb7123783d65497cdc9a2469c8f54adbc16737d1f2becb644d57e46c02f"
   }
 }

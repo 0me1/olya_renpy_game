@@ -4,9 +4,10 @@ init -2 python:
 define config.check_conflicting_properties = True
 
 define config.name = "В порядке перевода"
-define config.version = "0.2.0"
+define config.version = "0.2.1"
 define config.save_directory = "olya-v-poryadke-perevoda"
 define config.window = "auto"
+define config.window_icon = "gui/window_icon.png"
 define config.rollback_enabled = True
 define config.has_autosave = True
 define config.has_quicksave = True
@@ -16,9 +17,10 @@ define config.history_length = 250
 define config.audio_filename_callback = None
 
 define build.name = "V_Poryadke_Perevoda"
-define build.directory_name = "V_Poryadke_Perevoda-0.2.0"
+define build.directory_name = "V_Poryadke_Perevoda-0.2.1"
 init python:
     build.classify('downloads/**', None)
+    build.classify('art_sources/**', None)
     build.classify('game/images/cast/**', None)
     build.classify('game/images/olya/**', None)
     build.classify('licenses/**', 'all')

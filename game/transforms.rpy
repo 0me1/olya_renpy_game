@@ -1,10 +1,14 @@
-# All poses have source-measured eye anchors on the same 800x880 dialogue canvas.
+# A fixed eye anchor is shared by dialogue, choices and panel-free scenes.
+# The transparent canvas extends below the viewport; actual silhouette cuts do too.
 transform left_actor:
-    xalign 0.12
-    ypos 40
+    xpos 0.30
+    xanchor 0.5
+    ypos 0
 transform right_actor:
-    xalign 0.88
-    ypos 40
+    xpos (0.76 if ui_world == "southpark" else 0.72)
+    xanchor 0.5
+    ypos 0
 transform center_actor:
-    xalign 0.5
-    ypos 40
+    xpos 0.5
+    xanchor 0.5
+    ypos 0

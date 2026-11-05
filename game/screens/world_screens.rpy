@@ -8,9 +8,9 @@ init python:
 screen say(who, what):
     window:
         id "window"
-        xpos 80 ypos 740 xsize 1760 ysize 280
-        background Transform(ui_asset("dialogue"), nearest=(ui_world == "minecraft"))
-        padding (100, 36, 130, 24)
+        xpos dialogue_box()[0] ypos dialogue_box()[1] xsize dialogue_box()[2] ysize dialogue_box()[3]
+        background themed_frame("dialogue", 50, 24)
+        padding ((60 if ui_world == "southpark" else 100), 12, (40 if ui_world == "southpark" else 130), 12)
         text what:
             id "what"
             color ui_ink()
@@ -19,7 +19,7 @@ screen say(who, what):
             line_spacing 6
     if who is not None:
         frame:
-            xpos 120 ypos 682 xsize 560 ysize 76
+            xpos 120 ypos (dialogue_box()[1] - 58) xsize 560 ysize 76
             background themed_frame("name", 40, 15)
             padding (40, 12)
             text who:
@@ -28,29 +28,43 @@ screen say(who, what):
                 font theme_font("label")
                 size theme_size("label")
                 yalign 0.5
-    add ui_asset("next") xpos 1750 ypos 954
+    add ui_asset("next") xpos (dialogue_box()[0] + dialogue_box()[2] - 90) ypos 966
     use quick_menu
 
+screen lower_backdrop():
+    add ui_asset("dialogue") id "choice_backdrop" xpos dialogue_box()[0] ypos dialogue_box()[1] xsize dialogue_box()[2] ysize dialogue_box()[3] nearest (ui_world == "minecraft")
+
+screen choice_card(item, count):
+    textbutton item.caption:
+        action item.action
+        xsize choice_dimensions(count)[0]
+        ysize choice_dimensions(count)[1]
+        padding (24, (8 if ui_world == "southpark" else 12))
+        background themed_frame("choice_idle", 35, 25)
+        hover_background themed_frame("choice_hover", 35, 25)
+        activate_background themed_frame("choice_pressed", 35, 25)
+        selected_background themed_frame("choice_selected", 35, 25)
+        insensitive_background themed_frame("choice_disabled", 35, 25)
+        text_color ui_ink()
+        text_hover_color ("#ffffff" if ui_world == "storybook" else ui_ink())
+        text_font theme_font("label")
+        text_size choice_label_size(count)
+        text_xalign 0.5
+        text_yalign 0.5
+        text_text_align 0.5
+
 screen choice(items):
-    vbox:
-        xalign 0.5 yalign 0.42 spacing 18
-        for item in items:
-            textbutton item.caption:
-                action item.action
-                xsize 1160
-                yminimum 104
-                padding (60, 20)
-                background themed_frame("choice_idle", 35, 25)
-                hover_background themed_frame("choice_hover", 35, 25)
-                activate_background themed_frame("choice_pressed", 35, 25)
-                selected_background themed_frame("choice_selected", 35, 25)
-                insensitive_background themed_frame("choice_disabled", 35, 25)
-                text_color ui_ink()
-                text_hover_color ("#ffffff" if ui_world == "storybook" else ui_ink())
-                text_font theme_font("label")
-                text_size theme_size("label")
-                text_xalign 0.5
-                text_text_align 0.5
+    use lower_backdrop
+    if ui_world == "southpark":
+        vbox:
+            xpos 96 ypos 710 spacing 6
+            for item in items:
+                use choice_card(item, len(items))
+    else:
+        hbox:
+            xalign 0.5 ypos 830 spacing 24
+            for item in items:
+                use choice_card(item, len(items))
     use quick_menu
 
 screen quick_menu():

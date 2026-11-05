@@ -15,3 +15,18 @@ init -1 python:
         return theme_spec()[role + "_size"]
     def themed_frame(name, left, top):
         return Transform(Frame(ui_asset(name), left, top), nearest=(store.ui_world == "minecraft"))
+
+
+init python:
+    def dialogue_box():
+        # Short South Park portraits need a clear right-hand column, so their
+        # natural scale is preserved instead of enlarging a child's face.
+        return (80, 700, 900, 320) if store.ui_world == "southpark" else (80, 820, 1760, 200)
+    def dialogue_text_area(theme):
+        return (800, 296) if theme == "southpark" else (1530, 176)
+    def choice_dimensions(count, theme=None):
+        if (theme or store.ui_world) == "southpark":
+            return (868, int((300 - 6 * (count - 1)) / count))
+        return (int((1720 - 24 * (count - 1)) / count), 180)
+    def choice_label_size(count, theme=None):
+        return THEMES.get(theme or store.ui_world, THEMES["storybook"])["label_size"] - (4 if count >= 3 else 0)

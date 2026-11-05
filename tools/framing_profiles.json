@@ -1,0 +1,97 @@
+{
+  "cast/bella": {
+    "eye_y": 340,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/bree": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/carrie": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/cartman": {
+    "eye_y": 670,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/gabrielle": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/kyle": {
+    "eye_y": 650,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/miranda": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/randy": {
+    "eye_y": 270,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/strange": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/susan": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/villager": {
+    "eye_y": 350,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "cast/wong": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "olya/housewives": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "olya/manhattan": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "olya/marvel": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "olya/minecraft": {
+    "eye_y": 350,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "olya/office": {
+    "eye_y": 300,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "olya/sims": {
+    "eye_y": 340,
+    "head_margin": 32,
+    "cut_y": 1128
+  },
+  "olya/southpark": {
+    "eye_y": 320,
+    "head_margin": 32,
+    "cut_y": 1128
+  }
+}
